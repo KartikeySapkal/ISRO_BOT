@@ -28,7 +28,10 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
     - Scrape mission-related data from:
       - [Mars Mission](https://www.issdc.gov.in/marsmission.html)
       - [Chandrayaan 3 Mission](https://www.issdc.gov.in/isda_pds.html)
-  - **Link**: [Scraping Guide](https://example.com/scraping-guide)
+  - **What tools you can you for scrapping?**:
+  -  [Scrapy]([https://example.com/scraping-guide](https://scrapy.org/))
+  -  [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+  -  [selenium](https://www.selenium.dev/)
 </details>
 
 <details>
@@ -59,8 +62,8 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
   <summary>Task 4: Dockerizing the Chatbot</summary>
 
   - **Description**: Containerize the chatbot and model for seamless deployment.
-  - **Assigned To**: [DevOps Team](https://github.com/devopsteam)
-  - **Link**: [Docker Setup Guide](https://example.com/docker-guide)
+  - **Assigned To**: [DevOps Team](update_soon
+  - **Link**: [Docker Setup Guide](update_soon
 </details>
 
 <details>
