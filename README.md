@@ -82,7 +82,7 @@
 ---
 ## Mission Specialists 🚀 
 
-Thanks to all the amazing contributors who helping build ISRO_BOT! 🙌
+Thanks to all the amazing contributors who are helping build this amazing ISRO_BOT! 🙌
 and Counting...
 
 <table>
