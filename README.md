@@ -1,7 +1,3 @@
-# ISRO_BOT
-
-
----
 
 # ISRO_BOT
 
