@@ -129,6 +129,13 @@ and Counting...
         <sub><b>Viraj Mandlik</b></sub>
       </a>
     </td>
+       <td align="center">
+      <a href="https://github.com/SanjayM1512">
+        <img src="https://avatars.githubusercontent.com/SanjayM1512" width="100px" style="border-radius: 50%;" alt="Viraj Mandlik"/>
+        <br />
+        <sub><b>Viraj Mandlik</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
