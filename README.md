@@ -1,24 +1,4 @@
-Got it! Based on your project setup, here's a more detailed `README.md` file that includes tasks such as scraping or other assignments. You can add more tasks as needed.
-
-### `README.md` Example with Task Dropdowns
-
-```markdown
-# ISRO_BOT 🚀
-Welcome to the ISRO_BOT project, a chatbot for researchers, students, and teachers that provides highly detailed space-related information. The chatbot is built using Ollama 3.1, fine-tuned with data from ISRO, NASA, SpaceX, and other sources. The model has been containerized using Docker for easy deployment.
-
-## 🎯 Project Purpose
-This bot aims to offer research insights and real-time space data, surpassing general LLMs by providing niche and custom information.
-
-## 🚀 Getting Started
-To launch the bot, follow these steps:
-
-1. Clone this repository.
-2. Ensure Docker is installed on your system.
-3. Run the Docker container using the following command:
-   ```bash
-   docker-compose up --build
-   ```
-4. Access the chatbot at `http://localhost:5000` once the server starts.
+#ISRO_BOT
 
 ## 📋 Available Tasks
 
@@ -54,6 +34,24 @@ To launch the bot, follow these steps:
   - **Link**: [Documentation Template](https://example.com/docs-template)
 </details>
 
+### Project Underway:
+```markdown
+# ISRO_BOT 🚀
+Welcome to the ISRO_BOT project, a chatbot for researchers, students, and teachers that provides highly detailed space-related information. The chatbot is built using Ollama 3.1, fine-tuned with data from ISRO, NASA, SpaceX, and other sources. The model has been containerized using Docker for easy deployment.
+
+## 🎯 Project Purpose
+This bot aims to offer research insights and real-time space data, surpassing general LLMs by providing niche and custom information.
+
+## 🚀 Getting Started
+To launch the bot, follow these steps:
+
+1. Clone this repository.
+2. Ensure Docker is installed on your system.
+3. Run the Docker container using the following command:
+   ```bash
+   docker-compose up --build
+   ```
+4. Access the chatbot at `http://localhost:5000` once the server starts.
 ## 🤝 Contributing
 We welcome contributions! Please check the [contribution guidelines](CONTRIBUTING.md) to get started.
 
