@@ -11,7 +11,7 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
 <details>
   <summary>Task 1: Data Scraping from Space Websites</summary>
 
-  - **Description**: Scrape space-related articles, missions, and datasets from ISRO, NASA, SpaceX, and other sources.
+  - **Description**: Scrape space-related articles, missions, and datasets from ISRO, NASA, SpaceX, and other sources Convert into text file for fine tunning model.
   - **Assigned To**: [Research Team](github_id_link
   - **Subtask: ISRO Launcher Data Scraping**:
     - Scrape launcher-related content from:
@@ -48,6 +48,8 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
     - [Ignition Book](https://library.sciencemadness.org/library/books/ignition.pdf)
     - [Orbital Mechanics for Engineering Students](https://www.hlevkin.com/hlevkin/90MathPhysBioBooks/Mechanics/Curtis_OrbitamMechForEngineeringStudents.pdf)
     - [NASA Document](https://ntrs.nasa.gov/api/citations/19710019929/downloads/19710019929.pdf)
+    - **What tool can be used?** :
+    - pyPDF2 (Python library)
 </details>
 
 <details>
