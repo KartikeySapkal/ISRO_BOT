@@ -87,6 +87,13 @@ and Counting...
 
 <table>
   <tr>
+      <td align="center">
+      <a href="https://github.com/AdityaSawleshwarkar">
+        <img src="https://avatars.githubusercontent.com/AdityaSawleshwarkar" width="100px" style="border-radius: 50%;" alt="Aditya Sawleshwarkar"/>
+        <br />
+        <sub><b>Aditya Sawleshwarkar</b></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/venkatsubash2003">
         <img src="https://avatars.githubusercontent.com/venkatsubash2003" width="100px" style="border-radius: 50%;" alt="Venkat Sai Subash"/>
