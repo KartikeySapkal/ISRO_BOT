@@ -14,6 +14,8 @@
   - **Assigned To**: [Research Team](github_id_link
   - **Subtask: ISRO Launcher Data Scraping**:
     - Scrape launcher-related content from:
+    - To scrape data from above LPSC Citation you need to copy the title of research paper and then scrape the research paper **.pdf** it's probably in pdf formate on website 
+      - [Lpsc_citation](https://www.lpsc.gov.in/publications.html) 
       - [PSLV](https://www.isro.gov.in/PSLV_CON.html)
       - [Sounding Rockets](https://www.isro.gov.in/soundingRockets.html)
       - [ASLV](https://www.isro.gov.in/ASLV.html)
@@ -46,7 +48,7 @@
     - [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements%20by%20George%20P.%20Sutton.pdf)
     - [Ignition Book](https://library.sciencemadness.org/library/books/ignition.pdf)
     - [Orbital Mechanics for Engineering Students](https://www.hlevkin.com/hlevkin/90MathPhysBioBooks/Mechanics/Curtis_OrbitamMechForEngineeringStudents.pdf)
-    - [NASA Document](https://ntrs.nasa.gov/api/citations/19710019929/downloads/19710019929.pdf)
+    - [Design_of_liquid_prop_engine](https://ntrs.nasa.gov/api/citations/19710019929/downloads/19710019929.pdf)
     - **What tool can be used?** :
     - pyPDF2 (Python library)
 </details>
