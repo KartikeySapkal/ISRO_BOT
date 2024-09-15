@@ -80,7 +80,7 @@
 ---
 ## Mission Specialists 🚀 
 
-Thanks to all the amazing contributors who helped build ISRO_BOT! 🙌
+Thanks to all the amazing contributors who helping build ISRO_BOT! 🙌
 and Counting...
 
 <table>
