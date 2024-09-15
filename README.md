@@ -78,4 +78,48 @@
 
 
 ---
-# Mission Specialists
+## Mission Specialists 🚀 
+
+Thanks to all the amazing contributors who helped build ISRO_BOT! 🙌
+and Counting...
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/venkatsubash2003">
+        <img src="https://avatars.githubusercontent.com/venkatsubash2003" width="100px" style="border-radius: 50%;" alt="Venkat Sai Subash"/>
+        <br />
+        <sub><b>Venkat Sai Subash</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/om-ghante">
+        <img src="https://avatars.githubusercontent.com/om-ghante" width="100px" style="border-radius: 50%;" alt="Om Ghante"/>
+        <br />
+        <sub><b>Om Ghante</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sarfaraz22shaikh">
+        <img src="https://avatars.githubusercontent.com/sarfaraz22shaikh" width="100px" style="border-radius: 50%;" alt="Sarfaraz Shaikh"/>
+        <br />
+        <sub><b>Sarfaraz Shaikh</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xardous09">
+        <img src="https://avatars.githubusercontent.com/xardous09" width="100px" style="border-radius: 50%;" alt="Manish"/>
+        <br />
+        <sub><b>Manish</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/virajmandlik">
+        <img src="https://avatars.githubusercontent.com/virajmandlik" width="100px" style="border-radius: 50%;" alt="Viraj Mandlik"/>
+        <br />
+        <sub><b>Viraj Mandlik</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
