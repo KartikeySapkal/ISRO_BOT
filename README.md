@@ -12,7 +12,7 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
   <summary>Task 1: Data Scraping from Space Websites</summary>
 
   - **Description**: Scrape space-related articles, missions, and datasets from ISRO, NASA, SpaceX, and other sources.
-  - **Assigned To**: [Research Team](https://github.com/researchteam)
+  - **Assigned To**: [Research Team](github_id_link
   - **Subtask: ISRO Launcher Data Scraping**:
     - Scrape launcher-related content from:
       - [PSLV](https://www.isro.gov.in/PSLV_CON.html)
@@ -35,7 +35,7 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
   <summary>Task 2: PDF to Text Conversion</summary>
 
   - **Description**: Convert the following PDF files into text data for further analysis and integration into the model.
-  - **Assigned To**: [Research Team](https://github.com/researchteam)
+  - **Assigned To**: [Research Team](github_id_link
   - **PDF Files**:
     - [AstroSat Payloads](https://www.issdc.gov.in/docs/as1/AstroSat_Payloads.pdf)
     - [AstroSat Handbook](https://www.issdc.gov.in/docs/as1/AstroSat-Handbook-v1.10.pdf)
@@ -51,8 +51,8 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
   <summary>Task 3: Fine-Tuning the Model on Custom Data</summary>
 
   - **Description**: Fine-tune the Ollama 3.1 model using the scraped data and ensure model accuracy with test queries.
-  - **Assigned To**: [ML Team](https://github.com/mlteam)
-  - **Link**: [Fine-Tuning Process](https://example.com/fine-tuning)
+  - **Assigned To**: [ML Team](github_id's_link
+  - **Link**: [Fine-Tuning Process](updated_soon
 </details>
 
 <details>
@@ -67,12 +67,11 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
   <summary>Task 5: Documentation and User Manual</summary>
 
   - **Description**: Write comprehensive documentation and user guides for using the chatbot, including common commands, API usage, and developer setup.
-  - **Assigned To**: [Documentation Team](https://github.com/docs-team)
-  - **Link**: [Documentation Template](https://example.com/docs-template)
+  - **Assigned To**: [Documentation Team](updated_soon
+  - **Link**: [Documentation Template](updated_soon
 </details>
 
 
 
 ---
-
-This structure divides the tasks into clear, actionable steps and provides links for easier access. Let me know if you'd like further customization!
+# Mission Specialists
