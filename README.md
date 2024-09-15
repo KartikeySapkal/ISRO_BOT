@@ -29,7 +29,7 @@ Here's an updated version of the ISRO_BOT tasks with the new **PDF to Text Conve
       - [Mars Mission](https://www.issdc.gov.in/marsmission.html)
       - [Chandrayaan 3 Mission](https://www.issdc.gov.in/isda_pds.html)
   - **What tools you can you for scrapping?**:
-  -  [Scrapy]([https://example.com/scraping-guide](https://scrapy.org/))
+  -  [Scrapy](https://scrapy.org/)
   -  [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
   -  [selenium](https://www.selenium.dev/)
 </details>
