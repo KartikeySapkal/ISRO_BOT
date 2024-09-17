@@ -1,0 +1,17 @@
+
+
+IRNSS-1I Home / Activities / Missions accomplished
+
+IRNSS-1I is the eighth navigation satellite to join the IRNSS space segment. Its predecessors, IRNSS-1A, 1B, 1C, 1D, 1E, 1F and 1G were launched by PSLV-C22, PSLV-C24, PSLV-C26, PSLV-C27, PSLV-C31, PSLV-C32, and PSLV-C33, in July 2013, April 2014, October 2014, March 2015, January 2016, March 2016 and April 2016 respectively. Like all other IRNSS satellites, IRNSS-1I also has a lift-off mass of 1425 kg. The configuration of IRNSS-1I is similar to IRNSS-1A, IRNSS-1B, IRNSS-1C, IRNSS-1D, IRNSS-1E, IRNSS-1F, and IRNSS-1G.
+
+Payloads: Like its other IRNSS predecessors, IRNSS-1I also carries two types of payloads – navigation payload and ranging payload. The navigation payload of IRNSS-1I transmits signals for the determination of position, velocity and time. This payload is operating in L5-band and S-band. Rubidium atomic clocks are part of the navigation payload of the satellite. The ranging payload of IRNSS-1I consists of a C-band transponder, which facilitates accurate determination of the range of the satellite. It also carries Corner Cube Retro Reflectors for LASER Ranging.
+
+IRNSS-1I was launched by PSLV-C41 on Thursday morning, April 12, 2018 at 04:04 Hrs (IST) from SDSC SHAR, Sriharikota.
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C41/IRNSS-1I
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

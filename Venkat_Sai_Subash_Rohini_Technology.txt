@@ -1,0 +1,23 @@
+ Rohini Technology Payload (RTP) Home / Activities / Missions accomplished
+
+Aug 10,1979 
+
+RTP was a 35 kg experimental spin stabilized satellite designed with a power handling capability of 3W. It was launched onboard SLV-3 on its maiden flight from SHAR Centre on August 10, 1979. The satellite contained instruments to monitor the flight performance of SLV-3, the first Indian launch vehicle. However the satellite could not be placed into its intended orbit. 
+
+
+प्रमोचन भार / Launch Mass: 35 kg
+प्रमोचक राकेट / Launch Vehicle: SLV-3E1
+उपग्रह का प्रकार / Type of Satellite: Experimental
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO 
+
+Mission 	Experimental
+Weight 	35 kg
+onboard power 	3 Watts
+Communication 	VHF band
+Stabilization 	Spin stabilized (spin axis controlled)
+Payload 	Launch vehicle monitoring instruments
+Launch date 	August 10,1979
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	SLV-3
+Orbit 	Not achieved 

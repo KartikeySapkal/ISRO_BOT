@@ -1,0 +1,31 @@
+
+
+Crew module Atmospheric Re-entry Experiment (CARE) Home / Activities / Missions accomplished
+
+Dec 18,2014 
+
+
+
+Crew Module (CM) is identified as the payload in GSLV MK-III-X/CARE Mission. CARE is the acronym for Crew module Atmospheric Re-entry Experiment. The mission would be used as a platform for testing the re-entry technologies envisaged for Crew Module including validating the performance of parachute based deceleration system. CARE is expected to enhance the understanding of blunt body re-entry aerothermodynamics and parachute deployment in cluster configuration.
+
+More Details
+LVM-3/CARE Mission
+Crew module Atmospheric Re-entry Experiment (CARE)
+Brochure pdf icon PDF - 2.86 MB
+Gallery
+
+The external configuration of the Crew Module to be flight tested in GSLV MK-III is same as that of manned flight.
+
+Objectives:
+
+    Demonstration of reentry flight of Crew Module
+    End to end parachute system validation
+        Demonstration of apex cover separation
+        Demonstration of parachute deployment
+
+प्रमोचक राकेट / Launch Vehicle: LVM-3/CARE Mission
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Experimental
+
+The Crew Module (CM) is separated from the Launch Vehicle at an altitude of 126 km, re-enters Earth’s atmosphere at about 80 km and descends further in ballistic mode. Beyond 80 km, CM follows an uncontrolled re-entry trajectory and impacts at sea about 180 km from Andaman and Nicobar Island from where it will be recovered by Indian Coast guard.

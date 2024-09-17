@@ -1,0 +1,57 @@
+
+
+SARAL Home / Activities / Missions accomplished
+
+The Satellite with ARGOS and ALTIKA (SARAL) is a joint Indo-French satellite mission for oceanographic studies. SARAL performs altimetric measurements designed to study ocean circulation and sea surface elevation.
+
+The payloads of SARAL are:
+
+    Ka band Altimeter, ALTIKA- built by the French National Space Agency CNES. The payload is intended for oceanographic applications, operates at 35.75 Giga Hertz.
+    ARGOS Data Collection System- built by the French National Space Agency CNES. ARGOS contributes to the development and operational implementation of the global ARGOS Data Collection System. It will collect a variety of data from ocean buoys to transmit the same to the ARGOS Ground Segment for subsequent processing and distribution.
+    Solid State C-band Transponder (SCBT) is from ISRO and intended for ground RADAR calibration. It is a continuation of such support provided by C-Band Transponders flown in the earlier IRS-P3 and IRS-P5 missions.
+
+The payloads of SARAL are accommodated in the Indian Mini Satellite-2 bus, which is built by ISRO.
+
+More Details
+PSLV-C20/SARAL
+SARAL
+Gallery
+Brochure pdf icon PDF - 7.80 MB
+
+SARAL Applications
+
+SARAL data products will be useful for operational as well as research user communities in many fields like
+
+    Marine meteorology and sea state forecasting
+    Operational oceanography
+    Seasonal forecasting
+    Climate monitoring
+    Ocean, earth system and climate research
+    Continental ice studies
+    Protection of biodiversity
+    Management and protection of marine ecosystem
+    Environmental monitoring
+    Improvement of maritime security
+
+प्रमोचन भार / Launch Mass: 407 kg
+मिशन कालावधि / Mission Life : 5 years
+शक्ति / Power: 906 W
+प्रमोचक राकेट / Launch Vehicle: PSLV-C20/SARAL
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Climate & Environment
+Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Lift-off Mass 	407 kg
+Orbit 	781 km polar Sun synchronous
+Sensors 	4 PI sun sensors, magnetometer, star sensors and miniaturised gyro based Inertial Reference Unit
+Orbit Inclination 	98.538 o
+Local Time of Equator 	18:00 hours crossing
+Power 	Solar Array generating 906 W and 46.8 Ampere-hour Lithium-ion battery
+Onboard data storage 	32 Gb
+Attitude and Orbit Control 	3-axis stabilisation with reaction wheels, Hydrazine Control System based thrusters
+Mission Life 	5 years
+Launch date 	Feb 25, 2013
+Launch site 	SDSC SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV - C20 

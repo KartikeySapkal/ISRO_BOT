@@ -1,0 +1,39 @@
+
+
+CARTOSAT-2B Home / Activities / Missions accomplished
+
+CARTOSAT - 2B is the seventeenth satellite in the Indian Remote Sensing Satellite series (IRS). CARTOSAT-2B carries a Panchromatic camera (PAN) similar to those of its predecessors - CARTOSAT-2 and 2A. It is capable of imaging a swath (geographical strip) of 9.6 km with a resolution of better than 1 metre. The scene specific spot imagery sent by CARTOSAT-2B's PAN is useful for cartographic and a host of other applications. The highly agile CARTOSAT-2B is steerable up to ± 26o along as well as across track to obtain stereoscopic imagery and achieve a four to five day revisit capability.
+
+More Details
+PSLV-C15/CARTOSAT-2B
+CARTOSAT-2B
+STUDSAT
+Gallery
+Brochure pdf icon PDF - 1.17 MB
+
+प्रमोचन भार / Launch Mass:
+694 kg
+शक्ति / Power:
+930 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C15/CARTOSAT-2B
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Mission 	Remote Sensing
+Weight 	694 kg (Mass at lift off)
+Onboard Orbit 	930 Watts
+Stabilization 	3 – axis body stabilised based on inputs from star sensors and gyros using Reaction wheels, Magnetic Torquers and Hydrazine Thrusters
+Payloads 	Panchromatic Camera
+Launch date 	July 12, 2010
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C15
+Orbit 	630 kms, Polar Sun Synchronous
+Inclination 	97.71º 

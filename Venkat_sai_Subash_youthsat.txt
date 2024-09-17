@@ -1,0 +1,56 @@
+
+
+YOUTHSAT Home / Activities / Missions accomplished
+
+YOUTHSAT is a joint Indo-Russian stellar and atmospheric satellite mission with the participation of students from Universities at graduate, post graduate and research scholar level. With a lift-off mass of 92 kg, Youthsat is a mini satellite and the second in the Indian Mini Satellite (IMS) series. Youthsat mission intends to investigate the relationship between solar variability and thermosphere-Ionosphere changes. The satellite carries three payloads, of which two are Indian and one Russian. Together, they form a unique and comprehensive package of experiments for the investigation of the composition, energetics and dynamics of earth's upper atmosphere.
+
+The Indian payloads are:
+
+More Details
+PSLV-C16/RESOURCESAT-2
+YOUTHSAT
+RESOURCESAT-2
+Gallery
+Brochure pdf icon PDF - 2.37 MB
+
+    RaBIT (Radio Beacon for Ionospheric Tomography)- For mapping Total Electron Content (TEC) of the Ionosphere.
+    LiVHySI (Limb Viewing Hyper Spectral Imager) - To perform airglow measurements of the Earth's upper atmosphere (80- 600 km) in 450-950 nm.
+
+The Russian payload
+
+SOLRAD - To study temporal and spectral parameters of solar flare X and gamma ray fluxes as well as charge particles in the earth polar cap regions.
+
+प्रमोचन भार / Launch Mass:
+92 kg
+आयाम / Dimension:
+1020 (Pitch) x 604 (Roll) x 1340 (Yaw) mm3
+मिशन कालावधि / Mission Life :
+2 years
+शक्ति / Power:
+Solar Array generating 230 W, one 10.5 AH Li-ion battery
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C16/RESOURCESAT-2
+उपग्रह का प्रकार / Type of Satellite:
+Experimental
+Small
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Student Satellite
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Lift-off Mass 	92 kg
+Orbit Period 	101.35 min
+Dimension 	1020 (Pitch) x 604 (Roll) x 1340 (Yaw) mm 3
+Attitude and Orbit Control 	3-axis body stabilised using Sun and Star Sensors, Miniature Magnetometer, Miniature Gyros, Micro Reaction Wheels and Magnetic Torquers
+Power 	Solar Array generating 230 W, one 10.5 AH Li-ion battery
+Mechanisms 	Paraffin Actuator based Solar Panel Hold Down and Release Mechanism
+Launch date 	April 20, 2011
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C16
+Orbit 	Circular Polar Sun Synchronous
+Orbit altitude at injection 	822 km + 20 km (3 Sigma)
+Orbit Inclination 	98.731 º + 0.2 º
+Mission life 	2 years 

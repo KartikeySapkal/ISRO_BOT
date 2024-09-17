@@ -1,0 +1,16 @@
+
+
+EOS-03 Home / Activities / Missions accomplished
+
+Aug 12, 2021
+
+EOS-03 is a state-of-the-art agile Earth observation satellite which will be placed in a Geosynchronous Transfer Orbit by GSLV-F10. Subsequently, the satellite will reach the final geostationary orbit using its onboard propulsion system.
+
+मिशन कालावधि / Mission Life : 10 years
+शक्ति / Power: 2280 W
+प्रमोचक राकेट / Launch Vehicle: GSLV-F10 / EOS-03
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: GTO

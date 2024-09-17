@@ -1,0 +1,46 @@
+ EDUSAT Home / Activities / Missions accomplished
+
+Sep 20, 2004
+
+GSAT-3, known as EDUSAT is meant for distant class room education from school level to higher education. This was the first dedicated "Educational Satellite" that provide the country with satellite based two way communication to class room for delivering educational materials.
+
+This is a Geo-synchronous satellite developed on I-2K bus. GSAT-3 was co-located with METSAT(KALPANA-1) and INSAT-3C at 74o E longitude.
+
+More Details
+GSLV-F01/ EDUSAT(GSAT-3)
+EDUSAT
+Brochure pdf icon PDF - 3.14 MB
+Brochure pdf icon PDF - 3.14 MB
+
+प्रमोचन भार / Launch Mass: 1950.5 kg
+आयाम / Dimension: 2.54 m x 1.525 m
+मिशन कालावधि / Mission Life : 7 Years (minimum)
+शक्ति / Power: 2040 W
+प्रमोचक राकेट / Launch Vehicle: GSLV-F01 / EDUSAT(GSAT-3)
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+Mission 	Education
+Spacecraft Mass 	1950.5 kg mass (at Lift - off)
+819.4 kg (Dry mass)
+Onboard power 	
+Total four solar panel of size 2.54 M x 1.525 M generating 2040 W (EOL), two 24 AH NiCd batteries for eclipse support
+Stabilization 	
+3 axis body stabilised in orbit using sensors, momentum and reaction wheels, magnetic torquers and eight 10 N & 22N reaction control thrusters.
+Propulsion 	
+440 N Liquid Apogee Motor with MON - 3 and MMH for orbit raising
+Payload 	
+
+    Six upper extended C - band transponders
+    Five lower Ku band transponders with regional beam coverage
+    One lower Ku band National beam transponder with Indian main land coverage
+    Ku beacon
+    12 C band high power transponders with extended coverage, covering southeast and northwest region apart from Indian main land using 63 W LTWTAs
+
+Launch date 	September 20, 2004
+Launch site 	SHAR, Sriharikota, India
+Launch vehicle 	GSLV-F01
+Orbit 	Geostationary (74 o E longitude)
+Mission Life 	7 Years (minimum) 

@@ -1,0 +1,30 @@
+
+
+SROSS-1 Home / Activities / Missions accomplished
+
+Mar 24,1987 
+
+ The satellite was launched onboard the first developmental a flight of ASLV. It did not reach the orbit.
+Mission 	Experimental
+Weight 	150 kg
+Onboard power 	90 Watts
+Communication 	S-band and VHF
+Stabilization 	Three axis body stabilized (biased momentum) with a Momentum Wheel and Magnetic Torquer
+Propulsion system 	Monopropellant (Hydrazine based) Reaction
+control system
+Payload 	Launch Vehicle Monitoring Platform(LVMP),
+Gamma Ray Burst (GRB) payload and
+Corner Cube Retro Reflector (CCRR) for laser tracking
+Launch date 	March 24, 1987
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	Augmented Satellite Launch Vehicle (ASLV)
+Orbital life 	Not realised 
+
+प्रमोचन भार / Launch Mass: 150 kg
+मिशन कालावधि / Mission Life : Not realised
+शक्ति / Power: 90 W
+प्रमोचक राकेट / Launch Vehicle: ASLV-D1
+उपग्रह का प्रकार / Type of Satellite: Science & Exploration
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Experimental 

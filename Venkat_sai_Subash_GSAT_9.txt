@@ -1,0 +1,28 @@
+
+
+GSAT-9 Home / Activities / Missions accomplished
+
+May 05, 2017
+
+South Asia Satellite GSAT-9 is a Geostationary Communication satellite realised by India. The primary objective of GSAT-9 is to provide various communication applications in Ku-band with coverage over South Asian countries.
+
+GSAT-9 is configured around the ISRO’s standard I-2K bus. With lift off mass of 2230 kg the main structure of the satellite is cuboid in shape built around a central cylinder. GSAT-9 carries communication transponders operating in Ku-band.
+
+More Details
+GSAT-9
+Brochure pdf icon PDF-1.73 MB
+GSLV-F09 / GSAT-9 Gallery
+
+The two solar arrays of GSAT-9 consisting of Ultra Triple Junction solar cells generate about 3500 Watts of electrical power. Sun and Earth sensors as well as gyroscopes provide orientation reference for the satellite. The Attitude and Orbit Control System (AOCS) of the satellite maintains it’s orientation with the help of momentum wheels, magnetic torquers and thrusters. The satellite’s propulsion system consists of a Liquid Apogee Motor (LAM) and chemical thrusters using liquid propellants for initial orbit raising and station keeping. The satellite also carries plasma thrusters, assisting in station keeping.
+
+GSAT-9 was launched by GSLV-F09 on Friday, May 05, 2017 from the Second Launch Pad (SLP) at Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota. .
+
+प्रमोचन भार / Launch Mass: 2230 kg
+मिशन कालावधि / Mission Life : 12 years
+शक्ति / Power: 3500 Watts
+प्रमोचक राकेट / Launch Vehicle: GSLV-F09 / GSAT-9
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+नीतभार / Payloads: Ku-band Transponders

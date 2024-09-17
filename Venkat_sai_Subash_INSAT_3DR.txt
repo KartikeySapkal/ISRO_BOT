@@ -1,0 +1,37 @@
+
+
+INSAT-3DR Home / Activities / Missions accomplished
+
+Sep 08, 2016
+
+INSAT-3DR similar to INSAT-3D, is an advanced meteorological satellite of India configured with an imaging System and an Atmospheric Sounder. The significant improvements incorporated in INSAT-3DR are:
+
+    Imaging in Middle Infrared band to provide night time pictures of low clouds and fog
+    Imaging in two Thermal Infrared bands for estimation of Sea Surface Temperature (SST) with better accuracy
+    Higher Spatial Resolution in the Visible and Thermal Infrared bands
+
+And, like its predecessor INSAT-3D, INSAT-3DR carries a Data Relay Transponder as well as a Search and Rescue Transponder. Thus, INSAT-3DR will provide service continuity to earlier meteorological missions of ISRO and further augment the capability to provide various meteorological as well as search and rescue services.
+
+More Details
+GSLV-F05 / INSAT-3DR
+INSAT-3DR
+Gallery
+Brochure pdf icon PDF - 1.45 MB
+First Images from INSAT-3DR Imager
+Brochure pdf icon PDF - 1.06 MB
+
+INSAT-3DR has a lift-off mass of 2211 kg, which includes about 1255 kg of propellant. The propellant carried by INSAT-3DR is mainly required to raise the satellite from the Geosynchronous Transfer Orbit (GTO) to its final Geostationary Orbit and to maintain the satellite in its orbital slot during its life. The satellite has a solar array generating 1700 Watts of power.
+
+Payloads of INSAT-3DR:
+
+INSAT-3DR carries a multi spectral Imager, 19 channel Sounder, Data Relay Transponder and Search and Rescue Transponder.
+
+प्रमोचन भार / Launch Mass: 2211 kg
+प्रमोचक राकेट / Launch Vehicle: GSLV-F05 / INSAT-3DR
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application:
+Climate & Environment
+Disaster Management System
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

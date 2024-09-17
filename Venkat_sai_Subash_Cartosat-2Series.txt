@@ -1,0 +1,17 @@
+
+
+CARTOSAT-2 Series Satellite Home / Activities / Missions accomplished
+
+Cartosat-2 Series Satellite is the primary satellite carried by PSLV-C38. This remote sensing satellite is similar in configuration to earlier satellites in the series with the objective of providing high-resolution scene specific spot imagery.
+
+The imagery sent by satellite will be useful for cartographic applications, urban and rural applications, coastal land use and regulation, utility management like road network monitoring, water distribution, creation of land use maps, change detection to bring out geographical and manmade features and various other Land Information System (LIS) as well as Geographical Information System (GIS) applications.
+
+PSLV-C38/Cartosat-2 Series Satellite Mission was launched on June 23, 2017 from SDSC SHAR, Sriharikota.
+
+प्रमोचन भार / Launch Mass: 712 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C38 / Cartosat-2 Series Satellite
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)

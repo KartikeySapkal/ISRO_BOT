@@ -1,0 +1,42 @@
+
+
+RISAT-1 Home / Activities / Missions accomplished
+
+
+Radar Satellite-1 (RISAT-1) is a state of the art Microwave Remote Sensing Satellite carrying a Synthetic Aperture Radar (SAR) Payload operating in C-band (5.35 GHz), which enables imaging of the surface features during both day and night under all weather conditions.
+
+Application
+
+Active Microwave Remote Sensing provides cloud penetration and day-night imaging capability. These unique characteristics of C-band (5.35GHz) Synthetic Aperture Radar enable applications in agriculture, particularly paddy monitoring in kharif season and management of natural disasters like flood and cyclone.
+
+More Details
+PSLV-C19/RISAT-1
+RISAT-1
+Gallery
+RISAT-1 High Resolution SpotLight
+RISAT-1 Hybrid polarimetry image
+Brochure pdf icon PDF - 3.33 MB
+
+प्रमोचन भार / Launch Mass: 1858 kg
+मिशन कालावधि / Mission Life : 5 years
+शक्ति / Power: 2200 W
+प्रमोचक राकेट / Launch Vehicle: PSLV-C19/RISAT-1
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Mass 	1858 kg
+Orbit 	Circular Polar Sun Synchronous
+Orbit Altitude 	536 km
+Orbit Inclination 	97.552 o
+Orbit Period 	95.49 min
+Number of Orbits per day 	14
+Local Time of Equator Crossing 	6:00 am / 6:00 pm
+Power 	Solar Array generating 2200 W and one 70 AH Ni-H2 battery
+Repetivity 	25 days
+Attitude and Orbit Control 	3-axis body stabilised using Reaction Wheels, Magnetic Torquers and Hydrazine Thrusters
+Nominal Mission Life 	5 years
+Launch date 	April 26, 2012
+Launch site 	SDSC SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV- C19 

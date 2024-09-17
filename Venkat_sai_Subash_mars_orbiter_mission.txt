@@ -1,0 +1,341 @@
+MOM Content:Mars Orbiter Mission
+        
+
+
+          Home
+         
+         / Activities /
+         
+          Science
+         
+         / Mars Orbiter Mission
+        
+
+
+
+
+
+
+
+          Mars Orbiter Mission (MOM), India's first interplanetary mission to planet Mars was launchedonboard PSLV-C25 on November 05, 2013. ISRO has become the fourth space agency to successfully send a spacecraft to Mars orbit.Though the designed mission life is 6 months, MOM completed 7 years in its orbit on Sept 24, 2021.
+         
+
+          Mission Objectives
+         
+
+          The objectives of this mission are primarily technological and include design, realisation and launch of a Mars Orbiter spacecraft capable of operating with sufficient autonomy during the journey phase; Mars orbit insertion / capture and in-orbit phase around Mars.   MOM carries five scientific payloads to study the Martian surface features, morphology, mineralogy and Martian atmosphere.
+         
+
+          Scientific payloads
+         
+
+          Mars continues to be an object of keen interest to scientists in the context of planetary evolution and extra-terrestrial life. Based on our understanding of Mars, which was thought to be probably a warm and wet planet earlier, is now seen to be dry with a thin atmosphere. How this evolution has taken place is still a topic of research. In this backdrop, the Indian Mars Orbiter Mission carried the following five scientific payloads:
+         
+
+
+
+
+           Mars Color Camera (MCC)
+          
+
+           Thermal Infrared Imaging Spectrometer (TIS)
+          
+
+           Methane Sensor for Mars (MSM)
+          
+
+           Mars Exospheric Neutral Composition Analyser (MENCA)
+          
+
+           Lyman Alpha Photometer (LAP)
+          
+
+
+
+
+
+
+            Mars Colour Camera
+           
+
+
+
+
+             The Mars Colour Camera is a versatile and multi-purpose snap shot camera with R-G-B Bayer pattern to map various morphological features on Mars and return visual images of Mars and its environs. Besides providing context information for other payloads, MCC is also expected to observe and help in furthering our understanding of events like dust storms, dust devils etc. that are known to occur in Mars. The highly elliptical orbit of the current mission allows imaging of localized scenes at high spatial resolution as well as provides a synoptic view of the full globe. This payload is developed by Space Application Centre Ahmedabad.
+            
+
+
+
+
+
+            The main objective of the Mars Colour camera therefore is:
+           
+
+
+             To map various morphological features on Mars with varying resolution and scales in the elliptical orbit.
+            
+
+             To provide context information for the other science payloads.
+            
+
+
+
+            The salient features of this instrument are given below: -
+           
+
+
+
+
+
+              Parameter
+             
+
+              Value
+             
+
+
+
+              Resolution
+             
+
+              19.5 m @ Periareion
+             
+
+
+
+              Frame Size
+             
+
+              40 km x 40 km@ Periareion Full Mars disc from 63000 km to Apoareion
+             
+
+
+
+              Spectral region
+             
+
+              0.4 µm – 0.7 µm R-G-B (Bayer Pattern)
+             
+
+
+
+
+
+            Methane Sensor for Mars
+           
+
+
+
+
+             The Methane Sensor for Mars (MSM) is a differential radiometer based on Fabry-Perot Etalon filters operating in the short wave infrared (SWIR) region. It measures solar radiance in two SWIR channels. There is absorption by CH4  in the first channel (methane channel) whereas no absorption in the second spectral channel (reference channel). So the differential signal gives a measure of column amount of CH4. It can measure CH4 concentration in the Martian atmosphere with few parts-per-billion accuracy. By scanning the scene from apoareion, MSM can map the spatial distribution of methane. The temporal and spatial variation of methane derived from MSM data may provide some insight regarding its origin; whether it is biogenic or abiogenic.This payload is developed by Space Application Centre Ahmedabad.
+            
+
+
+
+
+
+            The Primary science objective of this payload is to detect and measure methane concentration in Martian atmosphere (if it does exist) under clear sky conditions.Other studies which are possible are:
+           
+
+
+             Measure spatial variations in CO2 column density / pressure to understand dynamics of Martian atmosphere.
+            
+
+             Measure reflectance of Martian surface in the spectral range 6030-6090 cm-1.
+            
+
+
+
+            The instrument features are given below: -
+           
+
+
+
+
+
+              Parameter
+             
+
+              Value
+             
+
+
+
+              Resolution
+             
+
+              258m @ Periareion (@372km)
+             
+
+
+
+              Swath
+             
+
+              4.4 km @ Periareion,  948 km @ Apoareion
+             
+
+
+
+              Spectral Region
+             
+
+              1640 - 1660 nm
+             
+
+
+
+              Detector
+             
+
+              InGaAs, 85µm pixels, 8 channels for CH4 and 8 channels for reference
+             
+
+
+
+
+
+            Thermal IR Imaging Spectrometer
+           
+
+
+
+
+             The Thermal Infrared Imaging Spectrometer is a grating based spectrometer which will measure the thermal emission from Martian surface. The data acquired by TIS will be processed and analysed in order to:
+             
+
+               Map temperature of the Martian surface
+              
+
+               Study the composition and mineralogy of Mars.
+              
+
+
+              This spectrometer operates in the thermal infrared (TIR) region (7 micron to 13 micron). TIS has been configured with an un-cooled micro-bolometer array that saves significantly in terms of weight and power when compared to a cooled IR detector. This payload is developed by Space Applications Centre, Ahmedabad.
+             
+
+
+
+
+
+
+            The instrument features are:
+           
+
+
+
+
+
+              Parameter
+             
+
+              Value
+             
+
+
+
+              Resolution
+             
+
+              258m @ Periareion (@372km)
+             
+
+
+
+              Coverage
+             
+
+              41 km x  258 m @ Periareion 
+                                                            8875 km x 55 km @ Apoareion
+             
+
+
+
+              Spectral Region
+             
+
+              7µm – 13µm,  12 bands
+             
+
+
+
+              Spectral resolution
+             
+
+              ~500 nm   (12 bands)
+             
+
+
+
+
+
+            Mars Exospheric Neutral Composition Analyser
+           
+
+
+
+
+             The main scientific objective of the Mars Exospheric Neutral Composition Analyser (MENCA) is to study the neutral composition and density distribution of the Martian exosphere and to study its radial, diurnal, and possibly seasonal variations. This would help in understanding the escape of the Martian atmosphere.
+             
+              MENCA, a quadrupole mass spectrometer, consists of a filament, detectors and associated electronics system. The detectors being used in MENCA are Channel Electron Multiplier (CEM) and Faraday Cup (FC). A suitable combination of Radio Frequency and DC voltages are applied to the alternate pairs of quadrupole rods to accomplish the mass separation and thereby the determination of partial pressure of species. Also, MENCA has an in-built pressure gauge for the measurement of total pressure. In addition to acquiring the mass spectra in a specified mass range (which can be varied), the instrument has a provision to study the time-evolution of a set of selectable species in the trend mode of operation. The dynamic range of the instrument is in the order of 1010.
+             
+
+
+
+
+
+          Uniqueness
+         
+
+
+
+
+           Highly elliptical orbit geometry of MOM enables its Camera (MCC) to take snap shots of Full disc of Mars at its farthest point and finer details from closest point.
+          
+
+           First time observation of the far side of Deimos, one of the moons of Mars.
+          
+
+
+          Achievements
+         
+
+
+
+
+           The Mars Colour Camera, one of the scientific payloads onboard MOM, has produced 1100+ images so far and published a Mars Atlas.
+          
+
+           Published more than 35 research papers in peer-reviewed journals.
+          
+
+           India’s ability to successfully realize the complex mission to Mars in its first attempt, in a cost-effective (Rupees 450 Cr) has captured the world attention and has propelled India’s image as a credible space fairing nation to greater heights.  This capability could pave the way for greater opportunities for Space Commerce including launch services and marketing of Satellite Imageries.
+          
+
+           Mars Orbiter Mission is a mission of national pride which has attracted the attention of students, general public, media and international science/ technical community. Importantly, Mars Orbiter Mission has created enthusiasm among the younger generation in the country, provoked their curiosity to understand and discuss space related techniques and is maintaining the tempo throughout the mission.
+          
+
+
+          Major science results
+         
+
+
+
+
+           The solar coronal dynamics during the post-maxima phase of the solar cycle 24 using S -band radio signals from the MOM (MNRAS, 2022)
+          
+
+           Enhanced escape of Martian atmosphere during global dust storm (JGR-Planets, 2020)
+          
+
+           MENCA detected 'hot' (suprathermal – more energetic compared to thermal) Argon in the exosphere of Mars (GRL, 2017).  Mars was at perihelion during this observation.
+          
+
+           Mars Exospheric Neutral Composition Analyser(MENCA) observations have shown for the first time that the abundance of Oxygen exceeds that of Carbon-Dioxide at an altitude of ~270 ±10 km, during the perihelion evening hours (GRL, 2016).
+          
+
+           Atmospheric optical depth (AOD) was estimated through Mars Colour Camera (MCC) observations and the studies reported the presence of lee-wave clouds above the southern wall of Valles Marineris (Icarus, 2015)
+          
+
+
+          Scientific analysis of the data being received from the Mars Orbiter spacecraft is in progress. Scientific Data archived at ISSDC is made available to user communities.

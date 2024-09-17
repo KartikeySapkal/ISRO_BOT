@@ -1,0 +1,59 @@
+
+
+Astrosat Home / Activities / Missions accomplished
+
+AstroSat is India’s first dedicated Space Astronomy Observatory launched into a 650-km, 6° inclination orbit on September 28, 2015, with a lift-off mass of 1515 kg, by PSLV-C30 (XL) rocket from Satish Dhawan Space Centre Sriharikota. AstroSat carries a total of five scientific payloads enabling imaging, studying temporal and spectral properties of galactic and extra- galactic cosmic sources in a wide range of wavelengths on a common platform.
+
+The unique feature of this observatory is its capability for carrying out broad band simultaneous multi-wavelength observation going from far ultra violet to gamma rays. UVIT has the highest angular resolution of 1.5 arc sec which is 3 times better than the next best UV telescope (GALEX-Galaxy evolution explorer) operational today. LAXPC has the highest collecting area in comparison to any other X-ray detector till today. CZTI possesses a unique capability of measuring X-ray polarization and also acts as an open detector beyond 100 keV.
+
+ISRO enabled Indian academic institutions Tata Institute of Fundamental Research (TIFR) Mumbai, Indian Institute of Astrophysics (IIA) Bangalore, Inter University Centre for Astronomy &Astrophysics (IUCAA) Pune and Physical research laboratory (PRL) Ahmedabad 
+
+ Fig: Image showing AstroSat spacecraft with various payloads.
+
+More Details
+PSLV-C30/AstroSat
+Gallery
+Scanning Sky Monitor (SSM) Payload onboard AstroSat made Operational – October 12th, 2015
+Astrosat
+Astrosat First Light:CZT Imager Looks at Crab Nebula
+Book on AstroSat Released - Download the Free Copy
+CZT Imager detects a Gamma-ray Burst
+First Light with the Soft X-ray Telescope (SXT) for ASTROSAT
+Make your own AstroSat Model
+AstroSat Support Cell (ASC) has been Set up at IUCAA, Pune
+
+AstroSat is operated as a proposal based observatory. The proposals for AstroSat data are solicited through anouncement of regular opportunity. The received proposals are reviewed by AstroSat Time Allocation Committee (ATAC) and AstroSat Target of Opportunity (TOO) supported by AstroSat Technical Committee (ATC).
+
+Mission operations centre at ISTRAC Bengaluru manages the task of operating AstroSat, as celestial objects space observatory in a low inclination Earth orbit and provides all scientific data to user community through International Space Science Data Centre(ISSDC). The task of optimising the spacecraft operations to enable maximum availability of observing instruments to seekers of observation is handled through mission operations team.
+
+AstroSat spacecraft has the following five payloads:
+
+    Ultra Violet Imaging Telescope (UVIT), developed by IIA, consist of two identical telescopes of aperture 380 mm. One telescope covers FUV (130–180 nm) band and the other covers NUV (200–300 nm) and visible band (320–550 nm). The hyperbolic mirrors are super polished.
+    Large Area X-ray Proportional Counter (LAXPC), developed by TIFR has three identical gas detectors. LAXPC has a total effective area of 8000 cm2.
+    Cadmium–Zinc–Telluride Imager (CZTI), developed by TIFR works in 20–100 keV. The imaging capability is achieved with coded mask. CZTI also has the capability of making X-ray polarization measurements.
+    Soft X-ray Telescope (SXT), developed by TIFR, uses X-ray reflecting mirrors and an X-ray CCD for imaging and spectral studies in 0.3–8 keV.
+    Scanning Sky Monitor (SSM) developed by ISRO is an all sky monitor for detecting and monitoring transient sources and for follow-up studies of known X-ray sources in 2.5–10 keV region.
+
+    AstroSat carried several firsts to its credit. UVIT has the highest angular resolution of 1.5 arc sec which is 3 times better than the next best UV telescope (GALEX-Galaxy evolution explorer) operational today. LAXPC has the highest collecting area in comparison to any other X-ray detector till today. CZTI possesses a unique capability of measuring X-ray polarization and also acts as an open detector beyond 100 keV
+    AstroSat data has produced several discoveries and interesting results, for example discovery of UV photons from redshift of 1.42, solving the puzzle of a cosmic source which is bright both in IR and UV, discovery of X-ray polarization from off pulse region of Crab pulsar to name a few
+    AstroSat has produced more than of 275 articles in refereed journals and more than 500 GCN circular, Astronomer’s telegram and conference proceedings as of Sept, 2022.
+    AstroSat is operated as an observatory class telescope. The observations time is open to national and international users. The call for proposals is usually issued once in a year during the first quarter of the calendar year.Currently, AstroSat has close to 2000 registered users from 54 countries.
+
+Statewise distribution of AstroSat users from India (Sept, 2022)
+
+Statewise distribution of AstroSat users from India (Sept, 2022)
+Nation-wise distribution of AstroSat users as of Sept, 2022
+
+Nation-wise distribution of AstroSat users as of Sept, 2022
+
+Major Scientific results from ASTROSAT
+
+Some of the major interesting discoveries from AstroSat are mentioned below:
+
+    “India’s ASTROSAT makes rare discovery”, is an exceptional and a welcome headline in the history of Indian media for the importance given in recent times to Science, particularly space science shared from PTI PUNE, on August 25, 2020. This is the first detection of a FUV photons from Lyman Alpha emitting galaxy AUDFs01 at a distance of 9.3 billion light years (redshift z=1.42). This observation is made possible due to the high sensitivity and low background of the UVIT detectors combined with the long exposure time. The importance is well recognised in the international community which has led to a growing list of scientists from all over the world joining the AstroSat Ultraviolet Deep Field project, as well as initiating a number of new collaborative projects, including the AMUSEDLy (AstroSat-MUSE Detection of Lyman continuum sources) project with the European Southern Observatory.
+    Deep survey of M31 galaxy, popularly known as Andromeda galaxy with UVIT led to the first detection of young main-sequence stars in the bulge of M31 outside the nucleus. This survey has produced UVIT point source catalogue of 75,000+ sources in NUV/FUV.
+    For the first time, CZTI discovered X-ray polarization from the off-pulse region of Crab pulsar. CZTI has also detected polarised prompt emission from gamma ray bursts (GRB) in about 20% of CZTI observed GRBs. The results indicate that in a fraction of cases the magnetic field in the emitting region is strongly ordered while in the rest the field is randomly distributed. These results have spawned multiple theoretical investigations worldwide in the radiative properties of GRBs and the planning of space missions dedicated to the polarimetry of GRBs.
+    AstroSat detection and characterisation of star formation in and around Jellyfish galaxies: These galaxies are members of galaxy clusters. AstroSat UVIT observations find that new stars are being formed in the outflowing gas streams, away from the confines of the galaxies themselves. This is providing major new clues to the gas-gas interaction in galaxy clusters and the formation process of stars. Given the importance of these observations, AstroSat UVIT has been integrated into the multi-nation GASP (Gas stripping phenomena in galaxies) programme.
+    AstroSat UV/X-ray observations of OJ287 shows the importance of simultaneous broad-band observations as the FUV data from UVIT leads to strong constraints on the contribution of synchrotron component in driving the X-ray spectral changes observed in OJ287 over multiple epochs.
+    LAXPC and SXT observations of 4U 1630-17 found that the blackhole in the binary is rotating at a speed close to the maximum possible speed of spin.
+

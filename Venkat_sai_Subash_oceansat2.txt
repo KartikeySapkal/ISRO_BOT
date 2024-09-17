@@ -1,0 +1,52 @@
+
+
+Oceansat-2 Home / Activities / Missions accomplished
+
+Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions and launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009.
+
+It carries three payloads:
+
+    Ocean Colour Monitor (OCM)
+    Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO
+    Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency.
+
+Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential.
+
+More Details
+PSLV-C14/OCEANSAT-2
+Oceansat-2
+Gallery
+Brochure pdf icon PDF - 1.08 MB
+
+प्रमोचन भार / Launch Mass:
+960 kg
+मिशन कालावधि / Mission Life :
+5 years
+शक्ति / Power:
+1360W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C14 / OCEANSAT-2
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Climate & Environment
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+date 	Sept 23, 2009
+Launch site 	SHAR, Sriharikota
+Launch vehicle 	PSLV - C14
+Orbit 	Polar Sun Synchronous
+Altitude 	720 km
+Inclination 	98.28°
+Period 	99.31 minutes
+Local time of Eq. crossing 	12 noon ± 10 minutes
+Repetitivity cycle 	2 days
+Payloads 	OCM, SCAT and ROSA
+Mass at lift off 	960 kg
+Power 	15 Sq.m Solar panels generating 1360W, Two 24 Ah Ni-Cd Batteries
+Mission Life 	5 years 

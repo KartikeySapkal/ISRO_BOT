@@ -1,0 +1,23 @@
+ Cartosat-3 Home / Activities / Missions accomplished
+ Cartosat-3 satellite is a third generation agile advanced satellite having high resolution imaging capability.
+
+PSLV-C47 Mission Specifications
+Mean altitude 	509 km
+Mean inclination 	97.5°
+Overall Mass 	1625 kg
+Power Generation 	2000W
+Mission Life 	5 years 
+
+
+
+APPLICATIONS
+
+Cartosat-3 will address the increased user’s demands for large scale urban planning, rural resource and infrastructure development, coastal land use and land cover etc.
+
+प्रमोचन भार / Launch Mass: 1625 kg
+मिशन कालावधि / Mission Life : 1.2 years
+शक्ति / Power: 16 Watts
+प्रमोचक राकेट / Launch Vehicle: PSLV-C47 / Cartosat-3 Mission
+उपग्रह का प्रकार / Type of Satellite: Experimental
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO

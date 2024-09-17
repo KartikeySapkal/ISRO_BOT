@@ -1,0 +1,12 @@
+
+
+HysIS Home / Activities / Missions accomplished
+
+HysIS, the primary satellite of PSLV-C43 mission, weighing about 380 kg, is an earth observation satellite configured around ISRO’s Mini Satellite-2 (IMS-2) bus. The primary goal of HysIS is to study the earth’s surface in the visible, near infrared and shortwave infrared regions of the electromagnetic spectrum.
+
+प्रमोचक राकेट / Launch Vehicle: PSLV-C43 / HysIS Mission
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)

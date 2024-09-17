@@ -1,0 +1,16 @@
+
+
+CMS-01 Home / Activities / Missions accomplished
+
+CMS-01 is a communication satellite envisaged for providing services in Extended-C Band of the frequency spectrum. The Extended-C Band coverage will include Indian mainland, Andaman-Nicobar & Lakshadweep Islands. CMS-01 is the 42nd Communication Satellite of India.
+SALIENT FEATURES OF CMS-01
+Mission Life 	7 years
+Power Generation 	1500 W
+
+मिशन कालावधि / Mission Life: 7 years
+प्रमोचक राकेट / Launch Vehicle: PSLV-C50/CMS-01
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

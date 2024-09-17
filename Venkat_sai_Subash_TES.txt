@@ -1,0 +1,21 @@
+ The Technology Experiment Satellite (TES) Home / Activities / Missions accomplished
+
+The Technology Experiment Satellite (TES), weighing 1108 kg, was launched on October 22, 2001. TES is an experimental satellite to demonstrate and validate the technologies like attitude and orbit control system, high-torque reaction wheels, new reaction control system, light-weight spacecraft structure, solid state recorder, X-band phased array antenna, improved satellite positioning system, miniaturised TTC and power systems and, two-mirror-on-axis camera optics.
+
+TES also carried a panchromatic camera for remote sensing experiments.
+
+More Details
+PSLV-C3/TES
+The Technology Experiment Satellite (TES)
+
+प्रमोचक राकेट / Launch Vehicle: PSLV-C3 / TES
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Launch date 	22 October 2001
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C3
+Orbit 	572 km Sun Synchronous
+Payloads 	PAN 

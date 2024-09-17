@@ -1,0 +1,47 @@
+
+
+CARTOSAT-1 Home / Activities / Missions accomplished
+
+CARTOSAT–1 is the first Indian Remote Sensing Satellite capable of providing in-orbit stereo images. The images were used for Cartographic applications meeting the global requirements. Cameras of this satellite have a resolution of 2.5m (can distinguish a small car).
+
+The Cartosat–1 provided stereo pairs required for generating Digital Elevation Models, Ortho Image products, and Value added products for various applications of Geographical Information System (GIS).
+
+More Details
+CARTOSAT-1
+HAMSAT
+Cartosat-1 Completes a Decade in orbit (2005 – 2015)
+Brochure pdf icon PDF - 1.78 MB
+
+प्रमोचन भार / Launch Mass:
+1560 kg
+मिशन कालावधि / Mission Life :
+5 years
+शक्ति / Power:
+1100 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C6/CARTOSAT-1/HAMSAT
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Launch date 	5 May 2005
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C6
+Orbit 	618 km Polar Sun Synchronous
+Payloads 	PAN FORE, PAN - AFT
+Orbit Period 	97 min
+Number of Orbits Per day 	14
+Local time of equator crossing 	10:30 am
+Repetivity 	126 days
+Revisit 	5 days
+Lift-Off mass 	1560 kg
+Attitude and orbit control 	3-axis body stabillised using reaction wheels, Magnetic Torquers and Hydrazine Thrusters
+Electrical power 	15 sqm Solar Array generating 1100w,
+Two 24 Ah Ni-Cd batteries
+Mission life 	5 years 

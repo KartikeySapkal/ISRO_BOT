@@ -1,0 +1,52 @@
+
+GSLV-F14/INSAT-3DS MISSION Home / GSLV-F14/INSAT-3DS MISSION
+The vehicle has successfully placed the satellite into the intended geosynchronous transfer orbit.
+
+February 8, 2024
+
+The launch of the GSLV-F14/INSAT-3DS mission is accomplished on Saturday, February 17, 2024, at 17:30 Hrs. IST from SDSC-SHAR, Sriharikota. In its 16th mission, the GSLV aims at deploying the INSAT-3DS meteorological satellite into the Geosynchronous Transfer Orbit (GTO). Subsequent orbit-raising maneuvers will ensure that the satellite is positioned in a Geo-stationary Orbit.
+
+GSLV-F14
+
+Geosynchronous Satellite Launch Vehicle (GSLV) is a three-stage 51.7 m long launch vehicle having a liftoff mass of 420 tonnes. The first stage (GS1) comprises a solid propellant (S139) motor having 139-ton propellant and four earth-storable propellant stages (L40) strapons which carry 40 tons of liquid propellant in each. The second stage (GS2) is also an earth-storable propellant stage loaded with 40-ton propellant. The third stage (GS3) is a cryogenic stage with a 15-ton propellant loading of liquid oxygen (LOX) and liquid hydrogen (LH2). During the atmospheric regime, the Satellite is protected by Ogive payload fairing. GSLV can be used to launch a variety of spacecraft capable of performing communications, navigation, earth resource surveys, and any other proprietary mission.
+
+INSAT-3DS
+
+INSAT-3DS Satellite is a follow-on mission of Third Generation Meteorological Satellite from Geostationary Orbit. GSLV-F14/INSAT-3DS mission is fully funded by the Ministry of Earth Sciences (MoES). It is designed for enhanced meteorological observations and monitoring of land and ocean surfaces for weather forecasting and disaster warning. The satellite will augment the Meteorological services along with the presently operational INSAT-3D and INSAT-3DR satellites. Indian Industries have significantly contributed to the making of the Satellite.
+
+Various departments of the Ministry of Earth Sciences (MoES) such as the India Meteorology Department (IMD), National Centre for Medium-Range Weather Forecasting (NCMRWF), Indian Institute of Tropical Meteorology (IITM), National Institute of Ocean Technology (NIOT), Indian National Center for Ocean Information Services (INCOIS) and various other agencies and institutes will be using the INSAT-3DS Satellite data to provide improved weather forecasts and meteorological services.
+
+The primary objectives of the mission are:
+
+    To monitor Earth’s surface, carry out Oceanic observations and its environment in various spectral channels of meteorological importance.
+    To provide the vertical profile of various meteorological parameters of the Atmosphere.
+    To provide the Data Collection and Data Dissemination capabilities from the Data Collection Platforms (DCPs).
+    To provide Satellite Aided Search and Rescue services.
+
+More Details
+GSLV-F14/INSAT-3DS MISSION
+Launch Streaming
+Teaser Video
+Onboard Video
+Brochure pdf icon PDF - 10 MB
+INSAT-3DS Satellite Flagged off to SDSC-SHAR
+Gallery
+INSAT-3DS begins imaging the Earth
+
+Satellite salient features
+Mission 	Meteorological services
+Data relay and Satellite Aided Search & Rescue services
+Payloads 	6 channel Imager
+19 channel Sounder
+Data Relay Transponder (DRT)
+Satellite Aided Search & Rescue transponder (SAS&R)
+Orbit 	Geostationary orbit
+Structure 	I-2k platform
+Thermal 	6 channel Imager
+Passive and active thermal control system
+Bi-annual yaw flip to reduce the thermal load on the passive coolers
+Power generation 	42 V Sunlit regulated single bus
+Power generation 1505W (Equinox)
+I-2k Solar panels and Li-Ion 100Ah Battery for eclipse support
+Launch vehicle 	GSLV with 4 m diameter. Ogive Payload Fairing
+Standard 937mm diameter. interface 

@@ -1,0 +1,33 @@
+
+
+IRNSS-1C Home / Activities / Missions accomplished
+
+IRNSS-1C is the third navigation satellite of the seven satellites constituting the IRNSS space segment. Its predecessors, IRNSS-1A and IRNSS-1B were launched by PSLV-C22 and PSLV-C24 in July 2013 and April 2014 respectively. IRNSS-1C has a lift-off mass of 1425.4 kg. The configuration of IRNSS-1C is similar to that of IRNSS-1A and IRNSS-1B. The satellite has been realized in less than six months after the launch of its predecessor.
+
+The satellite is powered by two solar arrays, which generate power up to 1,660 watts, and has a life-time of ten years. IRNSS-1C carries two types of payloads – navigation payload and ranging payload. The navigation payload of IRNSS-1C transmits navigation service signals to the users. This payload is operating in L5-band and S-band. A highly accurate Rubidium atomic clock is part of the navigation payload of the satellite. The ranging payload of IRNSS-1C consists of a C-band transponder which facilitates accurate determination of the range of the satellite. IRNSS-1C also carries Corner Cube Retro Reflectors for laser ranging.
+
+More Details
+IRNSS Programme
+PSLV-C26/IRNSS-1C
+IRNSS-1C
+Brochure pdf icon PDF - 7.17 MB
+Gallery
+Updates
+Lift-off Mass 	1425.4 kg
+Physical Dimensions 	1.58 metre x 1.50 metre x 1.50 metre
+Orbit 	Geostationary, at 83 deg East longitude
+Power 	Two solar panels generating 1660 W, one lithium-ion battery of 90 Ampere-Hour capacity
+Propulsion 	440 Newton Liquid Apogee Motor, twelve 22 Newton Thrusters
+Control System 	Zero momentum system, orientation input from Sun & Star Sensors and Gyroscopes; Reaction Wheels, Magnetic Torquers and 22 Newton thrusters as actuators
+Mission Life 	10 years
+Launch date 	Oct 16, 2014
+Launch site 	SDSC SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV - C26
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C26/IRNSS-1C
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GEO

@@ -1,0 +1,51 @@
+
+
+Megha-Tropiques Home / Activities / Missions accomplished
+
+Megha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions.
+
+Megha-Tropiques provides scientific data on the contribution of the water cycle to the tropical atmosphere, with information on condensed water in clouds, water vapour in the atmosphere, precipitation, and evaporation. With its circular orbit inclined 20 deg to the equator, the Megha-Tropiques is a unique satellite for climate research that should also aid scientists seeking to refine prediction models.
+
+More Details
+PSLV-C18/Megha-Tropiques
+Megha-Tropiques
+Jugnu
+SRMSat
+Gallery
+Brochure pdf icon PDF - 1.17 MB
+
+Megha-Tropiques carries the following four payloads:
+
+    Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS), an Imaging Radiometer developed jointly by CNES and ISRO
+    Sounder for Probing Vertical Profiles of Humidity (SAPHIR), from CNES
+    Scanner for Radiation Budget (ScaRaB), from CNES
+    Radio Occultation Sensor for Vertical Profiling of Temperature and Humidity (ROSA), procured from Italy
+
+प्रमोचन भार / Launch Mass:
+1000 kg
+शक्ति / Power:
+1325 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C18/Megha-Tropiques
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Climate & Environment
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Lift-off Mass 	1000 kg
+Orbit 	867 km with an inclination of 20 deg to the equator
+Thermal 	Passive system with IRS heritage
+Power 	1325 W (at End of Life)
+Two 24 AH NiCd batteries
+TTC 	S-band
+Attitude and Orbit Control 	3-axis stabilised with 4 Reaction Wheels, Gyros and Star sensors, Hydrazine based RCS
+Solid State Recorder 	16 Gb
+Launch date 	October 12, 2011
+Launch site 	SDSC SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV- C18 

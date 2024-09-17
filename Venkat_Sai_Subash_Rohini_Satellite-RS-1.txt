@@ -1,0 +1,27 @@
+ Rohini Satellite RS-1 Home / Activities / Missions accomplished
+
+Jul 18,1980
+
+RS-1 was a 35 kg experimental spin stabilized satellite designed with a power handling capability of 16W. It was successfully launched onboard SLV-3 from SHAR Centre on July 18, 1980 into an orbit of 305 x 919 km with an inclination of 44.7°. All the fourth stage parameters of SLV-3 were successfully telemetered to the ground stations by RS-1 during the launch phase. The satellite had an orbital life of 9 months. The satellite carried Digital sun sensor, Magnetometer and temperature sensors. The structure was made of Aluminium Alloy. 
+
+प्रमोचन भार / Launch Mass: 35 kg
+मिशन कालावधि / Mission Life : 1.2 years
+शक्ति / Power: 16 Watts
+प्रमोचक राकेट / Launch Vehicle: SLV-3E2
+उपग्रह का प्रकार / Type of Satellite: Experimental
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO 
+
+Mission 	Experimental
+Weight 	35 kg
+Onboard power 	16 Watts
+Communication 	VHF band
+Stabilization 	Spin stabilized
+Payload 	Launch vehicle monitoring instruments
+Launch date 	July 18,1980
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	SLV-3
+Orbit 	305 x 919 km
+Inclination 	44.7 deg.
+Mission life 	1.2 years
+Orbital life 	20 months 

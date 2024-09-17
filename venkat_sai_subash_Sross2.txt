@@ -1,0 +1,28 @@
+
+
+The satellite was launched onboard the first developmental a flight of ASLV. It did not reach the orbit.
+
+प्रमोचन भार / Launch Mass: 150 kg
+शक्ति / Power: 90 W
+प्रमोचक राकेट / Launch Vehicle: ASLV-D2
+ASLV
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+Experimental
+
+
+Mission 	Experimental
+Weight 	150 kg
+Onboard power 	90 Watts
+Communication 	S-band and VHF
+Stabilization 	Three axis body stabilized (biased momentum) with a Momentum Wheel and Magnetic Torquer
+Propulsion system 	Monopropellant (Hydrazine based)
+Reaction Control System
+Payload 	Gamma Ray Burst (GRB) payload and Mono Payload
+Ocular Electro-Optic Stereo Scanner (MEOSS) built by DLR, Germany
+Launch date 	July 13, 1988
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	Augmented Satellite Launch Vehicle (ASLV)
+Orbit 	Not realised 
