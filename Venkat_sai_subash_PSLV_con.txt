@@ -1,0 +1,712 @@
+PSLV Content:
+
+
+
+         PSLV
+        
+
+
+          Home
+         
+         / Activities / PSLV
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Payload Fairing
+                  
+
+                   The PSLV is capable of placing
+																		multiple payloads into orbit, thus multi-payload
+																		adaptors are used in the payload fairing. This
+																		allowed the feat of launching 10 satellites into
+																		different orbits in 2008, successfully launched
+																		eight satellites into two different orbits in a
+																		single mission from the First Launch Pad in 2016
+																		and PSLV-C37 is the 39th flight launched the
+																		Cartosat-2 series satellite and 103 co-passenger
+																		satellites. More recently, on February 14th,
+																		2022, PSLV C52 launched EOS-04, INS-2TD &
+																		InspireSat-1 into their designated orbits
+																		successfully
+                  
+
+
+
+
+
+
+
+
+
+                   PS4 s
+                  
+
+                   PS4 is the fourth and final
+																		stage of pslv and it uses two liquid engines for
+																		propulsion. PS4 is responsible for the correct
+																		injection of PSLV's payloads into their
+																		respective desired orbits.
+                  
+
+
+
+
+
+
+
+
+
+                   PS3
+                  
+
+                   PS3 is the third and
+																		penultimate stage of PSLV, and it uses a HTPB
+																		based propellant
+                  
+
+
+
+
+
+
+
+
+
+                   PS2
+                  
+
+                   PS2 IS THE SECOND STAGE OF
+																		PSLV AND IS POWERED BY THE VIKAS LIQUID ENGINE,
+																		DEVELOPED IN THE EARLY 90S.
+                  
+
+
+
+
+
+
+
+
+
+                   PS1
+                  
+
+                   PS1 is the first stage of PSLV
+																		and it provides the launcher the high thrust
+																		that is required for lift off. It uses the S139
+																		solid rocket booster that contains 139 tonnes of
+																		HTPB.
+                  
+
+
+
+
+
+
+
+
+
+                   Strap-on Boosters
+                  
+
+                   PSLV-XL uses 6 extended
+																		strap-ons of 12 tonnes each, the PSLV-CA (core
+																		alone version) does not use any strap-on motors,
+																		PSLV-DL uses 2 and PSLV QL uses 4.
+                  
+
+
+
+
+
+
+
+
+                PSLV-XL Configuration
+               
+
+
+
+
+                   Gross Weight
+                  
+
+                   : 320t
+                  
+
+
+
+                   Overall height
+                  
+
+                   : 44.4 m
+                  
+
+
+
+                   Diameter
+                  
+
+                   : 2.8m
+                  
+
+
+
+                   Features
+                  
+
+                   : 04 stage vehicle, multiple satellite launch
+																		capability and multiple orbit capability
+                  
+
+
+
+
+
+
+
+                 Technical Specification
+                
+
+
+
+
+
+                 Vehicle Specifications
+                
+
+
+
+
+                    Height
+                   
+
+                    : 44 m
+                   
+
+
+
+                    Diameter
+                   
+
+                    : 2.8 m
+                   
+
+
+
+                    Number of Stages
+                   
+
+                    : 4
+                   
+
+
+
+                    Lift Off Mass
+                   
+
+                    : 320 tonnes (XL)
+                   
+
+
+
+                    Variants
+                   
+
+                    : 4 (PSLV,CA,DL,QL,XL)
+                   
+
+
+
+                    First Flight
+                   
+
+                    : September 20, 1993
+                   
+
+
+
+
+
+
+
+
+
+                  Payload to SSPO (Sun Synchronous Polar Orbit): 1,750 kg
+                 
+
+                  PSLV earned its title 'the
+																	Workhorse of ISRO' through consistently delivering
+																	various satellites to Low Earth Orbits. It can take
+																	up to 1,750 kg of payload to Sun-Synchronous Polar
+																	Orbits of 600 km altitude.
+                 
+
+
+
+
+
+
+
+                  Payload to Sub GTO: 1,425
+																	kg
+                 
+
+                  Due to its unmatched
+																	reliability,
+																	PSLV has also been used to launch various satellites
+																	into Geosynchronous and Geostationary orbits, like
+																	satellites from the IRNSS constellation.
+                 
+
+
+
+
+
+
+
+                  Fourth Stage: PS4
+                 
+
+                  The PS4 is the uppermost
+																	stage of
+																	PSLV, comprising of two Earth storable liquid
+																	engines.
+                 
+
+
+
+
+                     Engine
+                    
+
+                     : 2 x PS-4
+                    
+
+
+
+                     Fuel
+                    
+
+                     : MMH + MON
+                    
+
+
+
+                     Max. Thrust
+                    
+
+                     : 7.3 x 2 kN
+                    
+
+
+
+
+
+
+
+
+
+
+                  Third Stage: PS3
+                 
+
+                  The third stage of PSLV is a
+																	solid rocket motor that provides the upper stages
+																	high thrust after the atmospheric phase of the
+																	launch.
+                 
+
+
+
+
+                     Motor
+                    
+
+                     : S7
+                    
+
+
+
+                     Fuel
+                    
+
+                     : HTPB
+                    
+
+
+
+                     Max. Thrust
+                    
+
+                     : 240 kN
+                    
+
+
+
+
+
+
+
+
+
+
+                  Second Stage: PS2
+                 
+
+                  PSLV uses an Earth storable
+																	liquid rocket engine for its second stage, know as
+																	the Vikas engine, developed by Liquid Propulsion
+																	Systems Centre.
+                 
+
+
+
+
+                     Engine
+                    
+
+                     : Vikas
+                    
+
+
+
+                     Fuel
+                    
+
+                     : UDMH + N
+                     
+                      2
+                     
+                     O
+                     
+                      4
+                     
+
+
+
+
+                     Max. Thrust
+                    
+
+                     : 799 kN
+                    
+
+
+
+
+
+
+
+
+
+
+                  First Stage: PS1
+                 
+
+                  PSLV uses the S139 solid
+																	rocket
+																	motor that is augmented by 6 solid strap-on
+																	boosters.
+                 
+
+
+
+
+                     Engine
+                    
+
+                     : S139
+                    
+
+
+
+                     Fuel
+                    
+
+                     : HTPB
+                    
+
+
+
+                     Max. Thrust
+                    
+
+                     : 4800 kN
+                    
+
+
+
+
+
+
+
+
+
+
+
+                 Strap-on Motors
+                
+
+                 PSLV uses 6,4,2 solid rocket
+																strap-on
+																motors to augment the thrust provided by the first stage
+																in PSLV-XL, QL & DL variants respectively. However,
+																strap-ons are not used in the core alone version
+																(PSLV-CA).
+                
+
+
+
+
+                    Motor
+                   
+
+                    : S12
+                   
+
+
+
+                    Fuel
+                   
+
+                    : HTPB
+                   
+
+
+
+                    Max. Thrust
+                   
+
+                    : 719 kN
+                   
+
+
+
+
+
+
+
+
+
+
+                 About the Launch Vehicle
+                
+
+                 Polar Satellite Launch Vehicle
+																(PSLV) is
+																the third generation launch vehicle of India.
+																It is the first Indian launch vehicle to be equipped
+																with
+																liquid stages. After its first successful launch in
+																October
+																1994,
+																PSLV emerged as a reliable and versatile workhorse
+																launch
+																vehicle of India. The vehicle has launched numerous
+																Indian
+																and foreign customer satellites.
+																Besides, the vehicle successfully launched two
+																spacecraft
+																"Chandrayaan-1 in 2008 and Mars Orbiter Spacecraft in
+																2013"that later travelled to Moon and Mars respectively.
+																Chandrayaan-1 and MOM were feathers in the hat of PSLV.
+																The
+																launch of PSLV-C48 marks the 50th Launch of PSLV.
+
+																Besides, the vehicle successfully launched two
+																spacecraft "
+																Chandrayaan-1 in 2008 and Mars Orbiter Spacecraft in
+																2013"that later traveled to Moon and Mars respectively
+                
+
+                 PSLV earned its title 'the
+																workhorse of
+																ISRO' through consistently delivering various satellites
+																into low
+																earth orbits, particularly the IRS Series of satellites
+                
+
+                 Due to its unmatched reliability,
+																PSLV
+																has also been used to launch various satellites into
+																Geosynchronous and Geostationary orbits,
+																like satellites from the IRNSS Constellation
+                
+
+                 The PSLV is capable of placing
+																multiple
+																payloads into orbit, thus multi-payload adaptors are
+																used in
+																the payload fairing.
+																The payload performance of the vehicle and mission
+																flexibility is evident from the challenging missions
+																where
+																multi-orbit and multi-satellite missions
+																are accomplished. The long string of consecutive
+																successes
+																and multi-satellite
+																launch capability has reinforced the status of PSLV as a
+																reliable, versatile and affordable launcher in the
+																global
+																market
+                
+
+
+
+
+
+                   More Details
+                  
+
+
+
+                   Launchers
+                  
+
+
+
+                   Sounding Rockets
+                  
+
+
+
+                   SLV
+                  
+
+
+
+                   ASLV
+                  
+
+
+
+                   PSLV
+                  
+
+
+
+                     List of PSLV Launches
+                    
+
+
+
+
+
+                   GSLV
+                  
+
+
+
+                   GSLV Mk III
+                  
+
+
+
+                   SSLV
+                  
+
+
+
+                   RLV-TD
+                  
+
+
+
+                   Scramjet Engine -
+																		TD
+                  
+
+
+
+
+
+
+
+                   More Details
+                  
+
+
+
+                   Launchers
+                  
+
+
+
+                   Sounding Rockets
+                  
+
+
+
+                   SLV
+                  
+
+
+
+                   ASLV
+                  
+
+
+
+                   PSLV
+                  
+
+
+
+                     List of PSLV Launches
+                    
+
+
+
+
+
+                   GSLV
+                  
+
+
+
+                   GSLV Mk III
+                  
+
+
+
+                   SSLV
+                  
+
+
+
+                   RLV-TD
+                  
+
+
+
+                   Scramjet Engine -
+																		TD
+                  
+
+
+
+
+
+
+
+
+
+
+
+

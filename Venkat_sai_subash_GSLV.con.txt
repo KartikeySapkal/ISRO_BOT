@@ -1,0 +1,522 @@
+GSLV.con Content:
+
+
+
+         Geosynchronous Satellite Launch Vehicle Mark II
+        
+
+
+
+          Home
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Payload Fairing
+                
+
+                  There are two variant of payload
+																	fairing
+																	for GSLV vehicle:
+                  
+                  1. Diameter of 3.4 m metallic PLF &
+                  
+                  2. Diameter of 4 m ogive PLF.
+                  
+                  The payload fairing of GSLV is wider than the
+																	rest of the launcher. The fairing provides
+																	aerodynamic efficiency and shields the payload from
+																	mechanical damage during the atmospheric phase of
+																	flight.
+                 
+
+
+
+
+
+
+
+
+
+                  CUS(Third Stage)
+                
+                
+                  The cryogenic upper stage of GSLV
+																	imparts a high velocity to the payload and detaches
+																	at the periapsis. This high velocity is
+																	characteristic of the Geosynchronous Transfer Orbit.
+																	Once the spacecraft reaches the apoapsis of this
+																	high eccentricity orbit,
+																	it performs a burn using its Spacecraft propulsion
+																	to circularise its orbit.
+               
+                
+
+
+
+
+
+
+
+
+                  GS2(Second Stage)
+                
+
+                  The high thrust hypergolic liquid
+																	propellant Vikas engine's newer improved version
+																	with a higher chamber pressure is used here. It is
+																	activated 150 seconds into flight.
+               
+                
+
+
+
+
+
+
+
+
+                  S139 (First Stage):
+                
+ The first stage of GSLV is ignited
+																	at Lift off(To) after the ignition of the four
+																	strap-ons occurring at (To-4.8 sec), ensuring their
+																	full functionality. This is required in order to
+																	extract maximum thrust out of the initial stages.
+																	The solid core of the first stage burns for 100
+																	seconds while the strap-ons continue to provide
+																	thrust for another 40 seconds
+                
+                
+
+
+
+
+
+
+
+
+                  L40 (Strap-on Boosters
+                
+  The GSLV uses 4 liquid strap-on
+																	motors. The strap-ons are powered by one Vikas
+																	engine each and along with the solid rocket motor
+																	core of the first stage, provide an enormous thrust
+																	to the launcher.
+              
+                
+
+
+
+
+
+
+
+
+
+               Vehicle Specifications
+              
+
+
+
+
+                  Height
+                 
+
+                  : 51.73 m (With Ogive PLF)
+                 
+
+
+
+                  Number of Stages
+                 
+
+                  : 3
+                 
+
+
+
+                  Lift Off Mass
+                 
+
+                  : 420 tonnes
+                 
+
+
+
+                  First Flight
+                 
+
+                  : April 18, 2001
+                 
+
+
+
+                  First Flight (With Indigenous Cryo Stage)
+                 
+
+                  : January 5, 2014
+                 
+
+
+
+
+
+
+               Technical Specification
+              
+
+
+
+
+
+                 Payload to GTO: 2,250 kg
+                
+
+                 GSLV's primary payloads are INSAT
+																class of communication satellites that operate from
+																Geostationary orbits and hence are placed in
+																Geosynchronous Transfer Orbits by GSLV.
+                
+
+
+
+
+
+
+
+                 Payload to LEO (Low Earth
+																Orbit) : 6,000 kg
+                
+
+                 Further, GSLV's capability of placing
+																up to 6 tonnes in Low Earth Orbits broadens the scope of
+																payloads from heavy satellites to multiple smaller
+																satellites.
+                
+
+
+
+
+
+
+
+                 Third Stage: CUS
+                
+
+                 Developed under the Cryogenic Upper
+																Stage Project (CUSP), the CE-7.5 is India's first
+																cryogenic engine, developed by the Liquid Propulsion
+																Systems Centre. CE-7.5 has a staged combustion operating
+																cycle.
+                
+
+
+
+
+                    Fuel
+                   
+
+                    : LOX + LH2
+                   
+
+
+
+                    Nominal Thrust (Max)
+                   
+
+                    : 75 kN
+                   
+
+
+
+                    Burn-time
+                   
+
+                    : 814 sec
+                   
+
+
+
+
+
+
+
+
+
+
+                 Second Stage: GS2
+                
+
+                 One Vikas engine is used in the
+																second stage of GSLV. The stage was derived from the PS2
+																of PSLV where the Vikas engine has proved its
+																reliability
+                
+
+
+
+
+                    Engine
+                   
+
+                    : Vikas
+                   
+
+
+
+                    Fuel
+                   
+
+                    : UH25 + N2O4
+                   
+
+
+
+                    Nominal Thrust (Max)
+                   
+
+                    : 846 kN
+                   
+
+
+
+                    Burn-time
+                   
+
+                    : 150 sec
+                   
+
+
+
+
+
+
+
+
+
+
+                 First Stage: GS1
+                
+
+                 The first stage of GSLV was also
+																derived from the PSLV's PS1. The 138 tonne solid rocket
+																motor is augmented by 4 liquid strap-ons.
+                
+
+
+
+
+                    Engine
+                   
+
+                    : S139
+                   
+
+
+
+                    Fuel
+                   
+
+                    : HTPB
+                   
+
+
+
+                    Max. Thrust
+                   
+
+                    : 4800 kN
+                   
+
+
+
+                    Burn-time
+                   
+
+                    : 100 sec
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           About the Launch Vehicle
+          
+
+           Geosynchronous Satellite Launch Vehicle Mark II (GSLV Mk II)
+										is
+										the launch vehicle developed by India, to launch communication satellites in geo
+										transfer orbit using
+										cryogenic third stage. Initially Russian GK supplied cryogenic stages were used.
+										Later cryogenic stage was indigenously developed and
+										inducted in Jan 2014 from GSLV D5 onwards. This operational fourth generation
+										launch vehicle is a three stage vehicle with four liquid strap-ons.
+										The flight proven indigenously developed Cryogenic Upper Stage (CUS), forms the
+										third stage of GSLV Mk II. From January 2014,
+										the vehicle has achieved six consecutive successes
+          
+
+
+
+
+
+             More Details
+            
+
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+��� 
+               .List of GSLV Launches
+              
+
+
+
+
+             GSLV Mk III
+            
+
+
+
+             SSLV
+            
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine -
+												TD
+            
+
+
+
+
+
+
+
+             More Details
+            
+
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+��� 
+               List of GSLV Launches
+              
+
+
+
+
+             GSLV Mk III
+            
+
+
+
+             SSLV
+            
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine -
+												TD
+            
+
+
+
+
+
+

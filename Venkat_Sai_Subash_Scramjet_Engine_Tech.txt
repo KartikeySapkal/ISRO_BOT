@@ -1,0 +1,311 @@
+Scramjet Engine Technology Content:
+
+
+
+         ISRO’s Scramjet Engine Technology Demonstrator Successfully Flight
+                                Tested
+        
+
+
+          Home
+         
+         / Activities /
+         
+          Missions accomplished
+         
+
+
+
+
+
+
+
+
+          Today, satellites are launched into orbit by
+                                    multi-staged satellite launch vehicles that can be used only once
+                                    (expendable). These launch vehicles carry oxidiser along with the fuel
+                                    for combustion to produce thrust. Launch vehicles designed for one time
+                                    use are expensive and their efficiency is low because they can carry
+                                    only 2-4% of their lift-off mass to orbit. Thus, there is a worldwide
+                                    effort to reduce the launch cost.
+         
+
+          Nearly 70% of the propellant (fuel-oxidiser
+                                    combination) carried by today’s launch vehicles consists of oxidiser.
+                                    Therefore, the next generation launch vehicles must use a propulsion
+                                    system which can utilise the atmospheric oxygen during their flight
+                                    through the atmosphere which will considerably reduce the total
+                                    propellant required to place a satellite in orbit.
+         
+
+          Also, if those vehicles are made re-usable, the cost
+                                    of launching satellites will further come down significantly. Thus, the
+                                    future re-usable launch vehicle concept along with air-breathing
+                                    propulsion is an exciting candidate offering routine access to space at
+                                    far lower cost.
+         
+
+          Considering the strategic nature of air-breathing
+                                    technology which has the potential to bring a significant shift in the
+                                    launch vehicle design, worldwide efforts are on to develop the
+                                    technology for air breathing engines. Ramjet, Scramjet and Dual Mode
+                                    Ramjet (DMRJ) are the three concepts of air-breathing engines which are
+                                    being developed by various space agencies.
+         
+
+
+
+
+
+            More Details
+           
+
+
+
+            Launchers
+           
+
+
+
+            Sounding Rockets
+           
+
+
+
+
+            SLV
+           
+
+
+
+            ASLV
+           
+
+
+
+            PSLV
+           
+
+
+
+            GSLV
+           
+
+
+
+            GSLV Mk III
+           
+
+
+
+            SSLV
+           
+
+
+
+            RLV-TD
+           
+
+
+
+            Scramjet Engine - TD
+           
+
+
+
+              Scramjet Engine - TD Gallery
+             
+
+
+
+              ISRO’s Scramjet Engine Technology Demonstrator Successfully Flight
+                                                    Tested
+             
+
+
+
+
+
+
+
+
+         A ramjet is a form of air-breathing jet engine that
+                                uses the vehicle’s forward motion to compress incoming air for
+                                combustion without a rotating compressor. Fuel is injected in the
+                                combustion chamber where it mixes with the hot compressed air and
+                                ignites. A ramjet-powered vehicle requires an assisted take-off like a
+                                rocket assist to accelerate it to a speed where it begins to produce
+                                thrust.
+        
+
+         Ramjets work most efficiently at supersonic speeds
+                                around Mach 3 (three times the speed of sound) and can operate up to
+                                speeds of Mach 6. However, the ramjet efficiency starts to drop when the
+                                vehicle reaches hypersonic speeds.
+        
+
+
+
+
+
+
+         A scramjet engine is an improvement over the ramjet
+                                engine as it efficiently operates at hypersonic speeds and allows
+                                supersonic combustion. Thus it is known as Supersonic Combustion Ramjet,
+                                or Scramjet.
+        
+
+
+
+
+
+
+         A dual mode ramjet (DMRJ) is a type of jet engine
+                                where a ramjet transforms into scramjet over Mach 4-8 range, which means
+                                it can efficiently operate both in subsonic and supersonic combustor
+                                modes.
+        
+
+         An important development in ISRO’s Air Breathing
+                                Propulsion Project (ABPP) occurred on August 28, 2016, which was the
+                                successful flight testing of its Scramjet.
+        
+
+         This first experimental mission of ISRO’s Scramjet
+                                Engine towards the realisation of an Air Breathing Propulsion System was
+                                successfully conducted from Satish Dhawan Space Centre SHAR,
+                                Sriharikota.
+        
+
+         After a smooth countdown of 12 hours, the solid
+                                rocket booster carrying the Scramjet Engines lifted off at 0600 hrs
+                                (6:00 am) IST. The important flight events, namely, burn out of booster
+                                rocket stage, ignition of second stage solid rocket, functioning of
+                                Scramjet engines for 5 seconds followed by burn out of the second stage
+                                took place exactly as planned.
+        
+
+         After a flight of about 300 seconds, the vehicle
+                                touched down in the Bay of Bengal, approximately 320 km from
+                                Sriharikota. The vehicle was successfully tracked during its flight from
+                                the ground stations at Sriharikota.
+        
+
+         With this flight, critical technologies such as
+                                ignition of air breathing engines at supersonic speed, holding the flame
+                                at supersonic speed, air intake mechanism and fuel injection systems
+                                have been successfully demonstrated. The Scramjet engine designed by
+                                ISRO uses Hydrogen as fuel and the Oxygen from the atmospheric air as
+                                the oxidiser. The August 28 test was the maiden short duration
+                                experimental test of ISRO’s Scramjet engine with a hypersonic flight at
+                                Mach 6. ISRO’s Advanced Technology Vehicle (ATV), which is an advanced
+                                sounding rocket, was the solid rocket booster used for this recent test
+                                of Scramjet engines at supersonic conditions. ATV carrying Scramjet
+                                engines weighed 3277 kg at lift-off.
+        
+
+
+
+
+
+
+         ATV is a two stage spin stabilised launcher with
+                                identical solid motors (based on Rohini RH560 sounding rocket) as the
+                                first as well as the second stage (booster and sustainer). The twin
+                                Scramjet engines were mounted on the back of the second stage. Once the
+                                second stage reached the desired conditions for engine “Start-up”,
+                                necessary actions were initiated to ignite the Scramjet engines and they
+                                functioned for about 5 seconds. ATV flight operations were based on a
+                                pre-programmed sequence.
+        
+
+         Some of the technological challenges handled by ISRO
+                                during the development of Scramjet engine include the design and
+                                development of Hypersonic engine air intake, the supersonic combustor,
+                                development of materials withstanding very high temperatures,
+                                computational tools to simulate hypersonic flow, ensuring performance
+                                and operability of the engine across a wide range of flight speeds,
+                                proper thermal management and ground testing of the engines.
+        
+
+         India is the fourth country to demonstrate the flight
+                                testing of a Scramjet Engine.
+        
+
+
+
+
+
+
+
+           More Details
+          
+
+
+
+           Launchers
+          
+
+
+
+           Sounding Rockets
+          
+
+
+
+
+           SLV
+          
+
+
+
+           ASLV
+          
+
+
+
+           PSLV
+          
+
+
+
+           GSLV
+          
+
+
+
+           GSLV Mk III
+          
+
+
+
+           SSLV
+          
+
+
+
+           RLV-TD
+          
+
+
+
+           Scramjet Engine - TD
+          
+
+
+
+             Scramjet
+                                                Engine - TD Gallery
+            
+
+
+
+             ISRO’s Scramjet Engine Technology Demonstrator Successfully Flight
+                                                Tested
+            
+
+
+
+
+
+
