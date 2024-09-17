@@ -1,0 +1,57 @@
+
+
+GSAT-6 Home / Activities / Missions accomplished
+
+Aug 27, 2015
+
+GSAT-6 is the twenty fifth geostationary communication satellite of India built by ISRO and twelfth in the GSAT series. Five of GSAT-6's predecessors were launched by GSLV during 2001, 2003, 2004, 2007 and 2014 respectively. After its commissioning, GSAT-6 joined the group of India's other operational geostationary satellites.
+
+GSAT-6 Satellite provides communication through S-band payload with five spot beams covering whole India for user links and C-band with one beam. The cuboid shaped GSAT-6 has a lift-off mass of 2117 kg. Of this, propellants weigh 1132 kg and the dry mass of the satellite is 985 kg. One of the advanced features of GSAT-6 satellite is its S-Band Unfurlable Antenna of 6 m diameter. This is the largest satellite antenna realised by ISRO. This antenna is utilised for five spot beams over the Indian main land. The spot beams exploit the frequency reuse scheme to increase frequency spectrum utilization efficiency. The other advanced feature of the satellite is the 70 V bus, which is flying first time in an Indian communication satellite
+
+More Details
+GSLV-D6
+GSAT-6
+Gallery
+Brochure pdf icon PDF - 1.19 MB
+
+Soon after its injection into GTO, the two solar arrays of GSAT-6 were automatically deployed and the Master Control Facility (MCF) at Hassan in Karnataka took control of GSAT-6. Subsequently, GSAT-6's orbit was raised to the final circular Geostationary Orbit (GSO) by firing the satellite's Liquid Apogee Motor (LAM) in stages. The satellite was declared operational after the completion of orbit raising operations, deployment of its 6 m wide sieve shaped unfurlable antenna, the satellite’s positioning in its designated orbital slot of 83 degree East longitude in the GSO and in-orbit testing of its communication payloads.
+
+प्रमोचन भार / Launch Mass:
+2117 kg
+आयाम / Dimension:
+2.1 x 2.5 x 4.1
+मिशन कालावधि / Mission Life :
+9 years
+शक्ति / Power:
+Generated power 3100 W
+प्रमोचक राकेट / Launch Vehicle:
+GSLV-D6
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Communication
+कक्षा का प्रकार / Orbit Type:
+GTO
+GSAT-6 at a glance
+Physical Properties 	Lift off Mass : 2117 kg
+Main Structure : I-2K
+Overall size(m) : 2.1 x 2.5 x 4.1
+Power 	Generated power 3100 W
+AOCS 	Momentum biased 3-axis stabilised
+Antennas 	One 0.8 m (fixed) and one 6 m
+unfurlable antenna (transmit and
+receive)
+Communication
+payloads 	i. S-band payload with five spot
+beams covering India for user
+links
+ii. C-band payload with one beam
+covering India for hub links
+S-band payload uses 6 m unfurlable
+antenna and C-band uses 0.8 m
+antenna.
+Mission life 	9 years 

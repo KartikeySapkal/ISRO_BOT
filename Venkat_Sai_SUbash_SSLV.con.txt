@@ -1,0 +1,397 @@
+SSLV.con Content:
+
+
+
+         Small Satellite Launch Vehicle
+        
+
+
+          Home
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Vehicle Configuration
+                 
+
+
+
+
+
+
+
+
+                       2m diameter x 34m long
+                      
+
+
+
+                       Lift off mass : ~120T
+                      
+
+
+
+                       Three Solid propulsion stages
+                      
+
+
+
+                       Liquid module as terminal stage
+                      
+
+
+
+
+
+
+
+
+                  Payload Capability
+                 
+
+
+
+
+
+
+
+
+                       Single/Multi Satellites - Nano,
+																						Micro and Mini satellites
+                      
+
+
+
+                       Single Satellite up to 500kg in
+																						500km planar orbit
+                      
+
+
+
+                       Three Multiple satellites
+																						ranging from 10kg to 300kg into
+																						500km Planar Orbit
+                      
+
+
+
+
+
+
+
+
+                  Technical Specification
+                 
+
+
+
+
+
+                    Stage 1: SS1
+                   
+
+
+
+
+                       Fuel
+                      
+
+                       : HTPB based Solid Propellant
+                      
+
+
+
+                       Max. vac Thrust
+                      
+
+                       : 2496 kN
+                      
+
+
+
+                       Burntime
+                      
+
+                       : 94.3 sec
+                      
+
+
+
+
+
+
+
+
+
+
+                    Stage 2: SS2
+                   
+
+
+
+
+                       Fuel
+                      
+
+                       : HTPB based Solid Propellant
+                      
+
+
+
+                       Max. vac Thrust
+                      
+
+                       : 234.2 kN
+                      
+
+
+
+                       Burntime
+                      
+
+                       : 113.1 sec
+                      
+
+
+
+
+
+
+
+
+
+
+                    Stage 3: SS3
+                   
+
+
+
+
+                       Fuel
+                      
+
+                       : HTPB based Solid Propellant
+                      
+
+
+
+                       Max. vac Thrust
+                      
+
+                       : 160 kN
+                      
+
+
+
+                       Burntime
+                      
+
+                       : 106.9 sec
+                      
+
+
+
+
+
+
+
+
+
+
+                    Velocity Trimming
+																			Module (VTM)
+                   
+
+                    Velocity Trimming Module based on 50N Bipropellant Thrusters with 8 nos. of 50N thrusters for RCS and 8 nos. of 50N axial thrusters of Velocity addition.
+                   
+
+
+
+
+                       Fuel
+                      
+
+                       : MMH + MON-3 (Liquid)
+                      
+
+
+
+                       Max. vac Thrust
+                      
+
+                       : 50 N x 16
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           About the Launch Vehicle
+          
+
+           Small Satellite Launch Vehicle (SSLV) is a 3 stage Launch Vehicle configured with three Solid Propulsion Stages and liquid propulsion based Velocity Trimming Module (VTM) as a terminal stage.
+           SSLV is 2m in diameter and 34m in length with lift off weight of ~120 tonnes. SSLV is capable of launching ~500kg satellite in 500km planar orbit from SDSC/SHAR. The key features of SSLV are Low cost, with low turn-around time, flexibility in accommodating multiple satellites, Launch on demand feasibility, minimal launch infrastructure requirements, etc.
+          
+
+
+
+
+             More Details
+           
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+
+
+             GSLV Mk III
+            
+
+
+
+             SSLV
+            
+
+
+
+               List of SSLV Launches
+              
+
+
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine - TD
+            
+
+
+
+
+
+
+
+             More Details
+            
+
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+
+
+             GSLV Mk III
+            
+
+
+
+             SSLV
+            
+
+
+
+               List of SSLV Launches
+              
+
+
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine - TD
+            
+
+
+
+
+
+

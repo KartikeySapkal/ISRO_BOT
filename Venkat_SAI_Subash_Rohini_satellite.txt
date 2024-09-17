@@ -1,0 +1,89 @@
+Rohini Satellite Content:Rohini Satellite RS-D2
+        
+
+
+          Home
+         
+         / Activities /
+         
+          Missions accomplished
+         
+
+
+
+
+
+
+
+
+          Apr 17,1983
+          
+
+            Back to ISRO Timeline
+           
+
+
+
+
+
+
+
+
+
+           RS-D2 was a 41.5 kg experimental spin stabilized satellite designed with a power
+                                        handling capability of 16W .It was launched onboard SLV-3 from SHAR Centre on
+                                        April 17, 1983. The Smart Sensor Camera was the primary payload onboard the
+                                        satellite. It has sent more than 5000 pictures frames in both visible and
+                                        infra-red bands for identification of features and demonstrated the technique of
+                                        determination of attitude and orbit using images. The camera had on-board
+                                        processing capability to use the data for classifying ground features like
+                                        water, vegetation, bare land, clouds and snow.
+          
+
+
+
+
+
+             More Details
+            
+
+
+
+
+              Rohini Satellite RS-D2
+             
+
+प्रमोचन भार / Launch Mass: 41.5 kg
+मिशन कालावधि / Mission Life : 17 months
+शक्ति / Power: 16 Watts
+प्रमोचक राकेट / Launch Vehicle: SLV-3
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: LEO (Low Earth Orbit) 
+
+
+Mission 	Experimental
+Weight 	41.5 kg
+Onboard power 	16 Watts
+Communication 	VHF band
+Stabilization 	Spin stabilized
+Payload 	Smart sensor (remote sensing payload),
+L-band beacon
+Launch date 	April 17, 1983
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	SLV-3
+Orbit 	371 x 861 km
+Inclination 	46o
+Mission life 	17 months
+Orbital life 	Seven years (Re-entered on April 19, 1990) 
+
+
+
+
+
+
+
+
+             

@@ -1,0 +1,29 @@
+
+
+GSAT-2 Home / Activities / Missions accomplished
+
+May 08, 2003
+
+GSAT-2 is a 2000 kg class experimental communication satellite onboard the second developmental test flight of India's Geosynchronous Satellite Launch Vehicle, GSLV-D2. The satellite carried four C-band transponders, two Ku-band transponders and a Mobile Satellite Service (MSS) payload operating in S-band and C-band for forward link and return link respectively.
+
+GSAT-2 also carried four scientific experimental payloads - Total Radiation Dose Monitor (TRDM), Surface Charge Monitor (SCM), Solar X-ray Spectrometer (SOXS) and Coherent Radio Beacon Experiment (CRABEX).
+
+More Details
+GSLV-D2 / GSAT-2
+GSAT-2
+Brochure pdf icon PDF - 2.33 MB
+
+प्रमोचन भार / Launch Mass: 1800 Kg
+प्रमोचक राकेट / Launch Vehicle: GSLV-D2 / GSAT-2
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+Mission 	Communication
+Weight 	1800 kg
+Launch date 	
+May 8, 2003
+Launch site 	SHAR, Sriharikota, India
+Launch vehicle 	GSLV–D2
+Orbit 	Geostationary orbit (48 o E longitude) 

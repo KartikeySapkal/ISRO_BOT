@@ -1,0 +1,237 @@
+XpoSAT Content:X-ray Polarimeter Satellite (XPoSat)
+Home /Activities/Science/X-ray Polarimeter Satellite (XPoSat)
+
+
+
+
+
+
+
+
+
+
+                                    XPoSat (X-ray Polarimeter Satellite) is India’s first dedicated polarimetry mission
+                                    to study various dynamics of bright astronomical X-ray sources in extreme
+                                    conditions. The spacecraft will carry two scientific payloads in a low earth orbit.
+                                    The primary payload POLIX (Polarimeter Instrument in X-rays) will measure the
+                                    polarimetry parameters (degree and angle of polarization) in medium X-ray energy
+                                    range of 8-30 keV photons of astronomical origin. The XSPECT (X-ray Spectroscopy and
+                                    Timing) payload will give spectroscopic information in the energy range of 0.8-15
+                                    keV.
+
+
+
+                                
+
+                                    The emission mechanism from various astronomical sources such as blackhole, neutron
+                                    stars, active galactic nuclei, pulsar wind nebulae etc. originates from complex
+                                    physical processes and are challenging to understand. While the spectroscopic and
+                                    timing information by various space based observatories provide a wealth of
+                                    information, the exact nature of the emission from such sources still poses deeper
+                                    challenges to astronomers. The polarimetry measurements add two more dimension to
+                                    our understanding, the degree of polarization and the angle of polarization and thus
+                                    is an excellent diagnostic tool to understand the emission processes from
+                                    astronomical sources. The polarimetric observations along with spectroscopic
+                                    measurements are expected to break the degeneracy of various theoretical models of
+                                    astronomical emission processes. This would be the major direction of research from
+                                    XPoSat by Indian science community.
+
+
+                                
+
+
+
+
+
+                                       More Details
+                                      
+
+
+
+                                            PSLV-C58 / XPoSat Mission
+                                        
+
+
+
+                                        XPoSat 
+                                      
+
+
+
+                                       Launch Streaming
+                                      
+
+
+
+                                          Brochure
+                                        
+
+
+                                          PDF - 12.3 MB
+                                        
+
+
+
+                                            Gallery
+                                        
+
+
+
+                                          Teaser Video
+                                        
+
+
+
+                                            Liftoff and Onboard video
+                                        
+
+
+
+                                          XPoSat  First User Meet 2023 
+                                        
+
+
+
+                                          XPoSat Second User Meet 2023 
+                                        
+
+
+
+                                            Evolution of Instrumentation
+                                        
+
+
+
+                                          POLIX onboard XPoSat observations
+                                        
+
+
+
+                                          XSPECT payload performance
+                                        
+
+
+
+
+
+XPoSat payloads:
+                                    
+ POLIX
+
+                                        POLIX is an X-ray Polarimeter for astronomical observations in the energy band
+                                        of
+                                        8-30 keV. The payload is being developed by Ramam Research Institute (RRI),
+                                        Bangalore in collaboration with U R Rao Satellite Centre (URSC). The instrument
+                                        is
+                                        made of a collimator, a scatterer and four X-ray proportional counter detectors
+                                        that
+                                        surrounds the scatterer. The scatterer is made of low atomic mass material which
+                                        causes anisotropic Thomson scattering of incoming polarised X-rays. The
+                                        collimator
+                                        restricts the field of view to 3 degree x 3 degree so as to have only one bright
+                                        source in the field of view for most observations.
+
+
+                                        POLIX is expected to observer about 40 bright astronomical sources of different
+                                        categories during the planned lifetime of XPoSat mission of about 5 years. This
+                                        is the first payload in the medium X-ray energy band dedicated for polarimetry
+                                        measurements.
+
+                                        
+
+                                        
+XSPECT
+                                            XSPECT is an X-ray SPECtroscopy and Timing payload onboard XPoSat, which can
+                                            provide fast timing and good spectroscopic resolution in soft X-rays. Taking
+                                            advantage of the long duration observations required by POLIX to measure
+                                            X-ray
+                                            polarization, XSPECT can provide long-term monitoring of spectral state
+                                            changes
+                                            in continuum emission, changes in their line flux and profile, simultaneous
+                                            long
+                                            term temporal monitoring of soft X-ray emission in the X-ray energy range
+                                            0.8-15
+                                            keV. An array of Swept Charge Devices (SCDs) provide an effective area >30
+                                            cm2
+                                            at 6 keV with energy resolution better than 200 eV at 6 keV. Passive
+                                            collimators
+                                            are used to reduce the background by narrowing the field of view of XSPECT.
+                                            XSPECT would observe several types of sources viz X-ray pulsars, blackhole
+                                            binaries, low-magnetic field neutron star (NS) in LMXBs, AGNs and Magnetars.
+
+
+
+                                        
+
+
+
+
+
+
+
+
+                                   More Details
+                                  
+
+
+
+                                        PSLV-C58 / XPoSat Mission
+                                    
+
+
+
+                                    XPoSat 
+                                  
+
+
+
+                                    Launch Streaming
+                                  
+
+
+
+                                      Brochure
+                                    
+
+
+                                      PDF - 12.3 MB
+                                    
+
+
+
+                                        Gallery
+                                    
+
+
+
+                                      Teaser Video
+                                    
+
+
+
+                                        Liftoff and Onboard video
+                                    
+
+
+
+                                      XPoSat  First User Meet 2023 
+                                    
+
+
+
+                                      XPoSat Second User Meet 2023 
+                                    
+
+
+
+                                        Evolution of Instrumentation
+                                    
+
+
+
+                                      POLIX onboard XPoSat observations
+                                    
+
+
+
+                                      XSPECT payload performance

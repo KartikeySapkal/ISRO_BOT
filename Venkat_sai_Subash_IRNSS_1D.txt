@@ -1,0 +1,24 @@
+RNSS-1D Home / Activities / Missions accomplished
+
+IRNSS-1D is the fourth navigation satellite of the seven satellites constituting the IRNSS space segment. Its predecessors, IRNSS-1A, 1B and 1C were launched by PSLV-C22, PSLV-C24 and PSLV-C26 in July 2013, April 2014 and October 2014 respectively. IRNSS-1D has a lift-off mass of 1425 kg. The configuration of IRNSS-1D is similar to that of IRNSS-1A, 1B and 1C. The satellite has been realised in less than four months after the launch of its predecessor.
+
+The two solar panels of IRNSS-1D consisting of Ultra Triple Junction solar cells generate about 1660 Watts of electrical power. Sun and Star sensors as well as gyroscopes provide orientation reference for the satellite. Special thermal control schemes have been designed and implemented for some of the critical elements such as atomic clocks. The Attitude and Orbit Control System (AOCS) of IRNSS-1D maintains the satellite's orientation with the help of reaction wheels, magnetic torquers and thrusters. Its propulsion system consists of a Liquid Apogee Motor (LAM) and thrusters.
+
+More Details
+IRNSS Programme
+PSLV-C27/IRNSS-1D
+IRNSS-1D
+Gallery
+Brochure pdf icon PDF - 2.75 MB
+
+IRNSS-1D was launched into a sub Geosynchronous Transfer Orbit (sub GTO) with a 284 km perigee (nearest point to Earth) and 20,650 km apogee (farthest point to Earth) with an inclination of 19.2 deg with respect to the equatorial plane.
+
+After injection into this preliminary orbit, the two solar panels of IRNSS-1D are automatically deployed in quick succession and the Master Control Facility (MCF) at Hassan takes control of the satellite and performs the initial orbit raising manoeuvres consisting of one manoeuvre at perigee (nearest point to earth) and three at apogee (farthest point to earth). For these manoeuvres, the Liquid Apogee Motor (LAM) of the satellite is used, thereby finally placing it in the circular geostationary orbit at its designated location.
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C27/IRNSS-1D
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

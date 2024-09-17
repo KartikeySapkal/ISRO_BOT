@@ -1,0 +1,32 @@
+
+
+SROSS-C2 Home / Activities / Missions accomplished
+
+May 05,1994 
+
+Second satellite successfully orbited by ASLV. Worked for four years after its launch. 
+
+प्रमोचन भार / Launch Mass: 115 kg
+मिशन कालावधि / Mission Life : Six months (nominal)
+शक्ति / Power: 45 W
+प्रमोचक राकेट / Launch Vehicle: ASLV-D4
+उपग्रह का प्रकार / Type of Satellite: Science & Exploration
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Experimental 
+
+Mission 	Experimental
+Weight 	115 kg
+Onboard power 	45 Watts
+Communication 	S-band and VHF
+RCS 	Monopropellant Hydrazine based with six
+1 Newton thrusters
+Payload 	Gamma Ray Burst (GRB) & Retarding
+Potential Analyser (RPA)
+Launch date 	May 04,1994
+Launch site 	SHAR Centre,Sriharikota,India
+Launch vehicle 	Augmented Satellite Launch Vehicle (ASLV)
+Orbit 	430 x 600 km.
+Inclination 	45 deg.
+Mission life 	Six months (nominal)
+Orbital life 	Two years (nominal) 

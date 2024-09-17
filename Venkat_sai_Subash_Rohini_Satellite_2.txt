@@ -1,0 +1,27 @@
+ Rohini Satellite RS-D1 Home / Activities / Missions accomplished
+
+May 31,1981
+
+RS-D1 was a 38 kg experimental spin stabilized satellite designed with a power handling capability of 16W. It was launched onboard SLV-3 from SHAR Centre on May 31, 1981. The launch was a partial success as the satellite did not reach the intended height and thus it stayed in orbit for only 9 days. The satellite carried a solid-state camera using linear array of detectors for remote sensing applications. 
+प्रमोचन भार / Launch Mass: 38 kg
+मिशन कालावधि / Mission Life : Nine days
+शक्ति / Power: 16 W
+प्रमोचक राकेट / Launch Vehicle: SLV-3D1
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: LEO (Low Earth Orbit) 
+
+Mission 	Experimental
+Weight 	38 kg
+onboard power 	16 Watts
+Communication 	VHF band
+Stabilization 	Spin stabilized
+Payload 	Landmark Tracker ( remote sensing payload)
+Launch date 	May 31,1981
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	SLV-3
+Orbit 	186 x 418 km (achieved)
+Inclination 	46 deg
+Orbital life 	Nine days 

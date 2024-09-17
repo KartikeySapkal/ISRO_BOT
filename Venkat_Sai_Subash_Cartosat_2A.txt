@@ -1,0 +1,32 @@
+
+
+CARTOSAT – 2A Home / Activities / Missions accomplished
+
+CARTOSAT – 2A is the thirteenth satellite in the Indian Remote Sensing Satellite series (IRS). It is a sophisticated and rugged remote sensing satellite that can provide scene specific spot imagery. This satellite carried a Panchromatic Camera (PAN). The spatial resolution of this camera is better than 1m and swath of 9.6 km. Imageries from this satellite were used for cartographic applications like mapping, urban and rural infrastructure development and management, as well as application in Land Information (LIS) and Geographical Information System (GIS).
+
+प्रमोचन भार / Launch Mass: 690 Kg
+मिशन कालावधि / Mission Life : 5 years
+शक्ति / Power: 900 W
+प्रमोचक राकेट / Launch Vehicle: PSLV-C9 / CARTOSAT – 2A
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+
+More Details
+PSLV-C9 / CARTOSAT–2A
+CARTOSAT – 2A
+IMS-1
+Brochure pdf icon PDF - 1.19 MB
+Mission 	Remote Sensing
+Weight 	690 Kg (Mass at lift off)
+Onboard Power 	900 Watts
+Stabilization 	3 – axis body stabilised using high torque reaction wheels, magnetic torquers and hydrogen thrusters
+Payloads 	Panchromatic Camera
+Launch date 	28 April 2008
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C9
+Orbit 	635 km, Polar Sun Synchronous
+Inclination 	97.94 deg
+Mission life 	5 years 

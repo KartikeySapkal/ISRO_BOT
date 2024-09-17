@@ -1,0 +1,41 @@
+
+
+INSAT-4CR Home / Activities / Missions accomplished
+
+Sep 02, 2007
+
+INSAT–4CR spacecraft is configured with exclusive Ku band employing the I-2K Bus with a mass of 2130 Kg. It was injected into the orbit by GSLV-F04 rocket with enhanced Russian Cryogenic engine and co-located at 74o East longitude along with INSAT–3C / Kalpana–1 / GSAT–3 (EDUSAT).
+
+INSAT-4CR carries 12 high-power Ku-band transponders designed to provide Direct-to-home (DTH) television services, Video Picture Transmission (VPT) and Digital Satellite News Gathering (DSNG).
+
+More Details
+GSLV-F04/ INSAT-4CR
+INSAT-4CR
+Brochure pdf icon PDF - 1.37 MB
+
+प्रमोचन भार / Launch Mass: 2,130 kg
+मिशन कालावधि / Mission Life :
+12 Years
+शक्ति / Power:
+3000 W
+प्रमोचक राकेट / Launch Vehicle:
+GSLV-F04 / INSAT-4CR
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application:
+Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+Mission 	Communication
+Weight 	2,130 kg (Mass at Lift – off)
+Onboard power 	3000 W
+Communication Payload 	12 Ku-band transponders employing 140 W Traveling Wave Tube Amplifiers (TWTA)
+Ku-band Beacon
+Launch date 	
+September 2, 2007
+Launch site 	SHAR, Sriharikota, India
+Launch vehicle 	GSLV-F04
+Orbit 	Geosynchronous (74° E)
+Mission life 	12 Years 

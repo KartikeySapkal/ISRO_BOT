@@ -1,0 +1,12 @@
+
+
+EOS-01 Home / Activities / Missions accomplished
+
+EOS-01 is an earth observation satellite, intended for applications in agriculture, forestry and disaster management support.
+
+प्रमोचक राकेट / Launch Vehicle: PSLV-C49/EOS-01
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Disaster Management System Earth Observation
+कक्षा का प्रकार / Orbit Type: LEO (Low Earth Orbit)

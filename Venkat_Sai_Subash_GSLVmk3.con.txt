@@ -1,0 +1,539 @@
+GSLVmk3.con Content:
+
+
+
+         LVM3(Geosynchronous Satellite Launch Vehicle Mk III)
+        
+
+
+
+          Home
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     Encapsulated Assembly with payload fairings  
+                  
+
+
+
+
+
+
+
+
+
+
+                     S200 stage
+                    
+
+
+S200 strap on booster
+																				is a 3.2 m diameter motor consisting of
+																				3 segments of M250 motor case loaded
+																				with 205 tonnes of HTPB based
+																				propellant. Head segment is of shorter
+																				length (3.0m) with propellant grain
+																				having 13 lobbed star geometry and
+																				middle and nozzle end segment are of
+																				almost equal length (8.1m and 8.3m
+																				respectively) with cylindrical grain
+																				geometry with suitable taper to provide
+																				longer tail off characteristics.
+                    
+
+
+
+
+
+
+
+
+
+
+                     L110 stage
+                    
+
+ The liquid L110 stage
+																				uses a twin liquid engine configuration
+																				with 115 tonnes of liquid propellant. It
+																				is ignited at an alititude of 41.5km for
+																				a burning duration of 200s (nominal)
+                    
+
+
+
+
+
+
+
+
+
+
+                     C25 stage
+                    
+
+ The upper stage in
+																				LVM3 vehicle (2S200 + L110 + C25) is
+																				cryogenic stage with 28 tonnes of
+																				propellant loading (LOX /LH2) and
+																				designated as C25. The C25 Stage is
+																				powered with a 200 kN thrust (nominal)
+																				engine working on gas generator (GG)
+																				cycle. The command for C25 ignition is
+																				issued soon after the separation command
+																				for L110 stage and the stage burns for
+																				about 646s. Stage has nominal diameter
+																				of 4 m and overall height of 13.5 m with
+																				dry mass of 4310 kg..
+                  
+
+
+
+
+
+
+
+
+                  Vehicle Specifications
+                 
+
+
+
+
+
+
+
+
+                       Height
+                      
+
+                       : 43.5 m
+                      
+
+
+
+                       Vehicle Diameter
+                      
+
+                       : 4.0 m
+                      
+
+
+
+                       Heat Shield (Payload Fairing)
+																						Diameter
+                      
+
+                       : 5.0 m
+                      
+
+
+
+                       Number of Stages
+                      
+
+                       : 3
+                      
+
+
+
+                       Lift Off Mass
+                      
+
+                       : 640 tonnes
+                      
+
+
+
+
+
+
+
+
+                  Technical Specification
+                 
+
+
+
+
+
+                    Payload to GTO:
+																			4,000 kg
+                   
+
+                    LVM3 will be
+																			capable of placing the 4 tonne class
+																			satellites of the GSAT series into
+																			Geosynchronous Transfer Orbits.
+                   
+
+
+
+
+
+
+
+                    Payload to LEO (Low
+																			Earth Orbit) : 8,000 kg
+                   
+
+                    The powerful cryogenic
+																			stage of LVM3 enables it to place
+																			heavy payloads into Low Earth Orbits of 600
+																			km altitude.
+                   
+
+
+
+
+
+
+
+                    Cryogenic Upper
+																			Stage : C25
+                   
+
+                    The C25 is powered by
+																			CE-20, India's largest cryogenic engine,
+																			designed and developed by the Liquid
+																			Propulsion Systems Centre.
+                   
+
+
+
+
+                       Cryo Stage Height
+                      
+
+                       : 13.5 m
+                      
+
+
+
+                       Cryo Stage Diameter
+                      
+
+                       : 4.0 m
+                      
+
+
+
+                       Engine
+                      
+
+                       : CE-20
+                      
+
+
+
+                       Fuel
+                      
+
+                       : 28 tonnes of LOX + LH2
+                      
+
+
+
+
+
+
+
+
+
+
+                    Solid Rocket
+																			Boosters : S200
+                   
+
+                    LVM3 uses two
+																			S200 solid rocket boosters to provide the
+																			huge amount of thrust required for lift off.
+																			The S200 was developed at Vikram Sarabhai
+																			Space Centre.
+                   
+
+
+
+
+                       Booster Height
+                      
+
+                       : 25 m
+                      
+
+
+
+                       Booster Diameter
+                      
+
+                       : 3.2 m
+                      
+
+
+
+                       Fuel
+                      
+
+                       : 205 tonnes of HTPB (nominal)
+                      
+
+
+
+
+
+
+
+
+
+
+                    Core Stage : L110
+																			Liquid Stage
+                   
+
+                    The L110 liquid stage
+																			is powered by two Vikas engines designed and
+																			developed at the Liquid Propulsion Systems
+																			Centre.
+                   
+
+
+
+
+                       Stage Height
+                      
+
+                       : 21 m
+                      
+
+
+
+                       Stage Diameter
+                      
+
+                       : 4 m
+                      
+
+
+
+                       Engine
+                      
+
+                       : 2 x Vikas
+                      
+
+
+
+                       Fuel
+                      
+
+                       : 115 tonnes of UDMH + H2O
+                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           About the Launch Vehicle
+          
+
+           LVM3 is configured as a three stage vehicle with two
+										solid
+										strap-on motors (S200), one liquid core stage (L110) and a high thrust cryogenic
+										upper
+										stage (C25). The S200 solid motor is among the largest solid boosters in the
+										world with
+										204 tonnes of solid propellant. The liquid L110 stage uses a twin liquid engine
+										configuration
+										with 115 tonnes of liquid propellant, while the C25 Cryogenic upper stage is
+										configured with
+										the fully indigenous high thrust cryogenic engine (CE20) with a propellant
+										loading of 28 tons.
+										The overall length of the vehicle is 43.5 m with a gross lift-off weight of 640
+										tonnes and a 5m-diameter payload fairing. .
+          
+
+           LVM3 is the new heavy lift launch vehicle of
+										ISRO for achieving a 4000 kg spacecraft launching
+										capability to GTO (Geosynchronous Transfer Orbit) in a cost effective manner.
+										LVM3 is a three stage launch vehicle consisting of two solid propellant S200
+										strap-ons
+										and core stages comprising of L110 liquid stage, C25 cryogenic stage, the
+										equipment bay (EB) and the Encapsulated assembly (EA).
+										EA comprises of the spacecraft, Payload Adaptor (PLA) and the Payload fairing
+										(PF). With a lift-off mass of 640 tons, this 43.5 m
+										tall three-stage launch vehicle gives ISRO full self-reliance in launching
+										heavier communication satellites that weigh up to 4000 kg in GTO.
+										The vehicle takes off with the simultaneous ignition of the two S200 boosters.
+										The core stage (L110) is ignited at about 113s through the flight,
+										during the firing of the S200 stages. Both S200 motors burn for about 134s and
+										the separation occur at 137s. The payload fairing is separated at an altitude
+										of 115 km and at about 217s during L110 firing. The L110 burnout and separation
+										and C25 ignition occur at 313s.
+										The spacecraft is injected into a GTO (Geosynchronous Transfer Orbit) orbit of
+										180x36000 km at a nominal time of 974s.
+          
+
+
+
+
+
+             More Details
+            
+
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+
+
+             LVM3
+            
+
+   
+              . List of LVM3 Launches
+              
+
+
+
+
+             SSLV
+            
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine -
+												TD
+            
+
+
+
+
+
+
+
+             More Details
+            
+
+
+
+             Launchers
+            
+
+
+
+             Sounding
+												Rockets
+            
+
+
+
+             SLV
+            
+
+
+
+             ASLV
+            
+
+
+
+             PSLV
+            
+
+
+
+             GSLV
+            
+
+
+
+             LVM3
+            
+
+    
+               List of LVM3 Launches
+              
+
+
+
+
+             SSLV
+            
+
+
+
+             RLV-TD
+            
+
+
+
+             Scramjet Engine -
+												TD
+            
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+
+
+CARTOSAT-2 Home / Activities / Missions accomplished
+
+Cartosat-2 is an advanced remote sensing satellite; weighting around 680 kg was launched successfully by PSLV-C7 on January 10, 2007 from SDSC SHAR, Sriharikota.
+
+More Details
+CARTOSAT-2
+PSLV-C7 / CARTOSAT-2 / SRE-1
+SRE-1
+Brochure pdf icon PDF - 1.17 MB
+
+प्रमोचन भार / Launch Mass: 650 kg
+मिशन कालावधि / Mission Life :
+5 years
+शक्ति / Power:
+900 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C7 / CARTOSAT-2 / SRE-1
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Mission 	Remote Sensing
+Weight 	650 Kg
+Onboard Orbit 	900 Watts
+Stabilization 	3 - axis body stabilised using high torque reaction wheels, magnetic torquers and thrusters
+Payloads 	Panchromatic Camera
+Launch date 	10 January 2007
+Launch site 	SHAR Centre Sriharikota India
+Launch vehicle 	PSLV- C7
+Orbit 	Polar Sun Synchronous
+Mission life 	5 years 

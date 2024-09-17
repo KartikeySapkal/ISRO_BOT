@@ -1,0 +1,20 @@
+
+
+RISAT-2BR1 Home / Activities / Missions accomplished
+
+RISAT-2BR1 is a radar imaging earth observation satellite. The satellite will provide services in the field of Agriculture, Forestry and Disaster Management.
+
+प्रमोचन भार / Launch Mass: 628 Kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C48/RISAT-2BR1
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Disaster Management System
+Earth Observation
+कक्षा का प्रकार / Orbit Type: LEO (Low Earth Orbit)
+SALIENT FEATURES OF RISAT-2BR1
+Lift-off weight 	628 kg
+Altitude 	576 km
+Payload 	X-Band Radar
+Inclination 	37 deg
+Mission Life 	5 years 

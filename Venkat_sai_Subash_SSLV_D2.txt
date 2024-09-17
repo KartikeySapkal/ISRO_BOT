@@ -1,0 +1,587 @@
+SSLV D2 Content:SSLV-D2/EOS-07 MISSION
+        
+
+
+          Home
+         
+         /SSLV-D2/EOS-07 MISSION
+        
+
+
+
+
+
+
+          Feb 10, 2023
+          
+
+
+
+
+            SSLV-D2/EOS-07 Mission is successfully accomplished
+           
+
+
+
+
+
+
+
+
+
+           The second developmental flight of Small Satellite Launch Vehicle (SSLV), SSLV-D2 is successfully launched on February 10, 2023 at 09:18 hours IST from the first launch pad at SDSC SHAR, Sriharikota. SSLV-D2 is intended to inject EOS-07, Janus-1 and AzaadiSAT-2 satellites into 450 km circular orbit, in its 15 minutes flight.
+           
+
+
+           SSLV caters to the launch of up to 500 kg satellites to Low Earth Orbits on "launch-on-demand" basis. It provides low-cost access to Space, offers low turn-around time and flexibility in accommodating multiple satellites, and demands minimal launch infrastructure. It is configured with three solid propulsion stages and a velocity terminal module. It is a 34 m tall, 2 m diameter vehicle having a lift-off mass of 120 t.
+           
+
+
+           EOS-07 is 156.3 kg satellite designed, developed and realized by ISRO. New experiments include mm-Wave Humidity Sounder and Spectrum Monitoring Payload. Janus-1, a 10.2 kg satellite belongs to ANTARIS, USA. A 8.7 kg satellite AzaadiSAT-2 is a combined effort of about 750 girl students across India guided by Space Kidz India, Chennai.
+          
+
+
+
+
+
+             More Details
+            
+
+
+
+             SSLV-D2/EOS-07 MISSION
+            
+
+
+
+             Mission is accomplished successfully
+            
+
+
+
+             Mission Streaming
+            
+
+
+
+             Brochure
+            
+
+
+             PDF - 20.3 MB
+            
+
+
+
+             Gallery
+            
+
+
+
+             Teaser Video
+            
+
+
+
+             Lift-Off Video
+            
+
+
+
+
+
+           Mission Objectives
+          
+
+
+
+
+            Demonstration of designed Payload capability of SSLV in LEO
+           
+
+            Injection of EOS-07 satellite and two passenger satellites Janus-1 & AzaadiSAT-2 into 450 km circular orbit.
+           
+
+
+
+
+
+
+
+
+
+
+              SSLV-D2 Vehicle Characteristics
+            
+
+
+
+             Vehicle Height
+            
+
+             34 m
+            
+
+
+
+             Vehicle Dia
+            
+
+             2 m
+            
+
+
+
+             Lift off Mass
+            
+
+             ~119  t
+            
+
+
+
+             Vehicle Configuration
+            
+
+             SS1 + SS2 + SS3 + VTM
+            
+
+
+
+
+
+
+
+              SSLV-D2 Mission Specifications
+            
+
+
+
+              Parameter
+            
+
+              Specifications
+            
+
+
+
+             Altitude (km)
+            
+
+             450
+            
+
+
+
+             Inclination (deg)
+            
+
+             37.2
+            
+
+
+
+             Launch Pad
+            
+
+             FLP
+            
+
+
+
+             Launch Azimuth (deg)
+            
+
+             135
+            
+
+
+
+
+
+
+
+              SSLV-D2 Stages at a Glance
+            
+
+
+
+
+
+              Stage 1(SS1)
+            
+
+              Stage 2(SS2)
+            
+
+              Stage 3(SS3)
+            
+
+              VTM
+            
+
+
+
+             Length (m)
+            
+
+             22.5
+            
+
+             3.2
+            
+
+             2.8
+            
+
+             -
+            
+
+
+
+             Diameter (m)
+            
+
+             2
+            
+
+             2
+            
+
+             1.7
+            
+
+             2
+            
+
+
+
+             Propellant
+            
+
+             Solid (HTPB based)
+            
+
+             Solid (HTPB based)
+            
+
+             Solid (HTPB based)
+            
+
+             Liquid (MMH+ MON3)
+            
+
+
+
+             Propellant Mass (t)
+            
+
+             87
+            
+
+             7.7
+            
+
+             4.5
+            
+
+             0.05
+            
+
+
+
+             Action Time (s)
+            
+
+             114.6
+            
+
+             124.0
+            
+
+             103.9
+            
+
+             -
+            
+
+
+
+
+
+
+
+
+
+              Payloads Accommodation in SSLV-D2
+             
+
+
+
+
+
+
+
+              SSLV-D2 Flight Sequence
+            
+
+
+
+
+
+
+
+
+
+           Satellites in SSLV-D2
+          
+
+
+
+
+             Satellites
+           
+
+             Agency
+           
+
+             Mass (kg)
+           
+
+
+
+            EOS-07
+           
+
+            URSC, ISRO, India
+           
+
+            156.3
+           
+
+
+
+            Janus-1
+           
+
+            ANTARIS, USA
+           
+
+            11.5
+           
+
+
+
+            AzaadiSAT-2
+           
+
+            Space Kidz India, India
+           
+
+            8.7
+           
+
+
+
+
+
+
+           SSLV-D2 Typical Flight Profile
+          
+
+          (Below information Based on FRR Issue-1 Rev-0 Data)
+         
+
+
+
+             Event
+           
+
+             Time (s)
+           
+
+             Altitude (km)
+           
+
+
+
+            SS1 Ignition
+           
+
+            0
+           
+
+            -
+           
+
+
+
+            SS2 Ignition
+           
+
+            123.7
+           
+
+            94
+           
+
+
+
+            SS1 Separation
+           
+
+            124.0
+           
+
+            94
+           
+
+
+
+            S2C Separation
+           
+
+            129.0
+           
+
+            103
+           
+
+
+
+            SPLF Separation
+           
+
+            158.4
+           
+
+            149
+           
+
+
+
+            SS2 Separation
+           
+
+            384.2
+           
+
+            423
+           
+
+
+
+            SS3 Ignition
+           
+
+            394.0
+           
+
+            429
+           
+
+
+
+            SS3 Separation
+           
+
+            674.9
+           
+
+            450
+           
+
+
+
+            VTM Ignition
+           
+
+            683.4
+           
+
+            450
+           
+
+
+
+            EOS-07 Separation
+           
+
+            785.1
+           
+
+            450
+           
+
+
+
+            Janus-1 Separation
+           
+
+            880.1
+           
+
+            450
+           
+
+
+
+            AzaadiSAT-2 Separation
+           
+
+            900.1
+           
+
+            450
+           
+
+
+
+
+
+
+
+
+
+
+           More Details
+          
+
+
+
+
+           SSLV-D2/EOS-07 MISSION
+          
+
+
+
+           Mission is accomplished successfully
+          
+
+
+
+           Mission Streaming
+          
+
+
+
+           Brochure
+          
+
+
+           PDF - 20.3 MB
+          
+
+
+
+           Gallery
+          
+
+
+
+           Teaser Video
+          
+
+
+
+           Lift-Off Video

@@ -1,0 +1,41 @@
+
+
+IRNSS-1B Home / Activities / Missions accomplished
+
+IRNSS-1B is the second dedicated navigation satellite of India. It is one of the seven satellites constituting the IRNSS space segment. Its predecessor, IRNSS-1A, was launched by PSLV-C22 in July 2013. IRNSS-1B has a lift-off mass of 1432 kg. The configuration of IRNSS-1B is similar to that of IRNSS-1A. The satellite has been realised in less than seven months after the launch of its predecessor.
+
+Payloads - IRNSS -1B carries two types of payloads - navigation payload and ranging payload. The navigation payload of IRNSS-1B transmits navigation service signals to the users. This payload is operating in L5-band and S-band. A highly accurate Rubidium atomic clock is part of the navigation payload of the satellite. The ranging payload of IRNSS-1B consists of a C-band transponder which facilitates accurate determination of the range of the satellite. IRNSS-1B also carries Corner Cube Retro Reflectors for laser ranging.
+
+More Details
+PSLV-C24/IRNSS-1B
+IRNSS-1B
+Brochurepdf icon  PDF-4.50MB
+PSLV-C24/IRNSS-1B Gallery
+
+प्रमोचन भार / Launch Mass:
+1432 kg
+आयाम / Dimension:
+1.58 metre x 1.50 metre x 1.50 metre
+मिशन कालावधि / Mission Life :
+10 years
+शक्ति / Power:
+1660 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C24/IRNSS-1B
+उपग्रह का प्रकार / Type of Satellite:
+Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application:
+Navigation
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+off Mass 	1432 kg
+Physical Dimensions 	1.58 metre x 1.50 metre x 1.50 metre
+Orbit 	Geosynchronous, at 55 deg East longitude with 29 deg inclination
+Power 	Two solar panels generating 1660 W, one lithium-ion battery of 90 Ampere-Hour capacity
+Propulsion 	440 Newton Liquid Apogee Motor, twelve 22 Newton Thrusters
+Control System 	Zero momentum system, orientation input from Sun & star Sensors and Gyroscopes; Reaction Wheels, Magnetic Torquers and 22 Newton thrusters as actuators
+Mission Life 	10 years
+Launch date 	Apr 04, 2014
+Launch site 	SDSC SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV - C24

@@ -1,0 +1,18 @@
+
+
+GSAT-29 Home / Activities / Missions accomplished
+
+Nov 14,2018
+
+GSAT-29 satellite with a lift-off mass of 3423 kg, is a multi-beam, multiband communication satellite of India, configured around the ISRO’s enhanced I-3K bus. This is the heaviest satellite launched from India.
+
+GSAT-29 carries Ka/Ku-band high throughput communication transponders which will bridge the digital divide of users including those in Jammu & Kashmir and North Eastern regions of India. It also carries Q/V-band payload, configured for technology demonstration at higher frequency bands and Geo-stationary High Resolution Camera. carried onboard GSAT-29 spacecraft. An optical communication payload, for the first time, will be utilized for data transmission.
+
+प्रमोचन भार / Launch Mass: 3423 kg
+शक्ति / Power: 4600 W
+प्रमोचक राकेट / Launch Vehicle: GSLV Mk III-D2 / GSAT-29 Mission
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GTO

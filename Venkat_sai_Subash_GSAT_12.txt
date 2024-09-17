@@ -1,0 +1,50 @@
+
+
+GSAT-12 Home / Activities / Missions accomplished
+
+GSAT-12, the latest communication satellite built by ISRO, weighs about 1410 kg at lift-off. GSAT-12 was configured to carry 12 Extended C-band transponders to meet the country's growing demand for transponders in a short turn-around-time.
+
+The 12 Extended C-band transponders of GSAT-12 augments the capacity in the INSAT system for various communication services like Tele-education, Telemedicine and for Village Resource Centres (VRC).
+
+More Details
+PSLV-C17/GSAT-12
+GSAT-12
+Gallery
+Brochure pdf icon PDF - 766 KB
+Post Mission Disposal of GSAT-12
+
+प्रमोचन भार / Launch Mass:
+1410 kg
+आयाम / Dimension:
+1.485 x 1.480 x 1.446 m cuboid
+मिशन कालावधि / Mission Life :
+About 8 Years
+शक्ति / Power:
+1430 Watts
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C17/GSAT-12
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Communication
+कक्षा का प्रकार / Orbit Type:
+GSO (Geosynchronous Orbit)
+Mission 	Communication
+Weight 	1410 kg (Mass at Lift – off)
+559 kg (Dry Mass)
+Power 	Solar array providing 1430 Watts and one 64 Ah Li-Ion batteries
+Physical Dimensions 	1.485 x 1.480 x 1.446 m cuboid
+Propulsion 	440 Newton Liquid Apogee Motors (LAM) with Mono Methyl Hydrazine (MMH) as fuel and Mixed oxides of Nitrogen (MON-3) as oxidizer for orbit raising.
+Attitude Orbit Control 	3-axis body stabilised in orbit using Earth Sensors, Sun Sensors, Momentum and Reaction Wheels, Magnetic Torquers and eight 10 Newton and eight 22 Newton bipropellant thrusters
+Antennae 	
+One 0.7 m diameter body mounted parabolic receive antenna and one 1.2 m diameter polarisation sensitive deployable antenna
+Launch date 	
+July 15, 2011
+Launch site 	SHAR, Sriharikota, India
+Launch vehicle 	PSLV-C17
+Orbit 	Geosynchronous (83° longitude)
+Mission life 	About 8 Years 

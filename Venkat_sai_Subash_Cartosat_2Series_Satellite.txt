@@ -1,0 +1,17 @@
+
+
+CARTOSAT-2 Series Satellite Home / Activities / Missions accomplished
+
+The Cartosat-2 series satellite is the primary satellite carried by PSLV-C37. This satellite is similar to the earlier four satellites of the Cartosat-2 series. After its injection into a 505 km polar Sun Synchronous Orbit by PSLV-C37, the satellite was brought to operational configuration following which it began providing regular remote sensing services using its Panchromatic and Multi-spectral cameras.
+
+The imageries from Cartosat-2 series satellite will useful for cartographic applications, urban and rural applications, coastal land use and regulation, utility management like road network monitoring, water distribution, creation of land use maps, change detection to bring out geographical and manmade features and various other Land Information System (LIS) and Geographical Information System (GIS) applications.
+
+PSLV-C37/Cartosat-2 Series Satellite was successfully launched on Wednesday, February 15, 2017 at 9:28 Hrs IST from SDSC SHAR, Sriharikota.
+
+प्रमोचन भार / Launch Mass: 714 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C37 / Cartosat -2 Series Satellite
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)

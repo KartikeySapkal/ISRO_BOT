@@ -1,0 +1,26 @@
+ IRNSS-1F Home / Activities / Missions accomplished
+
+
+
+IRNSS-1F is the sixth navigation satellite of the seven satellites constituting the Indian Regional Navigation Satellite System (IRNSS) space segment. Its predecessors, IRNSS-1A, 1B, 1C, 1D and 1E were successfully launched by PSLV-C22, PSLV-C24, PSLV-C26, PSLV-C27 and PSLV-C31 in July 2013, April 2014, October 2014, March 2015 and January 2016 respectively. All the five satellites are functioning satisfactorily from their designated orbital positions.
+
+More Details
+IRNSS Programme
+PSLV-C32/IRNSS-1F
+IRNSS-1F
+Brochure pdf icon PDF - 8.10 MB
+Gallery
+
+IRNSS-1F has a lift-off mass of 1425 kg. The configuration of IRNSS-1F is similar to that of IRNSS-1A, 1B, 1C, 1D and 1E. The two solar arrays of IRNSS-1F consisting of Ultra Triple Junction solar cells generate about 1660 Watts of electrical power. Sun and Star sensors as well as gyroscopes provide orientation reference for the satellite. Special thermal control schemes have been designed and implemented for some of the critical elements such as atomic clocks. The Attitude and Orbit Control System (AOCS) of IRNSS-1F maintains the satellite's orientation with the help of reaction wheels, magnetic torques and thrusters. Its propulsion system consists of a Liquid Apogee Motor (LAM) and thrusters.
+
+IRNSS -1F carries two types of payloads – navigation payload and ranging payload. The navigation payload of IRNSS-1F transmits navigation service signals to the users. This payload is operating in L5-band and S-band. A highly accurate Rubidium atomic clock is part of the navigation payload of the satellite. The ranging payload of IRNSS-1F consists of a C-band transponder, which facilitates accurate determination of the range of the satellite. IRNSS-1F also carries Corner Cube Retro Reflectors for laser ranging.
+
+IRNSS-1F was launched by PSLV-C32 into a sub Geosynchronous Transfer Orbit (sub GTO) on March 10, 2016 at 16:01 hrs (IST) from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota.
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C32/IRNSS-1F
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GEO

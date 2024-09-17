@@ -1,0 +1,31 @@
+ GSAT-1 Home / Activities / Missions accomplished
+
+Apr 18, 2001
+
+GSAT-1 carrying three C-band transponders and one S-band transponder was launched on April 18, 2001 by GSLV-D1. GSAT-1 is used for conducting communication experiments like digital audio broadcast, internet services and compressed digital TV transmission. Several new spacecraft elements like improved reaction control thrusters, fast recovery star sensors and heat pipe radiator panels were also tested on this satellite.
+
+More Details
+GSLV-D1 / GSAT-1
+GSAT-1
+
+प्रमोचन भार / Launch Mass:
+1530 Kg
+प्रमोचक राकेट / Launch Vehicle:
+GSLV-D1 / GSAT-1
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Communication
+कक्षा का प्रकार / Orbit Type:
+GSO (Geosynchronous Orbit)
+Mission 	Communication
+Weight 	1530 kg
+Launch date 	
+18 April 2001
+Launch site 	SHAR, Sriharikota
+Launch vehicle 	GSLV – D1
+Orbit 	Sun Synchronous Geo stationary orbit 

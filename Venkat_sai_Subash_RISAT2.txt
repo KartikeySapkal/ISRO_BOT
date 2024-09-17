@@ -1,0 +1,23 @@
+
+
+RISAT-2 Home / Activities / Missions accomplished
+
+RISAT-2 is a Radar Imaging Satellite with all weather capability to take images of the earth. This Satellite enhances ISRO's capability for Disaster Management applications.
+
+More Details
+PSLV-C12 / RISAT-2
+RISAT-2
+Anusat
+
+प्रमोचन भार / Launch Mass: 300 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C12 / RISAT-2
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Altitude 	550 km
+Inclination 	41 deg
+Orbit Period 	
+90 minutes
+Mass 	300 kg

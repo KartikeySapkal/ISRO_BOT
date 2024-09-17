@@ -1,0 +1,48 @@
+ Oceansat(IRS-P4) Home / Activities / Missions accomplished
+
+IRS-P4 (OCEANSAT) is the first satellite primarily built for Ocean applications, weighing 1050 kg placed in a Polar Sun Synchronous orbit of 720 km, launched by PSLV-C2 from SHAR Centre, Sriharikota on May 26, 1999.
+
+This satellite carries Ocean Colour Monitor (OCM) and a Multi - frequency Scanning Microwave Radiometer (MSMR) for oceanographic studies. IRS-P4 thus vastly augment the IRS satellite system of ISRO comprising four satellites, IRS-1B, IRS-1C, IRS-P3 and IRS-1D and extend remote sensing applications to several newer areas.
+
+Mission completed on August 8, 2010 after serving for 11 years and 2 months.
+
+More Details
+PSLV-C2/IRS-P4
+Oceansat(IRS-P4)
+Brochure pdf icon PDF - 2.00 MB
+
+प्रमोचन भार / Launch Mass:
+1050 kg
+आयाम / Dimension:
+2.8m x 1.98m x 2.57m
+मिशन कालावधि / Mission Life :
+August 8, 2010
+शक्ति / Power:
+750 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C2/IRS-P4
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Launch date 	May 26, 1999
+Launch site 	SHAR, Sriharikota
+Launch vehicle 	PSLV - C2
+Orbit 	Polar Sun Synchronous
+Altitude 	720 km
+Inclination 	98.28 deg
+Period 	99.31 min
+Local time of Eq. crossing 	12 noon
+Repetitivity cycle 	2 days
+Size 	2.8m x 1.98m x 2.57m
+Mass at lift off 	1050 kg
+Length when fully deployed 	11.67 m
+Attitude and Orbit Control 	3-axis body-stabilised using Reaction Wheels, Magnetic Torquers and Hydrazine Thrusters
+Power 	9.6 Sq.m Solar Array generating 750w Two 21 Ah Ni-Cd Batteries
+Mission Completed On 	August 8, 2010 

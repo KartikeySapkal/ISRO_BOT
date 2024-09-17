@@ -1,0 +1,62 @@
+
+
+GSAT-14 Home / Activities / Missions accomplished
+
+Jan 05, 2014
+
+GSAT-14 is the twenty third geostationary communication satellite of India built by ISRO. The main objectives of GSAT-14 mission are:
+
+i) To augment the In-orbit capacity of Extended C and Ku-band transponders
+ii) To provide a platform for new experiments.
+
+The payloads of GSAT-14 are:
+
+    Six extended C-band transponders for Indian mainland and island coverage with 36 dBW Edge Of Coverage- Effective Isotropic Radiated Power (EOC-EIRP)
+    Six Ku-band transponders covering the mainland India with 51.5 dBW EOC-EIRP
+    Two Ka-band Beacons operating at 20.2 GHz and 30.5 GHz to carry out attenuation studies
+
+    Fibre Optic Gyro
+    Active Pixel Sun Sensor
+    Ka band beacon propagation studies
+    Thermal control coating experiments
+
+Some of the new technologies being tested on GSAT-14 are:
+
+More Details
+GSLV-D5/GSAT-14
+Indigenous Cryogenic Engine and Stage
+GSAT-14
+Brochurepdf icon  PDF-3.67MB
+GSLV-D5/GSAT-14 Gallery
+
+प्रमोचन भार / Launch Mass: 1982 kg
+आयाम / Dimension:
+2.0 X 2.0 X 3.6
+मिशन कालावधि / Mission Life : 12 Years
+शक्ति / Power:
+2600 W
+प्रमोचक राकेट / Launch Vehicle:
+GSLV-D5/GSAT-14
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application:
+Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+नीतभार / Payloads:
+Six Extended C-band transponders
+Six Ku-band transponders
+Two Ka-band Beacons
+Mass At Lift-Off 	1982 kg
+Overall Size (m) 	2.0 X 2.0 X 3.6
+Power 	2600 W
+Attitude and Orbit Control System (AOCS) 	Momentum biased 3-axis stabilized mode
+Propulsion System 	Bi propellant-Mono Methyl Hydrazine and Mixed Oxides of Nitrogen (MON-3)
+Antennae 	One 2m and one 2.2 m single shell shaped reflector Antennae (transmit and receive)
+Launch date 	
+January 05, 2014
+Launch site 	SDSC, SHAR
+Launch vehicle 	GSLV-D5
+Orbit 	74 deg East longitude in geostationary orbit
+Mission life 	12 Years

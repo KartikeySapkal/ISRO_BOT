@@ -1,0 +1,11 @@
+EMISAT Home / Activities / Missions accomplished
+
+
+
+EMISAT is a satellite built around ISRO’s Mini Satellite-2 bus weighing about 436 kg. The satellite was successfully placed in its intended sun-synchronous polar orbit of 748 km height by PSLV-C45 on April 01, 2019. The satellite is intended for electromagnetic spectrum measurement.
+
+प्रमोचन भार / Launch Mass: 436 कि.ग्रा. / kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C45/EMISAT MISSION
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)

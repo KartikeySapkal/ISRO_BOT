@@ -1,0 +1,27 @@
+
+
+SROSS-C Home / Activities / Missions accomplished
+
+May 20,1992 
+
+ First satellite successfully orbited by ASLV
+Mission 	Experimental
+Weight 	106.1 kg
+Onboard power 	45 Watts
+Communication 	S-band and VHF
+Stabilization 	Spin stabilized with a Magnetic Torquer and Magnetic Bias Control
+Payload 	Gamma Ray Burst (GRB) experiment & Retarding Potential Analyser (RPA) experiment
+Launch date 	May 20,1992
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	Augmented Satellite Launch Vehicle (ASLV)
+Orbit 	267 x 391 km
+Mission life 	Two months (Re-entered on July15,1992) 
+
+प्रमोचन भार / Launch Mass: 106.1 kg
+मिशन कालावधि / Mission Life : Two months (Re-entered on July15,1992)
+शक्ति / Power: 45 W
+प्रमोचक राकेट / Launch Vehicle: ASLV-D3
+उपग्रह का प्रकार / Type of Satellite: Science & Exploration
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Experimental 

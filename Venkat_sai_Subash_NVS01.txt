@@ -1,0 +1,10 @@
+
+
+GSLV-F12/NVS-01 Mission Home
+
+May 22, 2023
+Mission is accomplished successfully
+
+GSLV-F12/NVS-01 mission is accomplished successfully on Monday, May 29, 2023. This Geosynchronous Satellite Launch Vehicle (GSLV) mission deployed NVS-01 navigation satellite, weighing about 2232 kg, into a Geosynchronous Transfer Orbit. The vehicle lifted off at 10:42 hours IST from the second launch pad at SDSC-SHAR, Sriharikota and injected the satellite after about 19 minutes of flight.
+
+NVS-01 is the first of the second-generation satellites envisaged for the Navigation with Indian Constellation (NavIC) services. NVS series of satellites will sustain and augment the NavIC with enhanced features. This series incorporates L1 band signals additionally to widen the services. For the first time, an indigenous atomic clock will be flown in NVS-01.

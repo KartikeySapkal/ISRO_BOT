@@ -1,0 +1,45 @@
+
+
+IRS-P2 Home / Activities / Missions accomplished
+
+Mission completed during 1997 after serving for 3 years.
+
+More Details
+PSLV-D2
+IRS-P2
+
+प्रमोचन भार / Launch Mass:
+804 kg
+शक्ति / Power:
+510 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-D2
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Mission 	Operational Remote Sensing
+Weight 	804 kg
+onboard power 	510 Watts
+Communication 	S-band, X-band
+Stabilization 	Three axis body stabilized with 4 Reaction Wheels,
+Magnetic torquers
+RCS 	4 tanks containing Monopropellant Hydrazine
+based with sixteen 1 N thrusters and one 11 N
+thruster
+Payload 	Two solid state Push Broom Cameras operating in
+four spectral bands in the visible and near-IR range
+using CCD arrays: LlSS-2A & LlSS-2B
+(Resolution: 32.74 metre)
+Launch date 	October 15, 1994
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV-D2
+Inclination 	98.68 o
+Repetivity 	24 days
+Mission completed on 	1997 

@@ -1,0 +1,13 @@
+
+
+IRNSS-1E Home / Activities / Missions accomplished
+
+IRNSS-1E is the fifth navigation satellite of the seven satellites constituting the IRNSS space segment. Its predecessors, IRNSS-1A, 1B, 1C and 1D were launched by PSLV-C22, PSLV-C24, PSLV-C26 and PSLV-C27 in July 2013, April 2014, October 2014 and March 2015 respectively. IRNSS-1E has a lift-off mass of 1425 kg. The configuration of IRNSS-1E is similar to that of IRNSS-1A, 1B, 1C and 1D. IRNSS -1E carries two types of payloads – navigation payload and ranging payload. The navigation payload of IRNSS-1E transmits navigation service signals to the users. This payload is operating in L5-band and S-band. A highly accurate Rubidium atomic clock is part of the navigation payload of the satellite. The ranging payload of IRNSS-1E consists of a C-band transponder which facilitates accurate determination of the range of the satellite. IRNSS-1E also carries Corner Cube Retro Reflectors for laser ranging. PSLV-C31 Successfully launched IRNSS-1E on January 20, 2016 at 09:31 Hrs (IST) from Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota, the spaceport of India.
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C31/IRNSS-1E
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

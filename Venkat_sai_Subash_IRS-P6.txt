@@ -1,0 +1,34 @@
+ IRS-P6 / RESOURCESAT-1 Home / Activities / Missions accomplished
+
+RESOURCESAT-1 is the tenth satellite of ISRO in IRS series, intended to not only continue the remote sensing data services provided by IRS-1C and IRS-1D, both of which have far outlived their designed mission lives, but also to vastly enhance the data quality. RESOURCESAT-1 is the most advanced Remote Sensing Satellite built by ISRO as of 2003.
+
+More Details
+PSLV-C5 /RESOURCESAT-1
+IRS-P6/ RESOURCESAT-1
+Brochure pdf icon PDF - 648 KB
+
+प्रमोचन भार / Launch Mass: 1360 kg
+मिशन कालावधि / Mission Life : 5 years
+शक्ति / Power: 1250 W
+प्रमोचक राकेट / Launch Vehicle: PSLV-C5 /RESOURCESAT-1
+उपग्रह का प्रकार / Type of Satellite: Earth Observation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Earth Observation
+कक्षा का प्रकार / Orbit Type: SSPO (Sun Synchronous Polar Orbit)
+Launch date 	October 17, 2003
+Launch site 	SHAR, Sriharikota
+Launch vehicle 	PSLV-C5
+Payloads 	LISS-4, LISS-3, AWiFS-A, AWiFS-B
+Orbit 	Polar Sun Synchronous
+Orbit height 	817 km
+Orbit inclination 	98.7 o
+Orbit period 	101.35 min
+Number of Orbits Per day 	14
+Local time of equator crossing 	10:30 am
+Repetivity (LISS-3) 	24 days
+Revisit 	5 days
+Lift-Off mass 	1360 kg
+Attitude and orbit control 	3-axis body stabilised using Reaction Wheels, Magnetic Torquers and Hydrazine Thrusters
+Power 	Solar Array generating 1250 W, Two 24 Ah Ni-Cd batteries
+Mission Life 	5 years 

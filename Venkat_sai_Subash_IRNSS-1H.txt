@@ -1,0 +1,12 @@
+
+
+IRNSS-1H Home / Activities / Missions accomplished
+
+IRNSS-1H was planned to be launched by PSLV-C39 into a sub Geosynchronous Transfer Orbit (sub-GTO) with a 284 km perigee and 20,650 km apogee with an inclination of 19.2 deg with respect to the equatorial plane.
+
+However, IRNSS-1H Satellite could not be placed into the orbit as mission was unsuccessful.
+
+प्रमोचक राकेट / Launch Vehicle: PSLV-C39/IRNSS-1H Mission
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+अनुप्रयोग / Application: Navigation

@@ -1,0 +1,19 @@
+
+
+GSAT-6A Home / Activities / Missions accomplished
+
+Mar 29, 2018
+
+GSAT-6A, similar to GSAT-6 is a high power S-band communication satellite configured around I-2K bus. The mission life of spacecraft planned is about 10 years. The satellite will also provide a platform for developing technologies such as demonstration of 6 m S-Band Unfurlable Antenna, handheld ground terminals and network management techniques that could be useful in satellite based mobile communication applications
+
+GSAT-6A was launched by GSLV-F08 on Thursday, March 29, 2018 at 16:56 Hrs (IST) from SDSC SHAR, Shriharikota.
+
+आयाम / Dimension: 1.53 x 1.65 x 2.4
+मिशन कालावधि / Mission Life : 10 years
+शक्ति / Power: 3119 W
+प्रमोचक राकेट / Launch Vehicle: GSLV-F08/GSAT-6A Mission
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)

@@ -1,0 +1,42 @@
+ KALPANA-1 Home / Activities / Missions accomplished
+
+METSAT (renamed as Kalpana - 1 on February 5, 2003 after the Indian born American Astronaut Dr. Kalpana Chawla, who died on February 1, 2003 in the US Space Shuttle Columbia disaster) is the first in the series of exclusive meteorological satellites built by ISRO.
+
+It provides the first set to transponders for Swaran Jayanti Vidya Vikas Antariksh Upagraha Yojana (Vidya Vahini) for interactive training and developmental communication giving fillip to the training and developmental Communication channel of INSAT.
+
+More Details
+PSLV-C4 /KALPANA-1
+KALPANA-1
+Brochure pdf icon PDF - 1.10 MB
+
+प्रमोचन भार / Launch Mass:
+1060 Kg
+मिशन कालावधि / Mission Life :
+7 Years
+शक्ति / Power:
+550 W
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-C4 /KALPANA-1
+उपग्रह का प्रकार / Type of Satellite:
+Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application:
+Climate & Environment
+Communication
+कक्षा का प्रकार / Orbit Type: GSO (Geosynchronous Orbit)
+Mission 	Meteorological
+Spacecraft Mass 	
+
+    1060 kg mass (at Lift – off)
+    498 kg (Dry mass)
+
+Onboard Power 	550 W
+Payload 	Very High Resolution Radiometer (VHRR)
+Data Relay Transponder (DRT)
+Launch date 	
+12 September 2002
+Launch site 	SHAR, Sriharikota
+Launch vehicle 	PSLV – C4
+Orbit 	Geostationary (74 deg East longitude)
+Mission 	7 Years 

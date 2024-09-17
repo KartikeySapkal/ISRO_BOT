@@ -1,0 +1,47 @@
+
+
+Chandrayaan-1 Home / Activities / Missions accomplished
+
+Chandrayaan-1, India's first mission to Moon, was launched successfully on October 22, 2008 from SDSC SHAR, Sriharikota. The spacecraft was orbiting around the Moon at a height of 100 km from the lunar surface for chemical, mineralogical and photo-geologic mapping of the Moon. The spacecraft carried 11 scientific instruments built in India, USA, UK, Germany, Sweden and Bulgaria.
+
+After the successful completion of all the major mission objectives, the orbit has been raised to 200 km during May 2009. The satellite made more than 3400 orbits around the moon and the mission was concluded when the communication with the spacecraft was lost on August 29, 2009.
+
+More Details
+Chandrayaan-1
+Brochure pdf icon PDF - 1.19 MB
+Gallery
+PSLV-C11
+PSLV-C11/Chandrayaan-1
+
+प्रमोचन भार / Launch Mass: 1380 kg
+मिशन कालावधि / Mission Life : 2 years
+शक्ति / Power: 700 W
+प्रमोचक राकेट / Launch Vehicle: PSLV-C11
+उपग्रह का प्रकार / Type of Satellite: Science & Exploration
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Planetary Observation
+कक्षा का प्रकार / Orbit Type: Lunar
+Mission 	Remote Sensing, Planetary Science
+Weight 	1380 kg (Mass at lift off)
+Onboard power 	700 Watts
+Stabilization 	3 - axis stabilised using reaction wheel and attitude control thrusters, sun sensors, star sensors, fibre optic gyros and accelerometers for attitude determination.
+Payloads 	
+Scientific Payloads from India
+ Terrain Mapping Camera (TMC)
+ Hyper Spectral Imager (HySI)
+ Lunar Laser Ranging Instrument (LLRI)
+ High Energy X - ray Spectrometer (HEX)
+ Moon Impact Probe(MIP)
+Scientific Payloads from abroad
+ Chandrayaan-I  X-ray Spectrometer (CIXS)
+ Near Infrared Spectrometer (SIR - 2)
+ Sub keV Atom Reflecting Analyzer (SARA)
+ Miniature Synthetic Aperature Radar (Mini SAR)
+ Moon Mineralogy Mapper (M3)
+ Radiation Dose Monitor (RADOM)
+Launch Date 	22 October 2008
+Launch Site 	SDSC, SHAR, Sriharikota
+Launch Vehicle 	PSLV - C11
+Orbit 	100 km x 100 km : Lunar Orbit
+Mission life 	2 years 

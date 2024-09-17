@@ -1,0 +1,45 @@
+
+
+IRS-P3 Home / Activities / Missions accomplished
+
+IRS-P3 was launched by PSLV-D3 on March 21, 1996 from SHAR Centre, Sriharikota, India. IRS-P3 carries two remote sensing payloads - Wide Field Sensor (WiFS) similar to that of IRS-1C, with an additional Short Wave Infrared Band (SWIR) and a Modular Opto-electronic Scanner (MOS). It also carries an X-ray astronomy payload and a C-band transponder for radar calibration.
+
+Mission completed during January 2006 after serving 9 years and 10 months.
+
+More Details
+PSLV-D3 / IRS-P3
+IRS-P3
+
+प्रमोचन भार / Launch Mass:
+920 kg
+शक्ति / Power:
+817 Watts
+प्रमोचक राकेट / Launch Vehicle:
+PSLV-D3 / IRS-P3
+उपग्रह का प्रकार / Type of Satellite:
+Earth Observation
+निर्माता / Manufacturer:
+ISRO
+स्‍वामी / Owner:
+ISRO
+अनुप्रयोग / Application:
+Earth Observation
+कक्षा का प्रकार / Orbit Type:
+SSPO (Sun Synchronous Polar Orbit)
+Mission 	Remote sensing of earth's natural resources. Study of X-ray Astronomy. Periodic calibration of PSLV tracking radar located at tracking stations.
+Weight 	920 kg
+onboard power 	817 Watts
+Communication 	S-band
+Stabilization 	Three axis body stabilized
+RCS 	Combinations of bladder type and surface tension type mass expulsion monopropellant hydrazine system
+Payload 	WideField Sensor (WiFS), Modular Opto - electronic Scanner (MOS),
+Indian X-ray Astronomy Experiment (IXAE),
+C-band transponder(CBT)
+Launch date 	March 21, 1996
+Launch site 	SHAR Centre, Sriharikota, India
+Launch vehicle 	PSLV-D3
+Orbit 	817 km. Circular polar sun-synchronous with
+equatorial crossing at 10.30 am (descending node)
+Inclination 	98.68o
+Repetivity 	WiFS : 5 days
+Mission completed during 	January 2006 

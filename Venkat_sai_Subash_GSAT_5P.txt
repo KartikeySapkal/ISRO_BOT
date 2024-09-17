@@ -1,0 +1,17 @@
+
+
+GSAT-5P Home / Activities / Missions accomplished
+
+Dec 25, 2010
+
+GSAT-5P was the fifth satellite launched in the GSAT series. It was an exclusive communication satellite to further augment the communication services currently provided by the Indian National Satellite (INSAT) System. Weighing 2310 kg at lift-off, GSAT-5P carried 24 Normal C-band and 12 Extended C-band transponders.
+
+However, GSAT-5P was not placed in orbit as GSLV-F06 could not complete the mission.
+
+प्रमोचन भार / Launch Mass: 2310 kg
+प्रमोचक राकेट / Launch Vehicle: GSLV-F06 / GSAT-5P
+उपग्रह का प्रकार / Type of Satellite: Communication
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Communication
+कक्षा का प्रकार / Orbit Type: GSO

@@ -1,0 +1,27 @@
+
+
+IRNSS-1G Home / Activities / Missions accomplished
+
+IRNSS-1G is the seventh navigation satellite of the seven satellites constituting the IRNSS space segment. Its predecessors, IRNSS-1A, 1B, 1C, 1D, 1E and 1F were launched by PSLV-C22, PSLV-C24, PSLV-C26, PSLV-C27, PSLV-C31 and PSLV-C32 in July 2013, April 2014, October 2014, March 2015, January 2016 and March 2016 respectively. Like all other IRNSS satellites, IRNSS-1G also has a lift-off mass of 1425 kg. The configuration of IRNSS-1G too is the same as IRNSS-1A, 1B, 1C, 1D, 1E and 1F.
+
+Payloads: Like its other IRNSS predecessors, IRNSS-1G also carries two types of payloads - navigation payload and ranging payload. The navigation payload of IRNSS-1G transmits navigation service signals to the users. This payload is operating in L5-band and S-band. A highly accurate Rubidium atomic clock is part of the navigation payload of the satellite. The ranging payload of IRNSS-1G consists of a C-band transponder, which facilitates accurate determination of the range of the satellite.
+
+More Details
+IRNSS Programme
+PSLV-C33/IRNSS-1G
+IRNSS-1G
+Make your own IRNSS-1G Model pdf icon PDF - 1.31 MB
+Brochure pdf icon PDF - 4.04 MB
+Gallery
+
+IRNSS-1G was launched by PSLV-C33 into a sub Geosynchronous Transfer Orbit (sub GTO) on April 28, 2016 at 12:50 hrs (IST) from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota.
+
+This is the thirty-fourth consecutively successful mission of PSLV, repeatedly proving its reliability and versatility.
+
+प्रमोचन भार / Launch Mass: 1425 kg
+प्रमोचक राकेट / Launch Vehicle: PSLV-C33/IRNSS-1G
+उपग्रह का प्रकार / Type of Satellite: Navigation
+निर्माता / Manufacturer: ISRO
+स्‍वामी / Owner: ISRO
+अनुप्रयोग / Application: Navigation
+कक्षा का प्रकार / Orbit Type: GEO
