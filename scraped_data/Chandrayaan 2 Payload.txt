@@ -1,0 +1,270 @@
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+CHANDRAYAAN-2 MISSION
+ORBITER PAYLOADS
+Terrain Mapping Camera-2 (TMC-2)
+Terrain Mapping Camera-2 (TMC-2) is in continuation of the TMC of Chandrayaan-1
+mission for topographic coverage of the moon. TMC-2 will measure the solar
+radiation reflected / scattered from the Moon’s surface.
+The primary objectives of TMC-2 are:
+ To map the lunar surface with high spatial and vertical resolution in
+continuation to TMC-1;
+ To address the evolution of the Lunar surface through systematic
+morphometric (height/depth, length, breadth etc.) mapping of various
+landforms (Domes, Cones, rilles etc) and chronological studies.
+Parameter Value
+Spectral band 0.5-0.8 μm; pushbroom mode
+Spatial resolution 5 m
+Swath 20 km @ 100 km altitude
+View angles (fore and aft) ±25º
+Expected higher level data 10 m DEM
+product
+View of TMC-2
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+Chandrayaan-2 Large Area Soft X ray spectrometer (CLASS)
+CLASS aims to measure the X-ray Fluorescence (XRF) spectra for deriving the
+elemental abundance on the lunar surface. This is an indigenous version of
+Chandrayaan-1 X-ray Spectrometer (C1XS) payload with a larger collection area.
+The primary objectives of CLASS are:
+ To map the abundance of major elements (Mg, Al, Si, Ca, Ti, Fe, Na) at tens
+of km scales on the lunar surface.
+ To search for Particle Induced X-ray Emission (PIXE) during the passage of
+Orbiter through the geotail, once a month around full moon.
+The payload consists of sixteen Swept Charge Devices (SCDs) of a total area 64
+cm2 arranged in four quadrants. Gold coated copper collimators define the field of
+view (FOV).
+CLASS flight model 16 detectors with collimators arranged in four
+quadrants
+Parameter Value
+Spatial resolution 12.5 x 12.5 km @ 100 km altitude
+Spectral resolution 165 eV @ 5.9 keV
+Energy range 0.8 -20 keV
+Expected higher level data product Maps of Mg, Al,Si, Ca and Fe (and any
+element with > 1 wt% abundance)
+Solar X-ray Monitor (XSM)
+Solar X-ray Monitor (XSM) is a companion payload to CLASS to measure the
+intensity of solar radiation in X-rays.
+The primary objectives of this payload is
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+ To provide Solar X-ray spectrum in the energy range of 1-15 keV.
+The solar flares are classified into five different classes known as A, B, C, M and X
+class according to the GOES peak flux, with A being the faintest and X being the
+highest intensity flare.
+View of XSM
+XSM is designed to measure Solar X-ray spectrum in the energy range of 1-15 keV.
+This is achieved using the X-ray Silicon Drift Detector (SDD), which provide high
+energy resolution as well as high count rate capability. XSM will provide high energy
+resolution (better than 250 eV @ 5.9 keV) and high cadence (full spectrum every
+second) measurements of solar X-ray spectra as input for analysis of data from
+CLASS.
+Parameter Value
+FOV 45 x 45 deg
+Spectral resolution < 250 eV @ 5.9 keV
+Energy range 1 -15 keV
+Expected higher level data product Solar spectrum with response matrices
+Imaging IR Spectrometer (IIRS)
+Moon Mineralogy Mapper (M3), an international AO payload on Chandrayaan-1
+mission with the wavelength range 0.7-3 micron discovered the presence of Hydroxyl
+and water-ice molecules on the high latitude lunar regions. IIRS aims to confirm OH,
+H O and water-ice signatures by extending the wavelength range to 5 micron.
+2
+The primary objectives are:
+ Global mineralogical and volatile mapping of the Moon in the spectral range of
+~0.8-5.0 µm for the first time at high resolution of ~20 nm.
+ Complete characterization of water/hydroxyl feature near 3.0 µm for the first
+time at high spatial and spectral resolution
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+IIRS will measure the solar radiation reflected from the lunar surface in 256
+contiguous spectral bands from 100 km lunar orbit.
+View of IIRS payload
+Parameter Value
+Spatial resolution 80 m
+No:of spectral bands 256
+Spectral resolution 20 nm
+Spectral band 0.8-5 μm
+Expected higher level data product Calibrated and radiometrically corrected
+reflectance spectra
+Dual Frequency Synthetic Aperture Radar (SAR)
+The Dual-frequency (L and S) SAR is aimed at providing enhanced capabilities
+compared to the Chandrayaan-1 S-band MiniSAR such as
+a) L-band for greater depth of penetration (~5-10m i.e twice that of S-band)
+b) Circular and full polarimetry with range of resolution options (2m – 75m) and
+incident angles (9° - 35°) for understanding scattering properties of
+permanently shadowed regions.
+c) L and S band operation in stand-alone and simultaneous mode to validate
+Mini-SAR observations.
+The scientific objectives of this payload are:
+i) High resolution lunar mapping in the polar regions.
+ii) Quantitative estimation of water-ice in the polar regions
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+iii) Estimation of Regolith Thickness and its distribution
+Dual Frequency SAR Dual Frequency SAR
+In the Circular polarization mode, transmit signal is circularly polarized and reception
+is by dual-linearly polarized channels. After reception, appropriate signal processing
+will be done to extract polarimetric information by decomposition of image data. In
+the full (linear) polarization mode, transmit polarization is switched between V & H for
+consecutive pulses and reception is by simultaneous dual-linearly polarized
+channels, for each of the transmit polarization.
+Parameter Value
+Band L and S
+Spatial resolution 2- 75 m
+Primary observations Polar and specific areas of interest
+Expected higher level data product Calibrated SAR images …
+Chandrayaan-2 Atmospheric Compositional Explorer-2 (CHACE-2)
+Chandra’s Altitudinal Composition Explorer (CHACE) experiment aboard the Moon
+Impact Probe (MIP) in Chandrayaan-1, in the mass range of 1 to 100 amu yielded
+interesting scientific results on lunar Ar, Ne, He and H2, as well as a few heavier
+species (mass>50 amu).
+The CHACE-2 experiment is a sequel to the CHACE experiment. The primary
+objective of CHACE-2 is:
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+ In-situ study of the composition and distribution of the lunar neutral exosphere
+and its variability.
+View of CHACE-2
+It is a quadrupole mass spectrometer (QMA) capable of scanning the lunar neutral
+exosphere in the mass range of 1 to 300 amu with the mass resolution of ~0.5 amu.
+The instrument is equipped with an electron impact ionizer that ionizes the ambient
+neutrals, Bayard Alpert Gauge to measure the total pressure and a combination of
+Faraday cup and Channel Electron Multiplier (CEM) detectors.
+Parameter Value
+Mass range 1-300 amu
+Resolution 0.5 amu
+Orbiter High Resolution Camera (OHRC)
+This payload is included in Orbiter for imaging the landing site prior to lander
+separation to ensure safe landing. The images taken in two different look angles will
+be used for generating DEM of the landing site. Subsequent to lander separation,
+this payload will be used as science payload.
+The primary objective of this payload is to provide high-resolution images of lunar
+regions of interest.
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+OHRC is a panchromatic high resolution camera with a ground sampling of 0.32 m.
+OHRC images of 12 km x 3 km area, obtained in 2 orbits, will be used for safe
+landing area selection. In addition to detection of craters and boulders, Digital
+Elevation Model (DEM) generation is also planned. The binary image consisting of
+edges of craters and other features with topology of entire area will be uploaded to
+Lander-Craft as reference datasets in appropriate formats.
+Parameter Value
+Spatial resolution 0.32 m
+Spectral band Panchromatic
+Swath 12 km x 3 km
+Expected higher level data DEM for selected regions
+product
+Dual Frequency Radio Science (DFRS) experiment
+The Radio Science experiment relies on the principle that the phase of a radio
+signal, propagating from a satellite to the ground station, gets perturbed when it
+crosses through the planetary/ Lunar atmosphere or ionosphere.
+The primary objectives of this payload are:
+i) To study the variations in the ionosphere/ atmosphere at Moon
+ii) To explore if the Ionosphere at Moon is omnipresent or has episodic
+appearances (electron density ~ 100-1000 cm-3)
+iii) To study the temporal variations, if any, in the ionospheric plasma density
+(TEC ~ 1014 electrons / m2) with lander experiment
+Coherent radio signals at X and S band radio frequencies and highly stable radio
+source with the frequency stability of the order of 10-11 is provided for this payload.
+LANDER PAYLOADS
+Instrument for Lunar Seismic Activity (ILSA)
+Seismology is the best geophysical tool to determine the internal structure of any
+planetary body. A total of 12,000 moon quakes have been recorded by lunar
+seismometers deployed during the Apollo missions. After the Apollo missions, there
+have been no missions to Moon for conducting further studies in this field.
+The Moon's seismic signals are however characterized by very low frequency and
+moon quakes are of very low amplitude. In order to conduct seismic studies, a very
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+sensitive instrument (sub-micro gravity level) which can pick up ground displacement
+or velocity or acceleration is developed.
+ The primary objective of this payload is to characterise the seismicity around
+the landing site.
+ILSA will be kept ON during the entire mission life, of 1 lunar day, and it can sense
+artificial seismic activities such as the Rover movement from the ramp, drilling of
+thermal probe etc.
+ILSA is a three axis MEMS-based seismometer that can measure ground
+acceleration due to lunar quakes. The instrument is designed to resolve acceleration
+as low as 100 ng /µHz with a dynamic range of± 0.5 g and a bandwidth of 40 Hz. To
+meet the dynamic range, two sensors are used: Coarse range sensor (± 160 µg to ±
+0.5 g) and fine range sensor (± 0.7 µg to ± 400 µg). The output data will be in the
+form of ground acceleration which can be further processed to represent in terms of
+velocity or displacement.
+Chandra’s Surface Thermo-physical Experiment (ChASTE)
+Knowledge of thermal properties and temperature distribution in lunar surface is
+important for its geophysical characterisation. Lunar thermal models indicate a two
+layer approach: The top 2-3 cm is a fluffy layer with low density and low thermal
+conductivity. It is followed by a layer that is more compact and of higher thermal
+conductivity. Due to this, a sharp change in temperature is expected in the top few
+cm of the lunar surface.
+The primary objective of ChASTE is:
+ To measure the vertical temperature gradient and the thermal conductivity of
+the lunar surface.
+The instrument consists of a thermal probe (consisting of a series of temperature
+sensors spaced at different distances and a heater) which is inserted into the lunar
+regolith down to a depth of ~10 cm.
+The payload operation has two modes: (i) Passive mode operation in which
+continuous in situ measurements of temperature at different depths will be carried
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+out, (ii) Active mode operation in which the heater is switched ON for a specific time
+duration. The variation of temperature due to heater ON is monitored as a function
+of time and the thermal conductivity of the regolith under contact is estimated.
+Langmuir Probe (LP)
+The lunar ionosphere is a highly dynamic plasma environment. Tenuous and thin as
+it may be, the lunar atmosphere contains valuable information on the near surface
+volatiles and serves as a reservoir of gases released from the interior.
+The Langmuir Probe has proved to be a important tool for plasma diagnostics and is
+of great value in probing plasma in the space.
+The primary objectives of this payload are:
+1) To measure the ambient electron density/temperature near the lunar surface
+2) To measure the temporal evolution of the Lunar plasma density for the first
+time near the surface under varying solar conditions
+The Chandrayaan-2 LP consists of a metal (conducting) sphere, which is inserted
+into plasma and electrically biased with respect to a reference electrode to collect
+electron and/or positive ion currents. The spherical probe of 5 cm diameter is made
+of Ti alloy material coated with Titanium Nitride. The metallic sphere is mounted on a
+CFRP boom of 1m length so that the probe is well immersed in the lunar plasma.
+The observation method consists of obtaining Current-Voltage characteristic of the
+probe as the applied bias voltage is swept from a negative to a positive potential (-14
+to +14 V).
+ROVER PAYLOADS
+Alpha Particle X-ray Spectrometer (APXS)
+Alpha Particle X-ray Spectrometer (APXS) is a well proven instrument for in situ
+quantitative elemental analysis of planetary surfaces.
+The primary scientific objective of APXS is
+ To determine the elemental composition of the lunar surface in the regions
+surrounding the landing site.
+The technique is of X-ray fluorescence spectroscopy using in-situ excitation of
+surface by an X-ray or alpha particle source. For this purpose, APXS uses 244Cm
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+radio-active sources emitting both alpha particles having energy of 5.8 MeV energy
+and X-rays having energy of 14.3 and 18.3 keV, which excites the elemental
+characteristic X-rays by the processes of particle induced X-ray emission (PIXE) and
+X-ray fluorescence spectroscopy (XRF).
+The characteristic X-rays are detected by the ‘state-of-the-art’ X-ray detector known
+as Silicon Drift Detector (SDD), which provides high energy resolution as well as
+high efficiency in the energy range of 1 to 25 keV. This enables APXS to detect all
+major rock forming elements like Na, Mg, Al, Si, Ca, Ti, Fe etc. (except O) and some
+trace elements such as Sr, Y, Zr which are found in the lunar surface.
+Laser Induced Breakdown Spectroscope (LIBS)
+Laser Induced Breakdown Spectroscopy (LIBS) is a technique by which the
+planetary surface is bombarded by a laser source which generates a plasma of the
+elements at the surface whose characteristic lines of emission are studied by
+spectroscopy.
+The primary objective of this payload is
+ To identify and determine the abundance of elements near the landing site.
+LIBS instrument will be housed on Chandrayaan-2 Rover facing the lunar surface.
+The collection lens to surface distance is 205 mm. LIBS instrument conducts the
+investigation site on lunar surface by firing a series of high peak power laser pulses
+which generates the so called laser induced plasma. The plasma during its decay
+will emit the radiation which is collected by the LIBS instrument as a spectrum and
+analyzed further for elemental presence and abundance.
+04 Aug 2019, ISRO HQ
+SPACE SCIENCE PROGRAMME OFFICE, ISRO HQ
+Passive Experiment
+Laser Retroreflector Array (LRA)
+LRA will help us understand the dynamics of Earth’s moon system and also derive
+clues about the lunar interior.
+04 Aug 2019, ISRO HQ
