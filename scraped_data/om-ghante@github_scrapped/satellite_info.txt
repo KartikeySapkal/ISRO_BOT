@@ -1,0 +1,140 @@
+s_no,sat_Name,Discipline,Launch_mass,Launch_date,Launch_vehicle,Launch_site,Periapsis_km,Apoapsis_km,Period_in_minutes,Success
+1,Aryabhatta,Earth Science Space Science,360.0,1975-04-19,Interkosmos-2,Kapustin Yar,568.0,611.0,96.5,Pass
+2,Bhaskara Sega-I,Astronomy Communications Engineering Earth Sciences,444.0,1979-06-07, Modified SS-5,Kapustin Yar,512.0,557.0,95.2,Pass
+3,Rohini,Experimental,35.0,1979-08-10,SLV-3-E1,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+4,Rohini RS-1,Earth Sciences,35.0,1980-07-18,SLV-3-E2,Satish Dhawan Space Centre Sriharikota,305.0,919.0,96.9,Pass
+5,Rohini RS-D1,Earth Sciences,38.0,1981-05-31,SLV-3-D1,Satish Dhawan Space Centre Sriharikota,186.0,418.0,90.5,Pass
+6,APPLE,Communications,670.0,1981-06-19,Ariane-1 (V-3),Centre Spatial Guyanais Kourou,35761.9,35963.0,1439.6,Pass
+7,Bhaskara -II,Engineering Earth Sciences,444.0,1981-11-20, Modified SS-5,Kapustin Yar,520.0,542.0,95.2,Pass
+8,INSAT-1A,Communications,1152.1,1982-04-10,Delta 3910 PAM-D,Air Force Eastern Test Range Florida,35837.1,35903.1,1440.0,Pass
+9,Rohini RS-D2,Earth Sciences,41.5,1983-04-17,SLV-3, Satish Dhawan Space Centre Sriharikota,389.0,852.0,97.1,Pass
+10,INSAT-1B,Communications Earth Sciences,1152.0,1983-06-01,Shuttle [PAM-D],Air Force Eastern Test Range Florida,35776.2,35869.6,1437.6,Pass
+11,SROSS-1,Experimental,150.0,1987-03-24,ASLV-D1,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+12,IRS-1A,Earth Sciences,975.0,1988-03-17,Vostok,Baikonur Cosmodrome Kazakhstan,902.3,922.1,103.1,Pass
+13,SROSS-2,Astronomy Space Physics,150.0,1988-07-13,ASLV-D2,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+14,INSAT-1C,Communications Earth Sciences,1152.0,1988-07-22,Ariane-3, Centre Spatial Guyanais Kourou,35768.8,35821.5,1436.2,Pass
+15,INSAT-1D,Communications Earth Sciences,1190.0,1990-06-12, Delta 4925,Air Force Eastern Test Range Florida,35729.2,35974.0,1435.9,Pass
+16,IRS-1B,Earth Sciences,975.0,1991-08-29,Vostok, Baikonur Cosmodrome Kazakhstan,892.6,928.0,103.1,Pass
+17,INSAT-2DT,Communications,1310.0,1992-02-27,Ariane-44L H10,Centre Spatial Guyanais Kourou,36122.8,36365.4,1459.2,Pass
+18,SROSS-C,Astronomy Earth Sciences Space Physics,106.1,1992-05-20,ASLV-D3,Satish Dhawan Space Centre Sriharikota,255.0,429.0,91.0,Pass
+19,INSAT-2A,Communications Earth Sciences,1906.0,1992-07-10,Ariane-44L H10,Centre Spatial Guyanais Kourou,35783.1,35846.9,1437.2,Pass
+20,INSAT-2B,Communications Earth Sciences,1931.0,1993-07-23,Ariane-44L H10+,Centre Spatial Guyanais Kourou,35812.9,35941.2,1440.4,Pass
+21,RS-1E,Earth Sciences,846.0,1993-09-20,PSLV-D1,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+22,SROSS-C2,Astronomy Space Physics,113.0,1994-05-05,ASLV-D4,Satish Dhawan Space Centre Sriharikota,433.0,917.0,98.1,Pass
+23,IRS-P2,Earth Sciences,870.0,1994-10-15,PSLV-D2,Satish Dhawan Space Centre Sriharikota,819.2,820.8,101.1,Pass
+24,INSAT-2C,Communications,2050.0,1995-12-07,Ariane-44L H10-3,Centre Spatial Guyanais Kourou,35918.4,35948.5,1443.2,Pass
+25,IRS-1C,Earth Sciences,1250.0,1995-12-28,Molniya-M,Baikonur Cosmodrome Kazakhstan,823.0,824.9,101.2,Pass
+26,IRS-P3,Astronomy Earth Sciences,930.0,1996-03-21,PSLV-D3,Satish Dhawan Space Centre Sriharikota,820.9,827.1,101.2,Pass
+27,INSAT-2D,Communications,2079.0,1997-06-04,Ariane-44L H10-3,Centre Spatial Guyanais Kourou,33225.6,35917.5,1374.1,Pass
+28,IRS-1D,Earth Sciences,920.0,1997-09-29,PSLV-C1,Satish Dhawan Space Centre Sriharikota,748.6,823.3,100.4,Pass
+29,INSAT-2E,Communications Earth Sciences,2550.0,1999-04-02,Ariane-42P H10-3,Centre Spatial Guyanais Kourou,35932.1,36003.3,1445.0,Pass
+30,OceanSat-1,Earth Sciences,1050.0,1999-05-26,PSLV-C2,Satish Dhawan Space Centre Sriharikota,723.9,726.3,99.1,Pass
+31,INSAT-3B,Communications,2070.0,2000-03-22,Ariane-5G,Centre Spatial Guyanais Kourou,35949.3,35985.9,1445.0,Pass
+32,GSAT-1,Communications Engineering,1530.0,2001-04-18,GSLV-D1,Satish Dhawan Space Centre Sriharikota,33853.1,35800.5,1387.0,Pass
+33,TES,Earth Sciences,1108.0,2001-10-22,PSLV-C3,Satish Dhawan Space Centre Sriharikota,514.6,570.2,95.3,Pass
+34,INSAT-3C,Communications,2750.0,2002-01-24,Ariane-42L H10-3,Centre Spatial Guyanais Kourou,35786.9,35800.6,1436.1,Pass
+35,Kalpana-1,Earth Sciences,1060.0,2002-09-12,PSLV-C4,Satish Dhawan Space Centre Sriharikota,35741.2,35845.9,1436.1,Pass
+36,INSAT-3A,Communications Earth Sciences,2950.0,2003-04-10,Ariane-5G,Centre Spatial Guyanais Kourou,35874.2,35980.2,1442.9,Pass
+37,GSAT-2,Communications,1900.0,2003-05-08,GSLV-D2,Satish Dhawan Space Centre Sriharikota,35892.6,35936.5,1442.3,Pass
+38,INSAT-3E,Communications,2775.0,2003-09-28,Ariane-5G,Centre Spatial Guyanais Kourou,35576.4,35716.3,1428.6,Pass
+39,ResourceSat-1,Earth Sciences,1360.0,2003-10-17,PSLV-C5,Satish Dhawan Space Centre Sriharikota,824.2,829.5,101.3,Pass
+40,GSAT-3,Communications,1950.5,2004-09-20,GSLV-F01,Satish Dhawan Space Centre Sriharikota,36071.1,36084.4,1450.6,Pass
+41,CartoSat-1,Earth Sciences,1560.0,2005-05-05,PSLV-C6,Satish Dhawan Space Centre Sriharikota,623.2,627.9,97.1,Pass
+42,HamSat,Communications,42.5,2005-05-05,PSLV-C6,Satish Dhawan Space Centre Sriharikota,592.0,626.4,96.7,Pass
+43,INSAT-4A,Communications,3081.0,2005-12-22,Ariane-5GS,Centre Spatial Guyanais Kourou,35789.7,35798.7,1436.1,Pass
+44,INSAT-4C,Communications,2180.0,2006-07-10,GSLV-F02,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+45,CartoSat-2,Earth Sciences,680.0,2007-01-10,PSLV-C7,Satish Dhawan Space Centre Sriharikota,639.1,642.2,97.4,Pass
+46,SRE-1,Engineering,615.0,2007-01-10,PSLV-C7,Satish Dhawan Space Centre Sriharikota,486.0,643.0,95.9,Pass
+47,INSAT-4B,Communications,3025.0,2007-03-12,Ariane-5ECA,Centre Spatial Guyanais kourou,35761.1,35827.1,1436.1,Pass
+48,PS4-AAM,Avionics,185.0,2007-04-23,PSLV-C8,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+49,INSAT-4CR,Communications,2130.0,2007-09-02,GSLV-F04,Satish Dhawan Space Centre Sriharikota,35780.2,35806.9,1436.1,Pass
+50,CartoSat-2A,Earth Sciences,690.0,2008-04-28,PSLV-C9,Satish Dhawan Space Centre Sriharikota,632.0,649.2,97.4,Pass
+51,IMS-1,Earth Sciences,83.0,2008-04-28,PSLV-C9,Satish Dhawan Space Centre Sriharikota,614.0,629.4,97.0,Pass
+52,Chandrayaan-1,Planetary Sciences,1380.0,2008-10-22,PSLV-C11,Satish Dhawan Space Centre Sriharikota,100.0,100.0,0.0,Pass
+53,RISAT-2,Earth Sciences,300.0,2009-04-20,PSLV-C12,Satish Dhawan Space Centre Sriharikota,470.6,478.5,93.9,Pass
+54,AnuSat-1,Communications,40.0,2009-04-20,PSLV-C12,Satish Dhawan Space Centre Sriharikota,470.6,478.5,93.9,Pass
+55,OceanSat-2,Earth Sciences,960.0,2009-09-23,PSLV-C14,Satish Dhawan Space Centre Sriharikota,728.2,731.9,99.3,Pass
+56,GSAT-4,Communications,2220.0,2010-04-15,GSLV-D3, Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+57,CartoSat-2B,Earth Sciences,694.0,2010-07-12,PSLV-C15, Satish Dhawan Space Centre Sriharikota,629.9,651.4,97.4,Pass
+58,StudSat,Earth Sciences,1.0,2010-07-12,PSLV-C15, Satish Dhawan Space Centre Sriharikota,605.5,622.7,96.8,Pass
+59,GSAT-5P,Communications,2310.0,2010-12-25,GSLV-F06,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+60,ResourceSat-2,Earth Sciences Technology Applications,1206.0,2011-04-20,PSLV-C16,Satish Dhawan Space Centre Sriharikota,825.2,828.7,101.3,Pass
+61,YouthSat,Solar Physics Space Physics,92.0,2011-04-20,PSLV-C16,Satish Dhawan Space Centre Sriharikota,808.6,828.2,101.1,Pass
+62,GSAT-8,Communications,3093.0,2011-05-21,Ariane-5 VA-202,Centre Spatial Guyanais Kourou,35781.0,35806.3,1436.1,Pass
+63,GSAT-12,Communications,1410.0,2011-07-15,PSLV-C17,Satish Dhawan Space Centre Sriharikota,35761.6,35825.9,1436.1,Pass
+64,Megha-Tropiques,Meteorological,1000.0,2011-10-12,PSLV-C18, Satish Dhawan Space Centre Sriharikota,860.5,874.7,102.2,Pass
+65,Jugnu,Earth Sciences Technology Applications,3.0,2011-10-12,PSLV-C18, Satish Dhawan Space Centre Sriharikota,843.9,871.4,101.9,Pass
+66,SRMSat,Earth Sciences Technology Applications,10.9,2011-10-12,PSLV-C18, Satish Dhawan Space Centre Sriharikota,855.8,873.2,102.1,Pass
+67,RISAT-1,Earth Sciences,1858.0,2012-04-26,PSLV-C19,Satish Dhawan Space Centre Sriharikota,542.2,550.0,95.4,Pass
+68,PS4,Avionics,50.0,2012-09-09,PSLV-C21,Satish Dhawan Space Centre Sriharikota,542.2,550.0,95.4,Pass
+69,GSAT-10,Communications,3400.0,2012-09-28,Ariane-5 VA-209,Centre Spatial Guyanais Kourou,35783.3,35805.4,1436.1,Pass
+70,SARAL,Earth Sciences,407.0,2013-02-25,PSLV-C20, Satish Dhawan Space Centre Sriharikota,791.8,792.6,100.6,Pass
+71,IRNSS-1A,Navigation/Global Positioning,1425.0,2013-07-01,PSLV-C22,Satish Dhawan Space Centre Sriharikota,35720.2,35864.3,1436.0,Pass
+72,INSAT-3D,Earth Sciences,2060.0,2013-07-26,Ariane-5 ECA VA-214,Centre Spatial Guyanais Kourou,35794.0,35795.3,1436.1,Pass
+73,GSAT-7,Communications,2650.0,2013-08-30,Ariane-5 ECA VA-215,Centre Spatial Guyanais Kourou,35789.8,35798.1,1436.1,Pass
+74,Mangalyaan-1,Planetary Science,1340.0,2013-11-05,PSLV-C25,Satish Dhawan Space Centre Sriharikota,366.0,80000.0,4602.0,Pass
+75,GSAT-14,Communications,1982.0,2014-01-05,GSLV Mk.II-D5,Satish Dhawan Space Centre Sriharikota,35774.5,35813.6,1436.1,Pass
+76,IRNSS-1B,Navigation/Global Positioning,1432.0,2014-04-04,PSLV-C24,Satish Dhawan Space Centre Sriharikota,35700.5,35883.1,1436.0,Pass
+77,IRNSS-1C,Navigation/Global Positioning,1425.4,2014-10-16,PSLV-C26,Satish Dhawan Space Centre Sriharikota,35715.5,35872.6,1436.1,Pass
+78,GSAT-16,Communications,3181.6,2014-10-07,Ariane-5,Centre Spatial Guyanais Kourou,35762.5,35824.7,1436.1,Pass
+79,Crew Module Atmospheric Re-entry Experiment,Re-entry Experiment,3775.0,2014-12-18,LVM3-X, Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+80,IRNSS-1D,Navigation/Global Positioning,1425.0,2015-03-28,PSLV-C27, Satish Dhawan Space Centre Sriharikota,35704.7,35885.0,1436.2,Pass
+81,GSAT-6,Communications,2117.0,2015-08-27,GSLV Mk.II-D6,Satish Dhawan Space Centre Sriharikota,35769.6,35818.4,1436.1,Pass
+82,Astrosat,Space Sciences,1513.0,2015-09-28,PSLV-C30,Satish Dhawan Space Centre Sriharikota,642.5,655.0,97.6,Pass
+83,GSAT-15,Communications,3164.0,2015-11-11,Ariane 5 VA-227,French Guiana Centre Spatial Guyanais Kourou,35785.7,35802.6,1436.1,Pass
+84,IRNSS-1E,Navigation/Global Positioning,1425.0,2016-01-20,PSLV-C31,Satish Dhawan Space Centre Sriharikota,35709.6,35875.2,1436.0,Pass
+85,IRNSS-1F,Navigation/Global Positioning,1425.0,2016-03-10,PSLV-C32,Satish Dhawan Space Centre Sriharikota,35700.8,35889.2,1436.2,Pass
+86,IRNSS-1G,Navigation/Global Positioning,1425.0,2016-04-28,PSLV-C33,Satish Dhawan Space Centre Sriharikota,35778.6,35808.7,1436.1,Pass
+87,Cartosat-2C,Earth Sciences,737.5,2016-06-22,PSLV-C34,Satish Dhawan Space Centre Sriharikota,504.7,526.1,94.8,Pass
+88,SathyabamaSat,Technology Applications,1.5,2016-06-22,PSLV-C34,Satish Dhawan Space Centre Sriharikota,499.2,521.8,94.7,Pass
+89,Swayam-1,Communications Technology Applications,1.0,2016-06-22,PSLV-C34,Satish Dhawan Space Centre Sriharikota,499.7,521.5,94.7,Pass
+90,INSAT-3DR,Earth Sciences,2211.0,2016-09-08,GSLV-F05,Satish Dhawan Space Centre Sriharikota,35767.2,35820.6,1436.1,Pass
+91,Pratham,Technology Applications,10.0,2016-09-26,PSLV-C35,Satish Dhawan Space Centre Sriharikota,666.8,715.6,98.4,Pass
+92,PISat,Technology Applications,5.25,2016-09-26,PSLV-C35,Satish Dhawan Space Centre Sriharikota,666.6,713.2,98.4,Pass
+93,ScatSat-1,Earth Sciences,377.0,2016-09-26,PSLV-C35,Satish Dhawan Space Centre Sriharikota,723.6,741.2,99.3,Pass
+94,GSAT-18,Communications,3425.0,2016-10-06,Ariane-5 ECA,Centre Spatial Guyanais Kourou,35760.2,35827.7,1436.1,Pass
+95,ResourceSat-2A,Earth Sciences,1235.0,2016-12-07,PSLV-C36,Satish Dhawan Space Centre Sriharikota,826.3,827.6,101.3,Pass
+96,CartoSat-2D,Earth Sciences,714.0,2017-02-15,PSLV-C37,Satish Dhawan Space Centre Sriharikota,510.9,519.9,94.8,Pass
+97,INS-1A,Technology Applications,8.4,2017-02-15,PSLV-C37,Satish Dhawan Space Centre Sriharikota,510.9,519.9,94.8,Pass
+98,INS-1B,Technology Applications,9.7,2017-02-15,PSLV-C37,Satish Dhawan Space Centre Sriharikota,500.7,514.8,94.6,Pass
+99,GSAT-9,Communications,2230.0,2017-05-05,GSLV Mk.II,Satish Dhawan Space Centre Sriharikota,35782.2,35805.8,1436.1,Pass
+100,GSAT-19E,Communications,3136.0,2017-06-05,GSLV Mk.III-D1,Satish Dhawan Space Centre Sriharikota,35781.1,35806.7,1436.1,Pass
+101,NIUSat,Technology Applications,15.0,2017-06-23,PSLV-C38,Satish Dhawan Space Centre Sriharikota,502.5,526.7,94.8,pass
+102,CartoSat-2E,Earth Sciences,712.0,2017-06-23,PSLV-C38,Satish Dhawan Space Centre Sriharikota,508.4,522.2,94.8,Pass
+103,GSAT-17,Communications,3477.0,2017-06-29,Ariane-5 ECA,Centre Spatial Guyanais Kourou,35771.0,35817.0,1436.1,Pass
+104,IRNSS-1H,Navigation/Global Positioning,1425.0,2017-09-02,PSLV-C39,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+105,CartoSat-2F,Earth Sciences,710.0,2018-01-12,PSLV-C40,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+106,MicroSat-TD,Technology Applications,132.0,2018-01-12,PSLV-C40,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+107,INS-1C,Technology Applications,11.0,2018-01-12,PSLV-C40,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+108,GSAT-6A,Communications,2117.0,2018-03-29, GSLV-F08,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+109,IRNSS-1I,Navigation/Global Positioning,1425.0,2018-04-12,PSLV-C41,Satish Dhawan Space Centre Sriharikota,0.0,0.0,1450.9,Pass
+110,GSAT-29,High-throughput Communication Satellite,3423.0,2018-11-01,GSLV Mk III D2,Satish Dhawan Space Centre Sriharikota,0.0,0.0,780.0,Pass
+111,HySIS,Hyperspectral imaging satellite,380.0,2018-11-29,PSLV-C43,Satish Dhawan Space Centre Sriharikota,633.3,648.1,97.5,Pass
+112,ExseedSat-1,Communications technology demonstrator,1.0,2018-12-03,SpaceX Falcon 9,Vandenberg Air Force Base California,0.0,0.0,0.0,Pass
+113,GSAT-11,Communications satellite,5854.0,2018-12-05,Ariane 5-VA246,Centre Spatial Guyanais Kourou,35767.8,35820.1,1436.1,Pass
+114,GSAT-7A,Military satellite,2250.0,2018-12-19,GSLV Mk.II-F11,Satish Dhawan Space Centre Sriharikota,35786.6,35799.4,1436.1,Pass
+115,Microsat-R,Earth imaging for defense applications,741.2,2019-01-23,PSLV-C44,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+116,PS4-KalamSAT-V2,Student satellite,1.26,2019-01-23,PSLV-C44,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+117,GSAT-31,High-throughput Telecommunication Satellite,2536.0,2019-02-06,Ariane 5-VCA,Centre Spatial Guyanais Kourou,35775.7,35812.3,1436.1,Pass
+118,EMISAT,Reconnaissance of electromagnetic spectrum,436.0,2019-04-01,PSLV-C45,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+119,PS4-Advanced,Radio Ionospheric studies Maritime Satellite,0.0,2019-04-01,PSLV-C45,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+120,RISAT-2B,Disaster management Radar imaging,615.0,2019-05-22,PSLV-CA C46,Satish Dhawan Space Centre Sriharikota,558.4,563.5,95.7,Pass
+121,Chandrayaan-2,Lunar Exploration,3850.0,2019-07-22,GSLV Mk III M01,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+122,Cartosat-3,Earth observation,1625.0,2019-11-27,PSLV-XL C47,Satish Dhawan Space Centre Sriharikota,507.2,526.6,94.8,Pass
+123,RISAT-2BR1,Radar imaging,628.0,2019-12-11,PSLV-QL C48,Satish Dhawan Space Centre Sriharikota,576.0,576.0,0.0,Pass
+124,GSAT-30,Communications,3357.0,2020-01-16,Ariane 5 ECA VA-251,French Guiana Centre Spatial Guyanais Kourou,35779.1,35808.5,1436.1,Pass
+125,EOS-01,Earth observation,630.0,2020-11-07,PSLV-DL C49,Satish Dhawan Space Centre Sriharikota,576.1,582.9,96.1,Pass
+126,CMS-01,Communications,1425.0,2020-12-17,PSLV-XL C50,Satish Dhawan Space Centre Sriharikota,35764.9,35823.1,1436.1,Pass
+127,Sindhu Netra,Earth observation,0.0,2021-02-28,PSLV-DL C51,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+128,SDSat,Studying space radiations magnetosphere,0.0,2021-02-28,PSLV-DL C51,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+129,JITSat,Student satellite,0.0,2021-02-28,PSLV-DL C51, Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+130,GHRCESat,Student satellite,0.0,2021-02-28,PSLV-DL C51,India Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+131,Sri Shakthi Sat,Student satellite,0.0,2021-02-28,PSLV-DL C51,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+132,EOS-03-GISAT-1,Earth observation,2268.0,2021-08-12,GSLV Mk II F10,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+133,EOS-04-RISAT-1A,Earth observation,1710.0,2022-02-14,PSLV-XL C52,Satish Dhawan Space Centre Sriharikota,526.7,543.5,95.2,Pass
+134,INSPIRESAT-1,Student cubesa,8.7,2022-02-14,PSLV-XL C52, Satish Dhawan Space Centre Sriharikota,526.1,541.8,95.2,Pass
+135,INS-2TD,Experimental,17.5,2022-02-14,PSLV-XL C52, Satish Dhawan Space Centre Sriharikota,525.8,540.9,95.2,Pass
+136,CMS-02-GSAT-24,Communications,4181.3,2022-06-22,Ariane 5 ECA VA-257,Centre Spatial Guyanais Kourou,35651.2,35777.4,1432.0,Pass
+137,PS4-POEM,Experimental,0.0,2022-06-30,PSLV-XL C53,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Pass
+138,EOS 02,Earth observation,135.0,2022-08-07,SSLV-D1, Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
+139,AzaadiSAT,Student satellite-Earth observation,8.0,2022-08-07,SSLV-D1,Satish Dhawan Space Centre Sriharikota,0.0,0.0,0.0,Fail
