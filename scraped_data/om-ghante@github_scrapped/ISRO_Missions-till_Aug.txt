@@ -1,0 +1,214 @@
+Rank,Name,Date,launch vehicle ,Application ,orbital  type
+1,Aryabhata,"Apr 19, 1975",C-1 Intercosmos,Experimental,
+2,Bhaskara-I,"Jun 07, 1979",C-1Intercosmos,"Earth Observation, Experimental",LEO
+3,Rohini Technology Payload (RTP),"Aug 10, 1979",SLV-3E1,,
+4,SLV-3E1,"Aug 10, 1979",Rohini Technology Payload (RTP),Partially Successful,
+5,Rohini Satellite RS-1,"Jul 18, 1980",SLV-3E2,,
+6,SLV-3E2,"Jul 18, 1980",,Rohini Satellite RS-1,
+7,Rohini Satellite RS-D1,"May 31, 1981",SLV-3D1,Earth Observation,LEO
+8,SLV-3D1,"May 31, 1981",,Rohini Satellite RS-D1,
+9,APPLE,"Jun 19, 1981",Ariane -1(V-3),"Communication, Experimental",GSO
+10,Bhaskara-II,"Nov 20, 1981",C-1 Intercosmos,"Earth Observation, Experimental",LEO
+11,INSAT-1A,"Apr 10, 1982",Delta,Communication,GSO
+12,Rohini Satellite RS-D2,"Apr 17, 1983",SLV-3,Earth Observation,LEO
+13,SLV-3,"Apr 17, 1983",,Rohini Satellite RS-D2,
+14,INSAT-1B,"Aug 30, 1983",Shuttle [PAM-D],Communication,GSO
+15,SROSS-1,"Mar 24, 1987",ASLV-D1,Experimental,
+16,ASLV-D1,"Mar 24, 1987",,SROSS-1,
+17,IRS-1A,"Mar 17, 1988",Vostok,Earth Observation,SSPO
+18,SROSS-2,"Jul 13, 1988",ASLV-D2,"Earth Observation, Experimental",
+19,ASLV-D2,"Jul 13, 1988",,SROSS-2,
+20,INSAT-1C,"Jul 22, 1988",Ariane-3,Communication,GSO
+21,INSAT-1D,"Jun 12, 1990",Delta 4925,Communication,GSO
+22,IRS-1B,"Aug 29, 1991",Vostok,Earth Observation,SSPO
+23,SROSS-C,"May 20, 1992",ASLV-D3,Experimental,
+24,ASLV-D3,"May 20, 1992",,SROSS-C,
+25,INSAT-2A,"Jul 10, 1992",Ariane-44L H10,Communication,GSO
+26,INSAT-2B,"Jul 23, 1993",Ariane-44L H10+,Communication,GSO
+27,IRS-1E,"Sep 20, 1993",PSLV-D1,Earth Observation,LEO
+28,PSLV-D1,"Sep 20, 1993",PSLV-G,,
+29,SROSS-C2,"May 04, 1994",ASLV-D4,Experimental,
+30,ASLV-D4,"May 05, 1994",,SROSS-C2,
+31,IRS-P2,"Oct 15, 1994",PSLV-D2,Earth Observation,SSPO
+32,PSLV-D2,"Oct 15, 1994",PSLV-G,IRS-P2,
+33,INSAT-2C,"Dec 07, 1995",Ariane-44L H10-3,Communication,GSO
+34,IRS-1C,"Dec 28, 1995",Molniya,Earth Observation,SSPO
+35,IRS-P3,"Mar 21, 1996",PSLV-D3 / IRS-P3,Earth Observation,SSPO
+36,PSLV-D3 / IRS-P3,"Mar 21, 1996",PSLV-G,IRS-P3,
+37,INSAT-2D,"Jun 04, 1997",Ariane-44L H10-3,Communication,GSO
+38,IRS-1D,"Sep 29, 1997",PSLV-C1 / IRS-1D,Earth Observation,SSPO
+39,PSLV-C1 / IRS-1D,"Sep 29, 1997",PSLV-G,IRS-1D,
+40,INSAT-2E,"Apr 03, 1999",Ariane-42P H10-3,Communication,GSO
+41,Oceansat(IRS-P4),"May 26, 1999",PSLV-C2/IRS-P4,Earth Observation,SSPO
+42,PSLV-C2/IRS-P4,"May 26, 1999",PSLV-G,Oceansat(IRS-P4),
+43,INSAT-3B,"Mar 22, 2000",Ariane-5G,Communication,GSO
+44,GSAT-1,"Apr 18, 2001",GSLV-D1 / GSAT-1,Communication,GSO
+45,GSLV-D1 / GSAT-1,"Apr 18, 2001",GSLV-MK-II,GSAT-1,
+46,The Technology Experiment Satellite (TES),"Oct 22, 2001",PSLV-C3 / TES,Earth Observation,SSPO
+47,PSLV-C3 / TES,"Oct 22, 2001",PSLV-G,The Technology Experiment Satellite (TES),
+48,INSAT-3C,"Jan 24, 2002",Ariane5-V147,"Climate & Environment, Communication",GSO
+49,KALPANA-1,"Sep 12, 2002",PSLV-C4 /KALPANA-1,"Climate & Environment, Communication",GSO
+50,PSLV-C4 /KALPANA-1,"Sep 12, 2002",PSLV-G,KALPANA-1,
+51,INSAT-3A,"Apr 10, 2003",Ariane5-V160,"Climate & Environment, Communication",GSO
+52,GSAT-2,"May 08, 2003",GSLV-D2 / GSAT-2,Communication,GSO
+53,GSLV-D2 / GSAT-2,"May 08, 2003",GSLV-MK-II,GSAT-2,
+54,INSAT-3E,"Sep 28, 2003",Ariane5-V162,Communication,GSO
+55,IRS-P6 / RESOURCESAT-1,"Oct 17, 2003",PSLV-C5 /RESOURCESAT-1,Earth Observation,SSPO
+56,PSLV-C5 /RESOURCESAT-1,"Oct 17, 2003",PSLV-G,IRS-P6 / RESOURCESAT-1,
+57,EDUSAT,"Sep 20, 2004",GSLV-F01 / EDUSAT(GSAT-3),Communication,GSO
+58,GSLV-F01 / EDUSAT(GSAT-3),"Sep 20, 2004",GSLV-MK-II,EDUSAT,
+59,CARTOSAT-1,"May 05, 2005",PSLV-C6/CARTOSAT-1/HAMSAT,Earth Observation,SSPO
+60,HAMSAT,"May 05, 2005",PSLV-C6/CARTOSAT-1/HAMSAT,Communication,SSPO
+61,PSLV-C6/CARTOSAT-1/HAMSAT,"May 05, 2005",PSLV-G,CARTOSAT-1,
+62,INSAT-4A,"Dec 22, 2005",Ariane5-V169,Communication,GSO
+63,INSAT-4C,"Jul 10, 2006",GSLV-F02 / INSAT-4C,Communication,GSO
+64,GSLV-F02 / INSAT-4C,"Jul 10, 2006",GSLV-MK-II,INSAT-4C,
+65,SRE-1,"Jan 10, 2007",PSLV-C7 / CARTOSAT-2 / SRE-1,Experimental,SSPO
+66,CARTOSAT-2,"Jan 10, 2007",PSLV-C7 / CARTOSAT-2 / SRE-1,Earth Observation,SSPO
+67,PSLV-C7 / CARTOSAT-2 / SRE-1,"Jan 10, 2007",PSLV-G,CARTOSAT-2,
+68,INSAT-4B,"Mar 12, 2007",Ariane5,Communication,GSO
+69,PSLV-C8,"Apr 23, 2007",PSLV-CA,,
+70,INSAT-4CR,"Sep 02, 2007",GSLV-F04 / INSAT-4CR,Communication,GSO
+71,GSLV-F04 / INSAT-4CR,"Sep 02, 2007",GSLV-MK-II,INSAT-4CR,
+72,PSLV-C10,"Jan 21, 2008",PSLV-CA,,
+73,IMS-1,"Apr 28, 2008",PSLV-C9 / CARTOSAT – 2A,Earth Observation,SSPO
+74,CARTOSAT – 2A,"Apr 28, 2008",PSLV-C9 / CARTOSAT – 2A,Earth Observation,SSPO
+75,PSLV-C9 / CARTOSAT – 2A,"Apr 28, 2008",PSLV-CA,CARTOSAT – 2A,
+76,Chandrayaan-1,"Oct 22, 2008",PSLV-C11,Planetary Observation,Lunar
+77,PSLV-C11,"Oct 22, 2008",PSLV-XL,Chandrayaan-1,
+78,RISAT-2,"Apr 20, 2009",PSLV-C12 / RISAT-2,Earth Observation,SSPO
+79,ANUSAT,"Apr 20, 2009",PSLV-C12 / RISAT-2,Student Satellite,SSPO
+80,PSLV-C12 / RISAT-2,"Apr 20, 2009",PSLV-CA,RISAT-2,
+81,Oceansat-2,"Sep 23, 2009",PSLV-C14 / OCEANSAT-2,"Climate & Environment, Earth Observation",SSPO
+82,PSLV-C14 / OCEANSAT-2,"Sep 23, 2009",PSLV-CA,Oceansat-2,
+83,GSAT-4,"Apr 15, 2010",GSLV-D3 / GSAT-4,Communication,GSO
+84,GSLV-D3 / GSAT-4,"Apr 15, 2010",GSLV-MK-II,GSAT-4,
+85,CARTOSAT-2B,"Jul 12, 2010",PSLV-C15/CARTOSAT-2B,Earth Observation,SSPO
+86,STUDSAT,"Jul 12, 2010",PSLV-C15/CARTOSAT-2B,Student Satellite,SSPO
+87,PSLV-C15/CARTOSAT-2B,"Jul 12, 2010",PSLV-CA,CARTOSAT-2B,
+88,GSAT-5P,"Dec 25, 2010",GSLV-F06 / GSAT-5P,Communication,GSO
+89,GSLV-F06 / GSAT-5P,"Dec 25, 2010",GSLV-MK-II,GSAT-5P,
+90,RESOURCESAT-2,"Apr 20, 2011",PSLV-C16/RESOURCESAT-2,Earth Observation,SSPO
+91,YOUTHSAT,"Apr 20, 2011",PSLV-C16/RESOURCESAT-2,Student Satellite,SSPO
+92,PSLV-C16/RESOURCESAT-2,"Apr 20, 2011",PSLV-G,RESOURCESAT-2,
+93,GSAT-8,"May 21, 2011",Ariane-5 VA-202,"Communication, Navigation",GEO
+94,GSAT-12,"Jul 15, 2011",PSLV-C17/GSAT-12,Communication,GSO
+95,PSLV-C17/GSAT-12,"Jul 15, 2011",PSLV-XL,GSAT-12,
+96,SRMSat,"Oct 12, 2011",PSLV-C18/Megha-Tropiques,Student Satellite,SSPO
+97,Megha-Tropiques,"Oct 12, 2011",PSLV-C18/Megha-Tropiques,"Climate & Environment, Earth Observation",SSPO
+98,Jugnu,"Oct 12, 2011",PSLV-C18/Megha-Tropiques,Student Satellite,SSPO
+99,PSLV-C18/Megha-Tropiques,"Oct 12, 2011",PSLV-CA,Megha-Tropiques,
+100,RISAT-1,"Apr 26, 2012",PSLV-C19/RISAT-1,Earth Observation,SSPO
+101,PSLV-C19/RISAT-1,"Apr 26, 2012",PSLV-XL,RISAT-1,
+102,PSLV-C21,"Sep 09, 2012",PSLV-CA,,
+103,GSAT-10,"Sep 29, 2012",Ariane-5 VA-209,"Communication, Navigation",GEO
+104,SARAL,"Feb 25, 2013",PSLV-C20/SARAL,"Climate & Environment, Earth Observation",SSPO
+105,PSLV-C20/SARAL,"Feb 25, 2013",PSLV-CA,SARAL,
+106,IRNSS-1A,"Jul 01, 2013",PSLV-C22/IRNSS-1A,Navigation,GSO
+107,PSLV-C22/IRNSS-1A,"Jul 01, 2013",PSLV-XL,IRNSS-1A,
+108,INSAT-3D,"Jul 26, 2013",Ariane-5 VA-214,"Climate & Environment, Disaster Management System",GSO
+109,GSAT-7,"Aug 30, 2013",Ariane-5 VA-215,Communication,GSO
+110,Mars Orbiter Mission  Spacecraft,"Nov 05, 2013",PSLV-C25,Planetary Observation,Martian
+111,PSLV-C25,"Nov 05, 2013",PSLV-XL,Mars Orbiter Mission  Spacecraft,
+112,GSAT-14,"Jan 05, 2014",GSLV-D5/GSAT-14,Communication,GSO
+113,GSLV-D5/GSAT-14,"Jan 05, 2014",GSLV-MK-II,GSAT-14,
+114,IRNSS-1B,"Apr 04, 2014",PSLV-C24/IRNSS-1B,Navigation,GSO
+115,PSLV-C24/IRNSS-1B,"Apr 04, 2014",PSLV-XL,IRNSS-1B,
+116,PSLV-C23,"Jun 30, 2014",PSLV-CA,,
+117,IRNSS-1C,"Oct 16, 2014",PSLV-C26/IRNSS-1C,Navigation,GEO
+118,PSLV-C26/IRNSS-1C,"Oct 16, 2014",PSLV-XL,IRNSS-1C,
+119,GSAT-16,"Dec 07, 2014",Ariane-5 VA-221,Communication,GSO
+120,Crew module Atmospheric Re-entry Experiment (CARE),"Dec 18, 2014",LVM-3/CARE Mission,Experimental,
+121,LVM-3/CARE Mission,"Dec 18, 2014",GSLV-MK-III,Crew module Atmospheric Re-entry Experiment (CARE),
+122,IRNSS-1D,"Mar 28, 2015",PSLV-C27/IRNSS-1D,Navigation,GSO
+123,PSLV-C27/IRNSS-1D,"Mar 28, 2015",PSLV-XL,IRNSS-1D,
+124,PSLV-C28 / DMC3 Mission,"Jul 10, 2015",PSLV-XL,,
+125,GSAT-6,"Aug 27, 2015",GSLV-D6,Communication,GTO
+126,GSLV-D6,"Aug 27, 2015",GSLV-MK-II,GSAT-6,
+127,Astrosat,"Sep 28, 2015",PSLV-C30/AstroSat MISSION,Space Science,
+128,PSLV-C30/AstroSat MISSION,"Sep 28, 2015",PSLV-XL,Astrosat,
+129,GSAT-15,"Nov 11, 2015",Ariane-5 VA-227,"Communication, Navigation",GEO
+130,PSLV-C29 / TeLEOS-1 Mission,"Dec 16, 2015",PSLV-CA,,
+131,IRNSS-1E,"Jan 20, 2016",PSLV-C31/IRNSS-1E,Navigation,GSO
+132,PSLV-C31/IRNSS-1E,"Jan 20, 2016",PSLV-XL,IRNSS-1E,
+133,IRNSS-1F,"Mar 10, 2016",PSLV-C32/IRNSS-1F,Navigation,GEO
+134,PSLV-C32/IRNSS-1F,"Mar 10, 2016",PSLV-XL,IRNSS-1F,
+135,IRNSS-1G,"Apr 28, 2016",PSLV-C33/IRNSS-1G,Navigation,GEO
+136,PSLV-C33/IRNSS-1G,"Apr 28, 2016",PSLV-XL,IRNSS-1G,
+137,RLV-TD,"May 23, 2016",,,
+138,SATHYABAMASAT,"Jun 22, 2016",PSLV-C34 / CARTOSAT-2 Series Satellite,Student Satellite,SSPO
+139,CARTOSAT-2 Series Satellite,"Jun 22, 2016",PSLV-C34 / CARTOSAT-2 Series Satellite,Earth Observation,SSPO
+140,SWAYAM,"Jun 22, 2016",PSLV-C34 / CARTOSAT-2 Series Satellite,Student Satellite,SSPO
+141,PSLV-C34 / CARTOSAT-2 Series Satellite,"Jun 22, 2016",PSLV-XL,CARTOSAT-2 Series Satellite,
+142,Scramjet Engine - TD,"Aug 28, 2016",,,
+143,INSAT-3DR,"Sep 08, 2016",GSLV-F05 / INSAT-3DR,"Climate & Environment, Disaster Management System",GSO
+144,GSLV-F05 / INSAT-3DR,"Sep 08, 2016",GSLV-MK-II,INSAT-3DR,
+145,SCATSAT-1,"Sep 26, 2016",PSLV-C35 / SCATSAT-1,Climate & Environment,SSPO
+146,PISAT,"Sep 26, 2016",PSLV-C35 / SCATSAT-1,Student Satellite,SSPO
+147,PRATHAM,"Sep 26, 2016",PSLV-C35 / SCATSAT-1,Student Satellite,SSPO
+148,PSLV-C35 / SCATSAT-1,"Sep 26, 2016",PSLV,SCATSAT-1,
+149,GSAT-18,"Oct 06, 2016",Ariane-5 VA-231,Communication,GSO
+150,RESOURCESAT-2A,"Dec 07, 2016",PSLV-C36 / RESOURCESAT-2A,Earth Observation,SSPO
+151,PSLV-C36 / RESOURCESAT-2A,"Dec 07, 2016",PSLV-XL,RESOURCESAT-2A,
+152,Cartosat -2 Series Satellite,"Feb 15, 2017",PSLV-C37 / Cartosat -2 Series Satellite,Earth Observation,SSPO
+153,INS-1B,"Feb 15, 2017",PSLV-C37 / Cartosat -2 Series Satellite,Experimental,SSPO
+154,INS-1A,"Feb 15, 2017",PSLV-C37 / Cartosat -2 Series Satellite,Experimental,SSPO
+155,PSLV-C37 / Cartosat -2 Series Satellite,"Feb 15, 2017",PSLV-XL,Cartosat -2 Series Satellite,
+156,GSAT-9,"May 05, 2017",GSLV-F09 / GSAT-9,Communication,GSO
+157,GSLV-F09 / GSAT-9,"May 05, 2017",GSLV,GSAT-9,
+158,GSAT-19,"Jun 05, 2017",GSLV Mk III-D1/GSAT-19 Mission,Communication,GSO
+159,GSLV Mk III-D1/GSAT-19 Mission,"Jun 05, 2017",GSLV-MK-III,GSAT-19,
+160,Cartosat-2 Series Satellite,"Jun 23, 2017",PSLV-C38 / Cartosat-2 Series Satellite,Earth Observation,SSPO
+161,NIUSAT,"Jun 23, 2017",PSLV-C38 / Cartosat-2 Series Satellite,Student Satellite,SSPO
+162,PSLV-C38 / Cartosat-2 Series Satellite,"Jun 23, 2017",PSLV-XL,Cartosat-2 Series Satellite,
+163,GSAT-17,"Jun 29, 2017",Ariane-5 VA-238,Communication,GTO
+164,IRNSS-1H,"Aug 31, 2017",PSLV-C39/IRNSS-1H Mission,Navigation,
+165,PSLV-C39/IRNSS-1H Mission,"Aug 31, 2017",PSLV-XL,IRNSS-1H,
+166,INS-1C,"Jan 12, 2018",PSLV-C40/Cartosat-2 Series Satellite Mission,Experimental,SSPO
+167,Cartosat-2 Series Satellite,"Jan 12, 2018",PSLV-C40/Cartosat-2 Series Satellite Mission,Earth Observation,SSPO
+168,Microsat,"Jan 12, 2018",PSLV-C40/Cartosat-2 Series Satellite Mission,Experimental,SSPO
+169,PSLV-C40/Cartosat-2 Series Satellite Mission,"Jan 12, 2018",PSLV-XL,Cartosat-2 Series Satellite,
+170,GSAT-6A,"Mar 29, 2018",GSLV-F08/GSAT-6A Mission,Communication,GSO
+171,GSLV-F08/GSAT-6A Mission,"Mar 29, 2018",GSLV,GSAT-6A,
+172,IRNSS-1I,"Apr 12, 2018",PSLV-C41/IRNSS-1I,Navigation,GSO
+173,PSLV-C41/IRNSS-1I,"Apr 12, 2018",PSLV-XL,IRNSS-1I,
+174,CREW ESCAPE SYSTEM,"Jul 05, 2018",,,
+175,PSLV-C42 Mission,"Sep 16, 2018",PSLV,,
+176,GSAT-29,"Nov 14, 2018",GSLV Mk III-D2 / GSAT-29 Mission,Communication,GTO
+177,GSLV Mk III-D2 / GSAT-29 Mission,"Nov 14, 2018",GSLV-MK-III,GSAT-29,
+178,HysIS,"Nov 29, 2018",PSLV-C43 / HysIS Mission,Earth Observation,SSPO
+179,PSLV-C43 / HysIS Mission,"Nov 29, 2018",PSLV,HysIS,
+180,GSAT-11 Mission,"Dec 05, 2018",Ariane-5 VA-246,Communication,GTO
+181,GSAT-7A,"Dec 19, 2018",GSLV-F11 / GSAT-7A Mission,Communication,
+182,GSLV-F11 / GSAT-7A Mission,"Dec 19, 2018",GSLV,GSAT-7A,
+183,Microsat-R,"Jan 24, 2019",PSLV-C44,,SSPO
+184,Kalamsat-V2,"Jan 24, 2019",PSLV-C44,Student Satellite,
+185,PSLV-C44,"Jan 24, 2019",PSLV-DL,Microsat-R,
+186,GSAT-31,"Feb 06, 2019",Ariane-5 VA-247,Communication,GTO
+187,EMISAT,"Apr 01, 2019",PSLV-C45/EMISAT MISSION,,SSPO
+188,PSLV-C45/EMISAT MISSION,"Apr 01, 2019",PSLV-QL,EMISAT,
+189,RISAT-2B,"May 22, 2019",PSLV-C46 Mission,"Disaster Management System, Earth Observation",LEO
+190,PSLV-C46 Mission,"May 22, 2019",PSLV-CA,RISAT-2B,
+191,Chandrayaan2,"Jul 22, 2019",GSLV-Mk III - M1 / Chandrayaan-2 Mission,Planetary Observation,Lunar
+192,GSLV-Mk III - M1 / Chandrayaan-2 Mission,"Jul 22, 2019",GSLV-MK-III,Chandrayaan2,
+193,Cartosat-3,"Nov 27, 2019",PSLV-C47 / Cartosat-3 Mission,Earth Observation,SSPO
+194,PSLV-C47 / Cartosat-3 Mission,"Nov 27, 2019",PSLV-XL,Cartosat-3,
+195,RISAT-2BR1,"Dec 11, 2019",PSLV-C48/RISAT-2BR1,"Disaster Management System, Earth Observation",LEO
+196,PSLV-C48/RISAT-2BR1,"Dec 11, 2019",PSLV-QL,RISAT-2BR1,
+197,GSAT-30,"Jan 17, 2020",Ariane-5 VA-251,Communication,GSO
+198,EOS-01,"Nov 07, 2020",PSLV-C49/EOS-01,"Disaster Management System, Earth Observation",LEO
+199,PSLV-C49/EOS-01,"Nov 07, 2020",PSLV-DL,EOS-01,
+200,CMS-01,"Dec 17, 2020",PSLV-C50/CMS-01,Communication,GSO
+201,PSLV-C50/CMS-01,"Dec 17, 2020",PSLV-XL,CMS-01,
+202,UNITYsat,"Feb 28, 2021",PSLV-C51/Amazonia-1,Student Satellite,
+203,Satish Dhawan SAT (SDSAT),"Feb 28, 2021",PSLV-C51/Amazonia-1,Student Satellite,
+204,PSLV-C51/Amazonia-1,"Feb 28, 2021",PSLV-DL,,
+205,EOS-03,"Aug 12, 2021",GSLV-F10 / EOS-03,Earth Observation,GTO
+206,GSLV-F10 / EOS-03,"Aug 12, 2021",GSLV,EOS-03,
+207,EOS-04,"Feb 14, 2022",PSLV-C52/EOS-04 Mission,Earth Observation,
+208,INS-2TD,"Feb 14, 2022",PSLV-C52/EOS-04 Mission,Experimental,
+209,INSPIREsat-1,"Feb 14, 2022",PSLV-C52/EOS-04 Mission,Student Satellite,
+210,PSLV-C52/EOS-04 Mission,"Feb 14, 2022",PSLV-XL,,
+211,GSAT-24,"Jun 23, 2022",Ariane-5 VA-257,GTO,Communication
+212,PSLV-C53/DS-EO Mission,"Jun 30, 2022",PSLV-CA,,
+213,SSLV-D1/EOS-02 Mission,"Aug 07, 2022",SSLV-D1,,

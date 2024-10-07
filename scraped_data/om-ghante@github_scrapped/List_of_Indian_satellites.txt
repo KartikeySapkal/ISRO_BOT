@@ -1,0 +1,138 @@
+id,name,decipiline,launch date,launch time,launch site,launch status
+1,Aryabhatta,"Earth Sciences, Space Physics",19-Apr-75,13:10:00 IST,Kapustin Yar,1
+2,Bhaskara Sega-I,"Astronomy, Communications, Engineering,Earth Sciences",07-Jun-79,16:00:00 IST,Kapustin Yar,1
+3,Rohini Technology Payload,Experimental,10-Aug-79,,"Satish Dhawan Space Centre,
+Sriharikota",0
+4,Rohini RS-1 (Rohini-1B),Earth Sciences,18-Jul-80,08:01:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+5,Rohini RS-D1 (Rohini-2),Earth Sciences,31-May-81,10:30:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+6,APPLE,Communications,19-Jun-81,18:02:59 IST,"Centre Spatial Guyanais, Kourou",1
+7,Bhaskara -II,"Engineering,Earth Sciences",20-Nov-81,14:08:00 IST,Kapustin Yar,1
+8,INSAT-1A,Communications,10-Apr-82,12:17:00 IST,"Air Force Eastern Test Range, Florida",1
+9,Rohini RS-D2 (Rohini-3),Earth Sciences,17-Apr-83,11:14:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+10,INSAT-1B,"Communications,Earth Sciences",01-Jun-83,13:19:00 IST,"Air Force Eastern Test Range, Florida",1
+11,SROSS-1,Experimental,24-Mar-87,,"Satish Dhawan Space Centre, Sriharikota",0
+12,IRS-1A,Earth Sciences,17-Mar-88,12:42:00 IST,"Baikonur Cosmodrome, Kazakhstan",1
+13,SROSS-2,"Astronomy,Space Physics",13-Jul-88,,"Satish Dhawan Space Centre, Sriharikota",0
+14,INSAT-1C,"Communications,Earth Sciences",22-Jul-88,04:42:00 IST,"Centre Spatial Guyanais, Kourou",1
+15,INSAT-1D,"Communications,Earth Sciences",12-Jun-90,11:22:00 IST,"Air Force Eastern Test Range, Florida",1
+16,IRS-1B,Earth Sciences,29-Aug-91,12:18:00 IST,"Baikonur Cosmodrome, Kazakhstan",1
+17,INSAT-2DT (Formerly ARABSAT-1C) (INSAT-2R),Communications,27-Feb-92,05:28:10 IST,"Centre Spatial Guyanais, Kourou",1
+18,SROSS-C (SROSS-3),"Astronomy,Earth Sciences,Space Physics",20-May-92,08:30:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+19,INSAT-2A,"Communications,Earth Sciences",10-Jul-92,04:12:19 IST,"Centre Spatial Guyanais, Kourou",1
+20,INSAT-2B,"Communications,Earth Sciences",23-Jul-93,04:29:00 IST,"Centre Spatial Guyanais, Kourou",1
+21,IRS-1E,Earth Sciences,20-Sep-93,,"Satish Dhawan Space Centre, Sriharikota",0
+22,SROSS-C2,"Astronomy,Space Physics",05-May-94,05:30:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+23,IRS-P2,Earth Sciences,15-Oct-94,10:38:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+24,INSAT-2C,Communications,07-Dec-95,04:53:00 IST,"Centre Spatial Guyanais, Kourou",1
+25,IRS-1C,Earth Sciences,28-Dec-95,12:15:00 IST,"Baikonur Cosmodrome, Kazakhstan",1
+26,IRS-P3 (IRS B3),"Astronomy,Earth Sciences",21-Mar-96,10:03:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+27,INSAT-2D,Communications,04-Jun-97,4:50:00 IST,"Centre Spatial Guyanais, Kourou",1
+28,IRS-1D,Earth Sciences,29-Sep-97,10:17:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+29,INSAT-2E (APR-1),"Communications,Earth Sciences",02-Apr-99,8:30:00 IST,"Centre Spatial Guyanais, Kourou",1
+30,OceanSat-1 (IRS-P4),Earth Sciences,26-May-99,11:52:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+31,INSAT-3B,Communications,22-Mar-00,4:59:00 IST,"Centre Spatial Guyanais, Kourou",1
+32,"GSAT-1
+(GramSat-1)","Communications,Engineering",18-Apr-01,15:43:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+33,TES,Earth Sciences,22-Oct-01,10:03:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+34,INSAT-3C,Communications,24-Jan-02,5:17:00 IST,"Centre Spatial Guyanais, Kourou",1
+35,Kalpana-1 (MetSat-1),Earth Sciences,12-Sep-02,IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+36,INSAT-3A,"Communications,Earth Sciences",10-Apr-03,4:22:00 IST,"Centre Spatial Guyanais, Kourou",1
+37,GSAT-2 (GramSat-2),Communications,08-May-03,16:58:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+38,INSAT-3E,Communications,28-Sep-03,4:44:00 IST,"Centre Spatial Guyanais, Kourou",1
+39,ResourceSat-1(IRS-P6),Earth Sciences,17-Oct-03,10:24:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+40,GSAT-3 (EduSat),Communications,20-Sep-04,16:01:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+41,CartoSat-1,Earth Sciences,05-May-05,10:14:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+42,HamSat,Communications,05-May-05,10:14:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+43,INSAT-4A,Communications,22-Dec-05,4:03:00 IST,"Centre Spatial Guyanais, Kourou",1
+44,INSAT-4C,Communications,38908,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",
+45,"CartoSat-2 (IRS-P7 or, CartoSat-2AT)",Earth Sciences,10-Jan-07,9:27:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+46,SRE-1,Engineering,10-Jan-07,9:27:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+47,INSAT-4B,Communications,12-Mar-07,3:33:00 IST,"Centre Spatial Guyanais, Kourou",1
+48,INSAT-4CR,Communications,02-Sep-07,18:21:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+49,CartoSat-2A,Earth Sciences,28-Apr-08,9:24:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+50,"IMS-1 (Indian Mini-Satellite-1 or,
+(Third World
+Satellite  TWSat)",Earth Sciences,28-Apr-08,9:24:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+51,Chandrayaan-1,Planetary Sciences,22-Oct-08,6:22:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+52,RISAT-2,Earth Sciences,20-Apr-09,6:45:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+53,AnuSat-1,Communications,20-Apr-09,6:45:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+54,OceanSat-2,Earth Sciences,23-Sep-09,11:51:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+55,GSAT-4,Communications,15-Apr-10,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",0
+56,CartoSat-2B,Earth Sciences,12-Jul-10,9:22:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+57,StudSat (STUDent SATellite),Earth Sciences,12-Jul-10,9:22:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+58,GSAT-5P (INSAT-4D),Communications,25-Dec-10,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",0
+59,ResourceSat-2,"Earth Sciences,Technology Applications",20-Apr-11,10:12:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+60,YouthSat (IMS-2),"Solar Physics,Space Physics",20-Apr-11,10:12:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+61,"GSAT-8 (GramSat-8, or INSAT-4G)",Communications,21-May-11,2:08:00 IST,"Centre Spatial Guyanais, Kourou",1
+62,GSAT-12 (GramSat-12),Communications,15-Jul-11,16:48:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+63,Megha-Tropiques,Meteorological,12-Oct-11,11:00:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+64,Jugnu,"Earth Sciences,Technology Applications",12-Oct-11,11:00:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+65,SRMSat,"Earth Sciences,Technology Applications",12-Oct-11,11:00:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+66,RISAT-1,Earth Sciences,26-Apr-12,5:47:00 IST,,1
+67,GSAT-10,Communications,28-Sep-12,2:48:00 IST,"Centre Spatial Guyanais, Kourou",1
+68,SARAL,Earth Sciences,25-Feb-13,18:01:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+69,IRNSS-1A,Navigation/Global Positioning,01-Jul-13,23:41:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+70,INSAT-3D,Earth Sciences,26-Jul-13,1:23:00 IST,"Centre Spatial Guyanais, Kourou",1
+71,GSAT-7 (INSAT-4F),Communications,30-Aug-13,2:00:00 IST,,1
+72,Mars Orbiter Mission (MOM) (Mangalyaan-1),Planetary Science,05-Nov-13,14:38:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+73,GSAT-14,Communications,05-Jan-14,16:18:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+74,IRNSS-1B,Navigation/Global Positioning,04-Apr-14,17:14:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+75,IRNSS-1C,Navigation/Global Positioning,16-Oct-14,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+76,GSAT-16,Communications,07-Dec-14,2:10:00 IST,"Centre Spatial Guyanais, Kourou",1
+77,IRNSS-1D,Navigation/Global Positioning,28-Mar-15,17:19:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+78,GSAT-6 (INSAT-4E),Communications,27-Aug-15,16:52:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+79,Astrosat,Space Sciences,28-Sep-15,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+80,GSAT-15,Communications,11-Nov-15,3:04:00 IST,"Centre Spatial Guyanais, Kourou",1
+81,IRNSS-1E,Navigation/Global Positioning,20-Jan-16,9:31:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+82,IRNSS-1F,Navigation/Global Positioning,10-Mar-16,16:01:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+83,IRNSS-1G,Navigation/Global Positioning,28-Apr-16,12:59 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+84,Cartosat-2C,Earth Sciences,22-Jun-16,9:26:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+85,SathyabamaSat,Technology Applications,22-Jun-16,9:26:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+86,Swayam-1,"Communications,Technology Applications",22-Jun-16,9:26:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+87,INSAT-3DR,Earth Sciences,08-Sep-16,16:40:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+88,Pratham,Technology Applications,26-Sep-16,9:12:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+89,PISat,Technology Applications,26-Sep-16,9:12:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+90,ScatSat-1,Earth Sciences,26-Sep-16,9:12:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+91,GSAT-18,Communications,06-Oct-16,2:00:00 IST,"Centre Spatial Guyanais, Kourou",1
+92,ResourceSat-2A,Earth Sciences,07-Dec-16,10:24:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+93,CartoSat-2D,Earth Sciences,15-Feb-17,9:28:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+94,INS-1A (ISRO Nano-Satellite 1A),Technology Applications,15-Feb-17,9:28:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+95,INS-1B (ISRO Nano-Satellite 1B),Technology Applications,15-Feb-17,9:28:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+96,South Asia Satellite (GSAT-9),Communications,05-May-17,16:57:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+97,GSAT-19 (GSAT-19E),Communications,05-Jun-17,5:28:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+98,NIUSat,Technology Applications,23-Jun-17,9:29:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+99,CartoSat-2E,Earth Sciences,23-Jun-17,9:29:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+100,GSAT-17,Communications,29-Jun-17,2:45:00 IST,"Centre Spatial Guyanais, Kourou",1
+101,IRNSS-1H,Navigation/Global Positioning,02-Sep-17,,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",0
+102,CartoSat-2F,Earth Sciences,12-Jan-18,9:29:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+103,MicroSat-TD,Technology Applications,12-Jan-18,9:29:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+104,INS-1C (ISRO Nano-Satellite 1C),Technology Applications,12-Jan-18,9:29:00 IST,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+105,GSAT-6A[367],Communications,29-Mar-18,16:56:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+106,IRNSS-1I,Navigation/Global Positioning,12-Apr-18,04:04:00,"Satish Dhawan Space Centre, Sriharikota",1
+107,GSAT-29,High-throughput Communication Satellite,01-Nov-18,11:38,"Satish Dhawan Space Centre, Sriharikota",1
+108,HySIS,Hyperspectral imaging satellite,29-Nov-18,04:27:30 UTC,"Satish Dhawan Space Centre, Sriharikota",1
+109,ExseedSat-1,Communications technology demonstrator,03-Dec-18,18:34:05 UTC,"Vandenberg Air Force Base, California",1
+110,GSAT-11,Communications satellite,05-Dec-18,18:16 UTC,"Centre Spatial Guyanais, Kourou",1
+111,GSAT-7A,Military satellite,19-Dec-18,10:40 UTC,"Satish Dhawan Space Centre, Sriharikota",1
+112,Microsat-R,Earth imaging for defense applications (details classified),23-Jan-19,19:37 IST,"Satish Dhawan Space Centre, Sriharikota",1
+113,PS4 Stage attached with KalamSAT-V2,Student satellite,23-Jan-19,19:37 IST,"Satish Dhawan Space Centre, Sriharikota",1
+114,GSAT-31,High-throughput Telecommunication Satellite,06-Feb-19,02:31 IST,"Centre Spatial Guyanais, Kourou",1
+115,EMISAT,Reconnaissance of electromagnetic spectrum (ELINT),01-Apr-19,09:27 IST,"Satish Dhawan Space Centre, Sriharikota",1
+116,"PS4 Stage attached with ExseedSat-2, AMSAT, ARIS and AIS payloads","Amateur radio applications, Ionospheric studies and Maritime applications respectively.",,,,1
+117,RISAT-2B,"Disaster management,Radar imaging",22-May-19,05:30:00 IST,,1
+118,Orbiter of Chandrayaan-2,Lunar exploration,22-Jul-19,09:13:12 UTC,"Satish Dhawan Space Centre, Sriharikota",1
+119,Cartosat-3,Earth observation,27-Nov-19,09:28:00 IST,"Satish Dhawan Space Centre, Sriharikota",1
+120,RISAT-2BR1,Radar imaging,11 December 2019 09:55 UTC,,,1
+121,GSAT-30,Communications,16-Jan-20,21:05 UTC,"Centre Spatial Guyanais, Kourou",1
+122,EOS-01 (RISAT-2BR2),Earth observation,07-Nov-20,09:42 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+123,CMS-01 (GSAT-12R),Communications,17-Dec-20,10:11 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+124,Sindhu Netra,Earth observation,28-Feb-21,03:54 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+125,Satish Dhawan Satellite (SDSat),Studying space radiations and magnetosphere,28-Feb-21,03:54 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+126,JITSat,Student satellite,28-Feb-21,03:54 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+127,GHRCESat,Student satellite,28-Feb-21,03:54 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+128,Sri Shakthi Sat,Student satellite,28-Feb-21,03:54 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+129,EOS-03 (GISAT-1),Earth observation,12-Aug-21,12:13 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",0
+130,EOS-04 (RISAT-1A),Earth observation,14-Feb-22,00:29 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+131,United States India Taiwan INSPIRESAT-1,Student cubesat,14-Feb-22,00:29 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+132,India  Bhutan INS-2TD,Experimental,14-Feb-22,00:29 UTC,"Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh",1
+133,CMS-02 (GSAT-24),Communications,22-Jun-22,21:03 UTC,"Centre Spatial Guyanais, Kourou",1
